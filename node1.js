@@ -37,6 +37,12 @@ const server=http.createServer((req,res)=>{
     }),
     res.end("<h1>Hello world</h1>");
 
+    const log=`${Date.now()}:new request received `
+    fs.appendFileSync("log.txt", log, (err) => {
+        if (err) throw err;
+        console.log("Data appended successfully");    
+    })
+
 })
 
 server.listen(3000,()=>{
