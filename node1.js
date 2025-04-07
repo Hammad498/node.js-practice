@@ -31,23 +31,23 @@ fs.appendFileSync("node1.txt", new Date().toString(), (err) => {
 const http=require('http');
 
 
-// const server=http.createServer((req,res)=>{
-//     res.writeHead(200,{
-//         "content-type":"text/html"
-//     }),
-//     res.end("<h1>Hello world</h1>");
+const server=http.createServer((req,res)=>{
+    res.writeHead(200,{
+        "content-type":"text/html"
+    }),
+    res.end("<h1>Hello world</h1>");
 
-//     const log=`${Date.now()}:new request received `
-//     fs.appendFileSync("log.txt", log, (err) => {
-//         if (err) throw err;
-//         console.log("Data appended successfully");    
-//     })
+    const log=`${Date.now()}:new request received `
+    fs.appendFileSync("log.txt", log, (err) => {
+        if (err) throw err;
+        console.log("Data appended successfully");    
+    })
 
-// })
+})
 
-// server.listen(3000,()=>{
-//     console.log("Server is running on port 3000");
-// })
+server.listen(3000,()=>{
+    console.log("Server is running on port 3000");
+})
 
 /////////////////////////
 
@@ -160,7 +160,7 @@ const http=require('http');
 ///stream////
 
 
-const server=http.createServer((req,res)=>{
+// const server=http.createServer((req,res)=>{
     // res.end("<h1>Hello world</h1>");
 
 
@@ -184,46 +184,75 @@ const server=http.createServer((req,res)=>{
     //     writestream.write(chunk);
         
     //  })
-})
+// })
 
 
 
-server.listen(3000,()=>{
-    console.log("Server is running on port 3000");
-})
+// server.listen(3000,()=>{
+//     console.log("Server is running on port 3000");
+// })
 
 
 /////////////////custom streams///////////
-const {Readable,Writable,Transform}=require('stream');
+// const {Readable,Writable,Transform}=require('stream');
 
-const readstreamm=fs.createReadStream("sample.txt");
-const writestream=fs.createWriteStream("output.txt");
-const transform=new Transform({
-    transform(chunk,encoding,callback){
-        const modeified=chunk.toString().toUpperCase();
-        callback(null,modeified);
-    }
-})
+// const readstreamm=fs.createReadStream("sample.txt");
+// const writestream=fs.createWriteStream("output.txt");
+// const transform=new Transform({
+//     transform(chunk,encoding,callback){
+//         const modeified=chunk.toString().toUpperCase();
+//         callback(null,modeified);
+//     }
+// })
 
-readstreamm.pipe(transform).pipe(writestream);
+// readstreamm.pipe(transform).pipe(writestream);
 
 
-const readable=new Readable({
-    highWaterMark:2,
-    read() {
-    }
-})
+// const readable=new Readable({
+//     highWaterMark:2,
+//     read() {
+//     }
+// })
 
-const writable=new Writable({
-    write(streamdata){
-        console.log("new data received",streamdata.toString());
+// const writable=new Writable({
+//     write(streamdata){
+//         console.log("new data received",streamdata.toString());
         
-    }
-})
+//     }
+// })
 
-readable.on("data",(chunk)=>{
-    console.log("new chunk received",chunk.toString());
-    writable.write(chunk);
-})
+// readable.on("data",(chunk)=>{
+//     console.log("new chunk received",chunk.toString());
+//     writable.write(chunk);
+// })
 
-readable.push("hello")
+// readable.push("hello")
+
+
+//////////////////////////////////////
+
+////os.platform(),os.userinfo(),os.cpus(),os.arch(),os.freemem(),os.totalmem(),
+// os.uptime(),os.hostname(),os.networkInterfaces(),os.tmpdir(),os.homedir(),os.type(),os.release()
+
+
+
+
+//////////////////
+
+const crypto=require('crypto');
+
+
+const b=crypto.randomBytes(8).toString('hex');
+console.log(b);
+
+const hash=crypto.createHash('sha256').update('hello world').digest('hex');
+const inputvalue="hell0 world";
+const matchvalue=crypto.createHash('sha256').update(inputvalue).digest('hex')
+
+if(hash===matchvalue){
+    console.log("hash matched")
+}
+else{
+    console.log("hash not matched")
+}
+console.log(hash);
