@@ -153,3 +153,8 @@ const cc=setInterval(()=>{
 // eventEmitter.emit('PURCHASE',"john",1);
 // eventEmitter.emit('UPDATEPROFILE',"john","email");
 // eventEmitter.emit('summary');
+
+
+
+////////////////////////////////////////////////////////////////////////
+
