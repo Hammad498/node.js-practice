@@ -68,3 +68,17 @@ const cc=setInterval(()=>{
 
 ///////////////////////////
 /////
+///path.join,path.resolve,path.parse,path.extname,path.basename,path.dirname
+///////
+////events--> EventEmitter ...for this make a consgructor function,  ..... on & emit methods
+//on(eventname,Listener)....create
+//emit(eventname,[args])....execuute
+
+const emitter=require('events');
+const eventEmitter=new emitter();
+
+eventEmitter.on('e1', () => {
+    console.log("Event 1 triggered");
+});
+
+eventEmitter.emit('e1');
