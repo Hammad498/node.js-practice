@@ -1,0 +1,6 @@
+{
+  "LOGIN": 105,
+  "LOGOUT": 104,
+  "PURCHASE": 104,
+  "UPDATEPROFILE": 104
+}
