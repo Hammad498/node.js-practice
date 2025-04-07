@@ -193,8 +193,20 @@ server.listen(3000,()=>{
 })
 
 
-/////////////////
-const {Readable,Writable}=require('stream');
+/////////////////custom streams///////////
+const {Readable,Writable,Transform}=require('stream');
+
+const readstreamm=fs.createReadStream("sample.txt");
+const writestream=fs.createWriteStream("output.txt");
+const transform=new Transform({
+    transform(chunk,encoding,callback){
+        const modeified=chunk.toString().toUpperCase();
+        callback(null,modeified);
+    }
+})
+
+readstreamm.pipe(transform).pipe(writestream);
+
 
 const readable=new Readable({
     highWaterMark:2,

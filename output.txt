@@ -1,349 +1,349 @@
-Blog
+BLOG
 
-Article
-Talk
-Read
-View source
-View history
+ARTICLE
+TALK
+READ
+VIEW SOURCE
+VIEW HISTORY
 
-Tools
-Appearance hide
-Text
+TOOLS
+APPEARANCE HIDE
+TEXT
 
-Small
+SMALL
 
-Standard
+STANDARD
 
-Large
-Width
+LARGE
+WIDTH
 
-Standard
+STANDARD
 
-Wide
-Color (beta)
+WIDE
+COLOR (BETA)
 
-Automatic
+AUTOMATIC
 
-Light
+LIGHT
 
-Dark
-Page semi-protected
-From Wikipedia, the free encyclopedia
-"Blogger" redirects here. For the Google service, see Blogger (service). For other uses, see Blog (disambiguation).
-Journalism
+DARK
+PAGE SEMI-PROTECTED
+FROM WIKIPEDIA, THE FREE ENCYCLOPEDIA
+"BLOGGER" REDIRECTS HERE. FOR THE GOOGLE SERVICE, SEE BLOGGER (SERVICE). FOR OTHER USES, SEE BLOG (DISAMBIGUATION).
+JOURNALISM
 
-NewsWriting style (Five Ws)Ethics and standards (code of ethics)CultureObjectivityNews valuesAttributionDefamationSensationalismEditorial independenceJournalism schoolIndex of journalism articles
-Areas
-ArtsBusinessDataEntertainmentEnvironmentFashionLocalMedicineMusicPoliticsScienceSportsTechnologyTrafficVideo gamesWarWeatherWorld
-Genres
-AdversarialAdvocacy (Interventionism)AnalyticBloggingBroadcastChurnalismCitizenCivicCollaborativeComics-basedCommunityDataDatabaseDigital/OnlineExplanatoryFact-checkingGonzoHuman-interestImmersionInterpretiveInvestigativeMultimediaNarrativeNew JournalismNon-profitOpinionPeacePhotojournalismPress releaseSensorTabloidUndergroundVideoVisualWatchdog
-Social impact
-Fake newsFourth EstateFifth EstateFreedom of the pressInfotainmentHorse race journalismMedia bias (False balance)News desertPink-slime journalismPublic relationsPropaganda modelYellow journalism
-News media
-Newspapers (Newspaper of record)MagazinesTV and radioInternetNews agenciesAlternative media
-Roles
-Journalists (reporters)ColumnistBloggerEditorCopy editorMeteorologistNews presenterPhotographerPundit / commentator
- Journalism portal
-Category: Journalism
-vte
-Internet
-Visualization of Internet routing paths
-An Opte Project visualization of routing paths through a portion of the Internet
-General
-AccessActivismCensorshipData activismDemocracyDigital divideDigital rightsFreedomFreedom of informationInternet phenomenaNet neutralityPrivacyRight to Internet accessSlacktivismSociologyUsageVigilantismVirtual communityVirtual volunteering
-Governance
+NEWSWRITING STYLE (FIVE WS)ETHICS AND STANDARDS (CODE OF ETHICS)CULTUREOBJECTIVITYNEWS VALUESATTRIBUTIONDEFAMATIONSENSATIONALISMEDITORIAL INDEPENDENCEJOURNALISM SCHOOLINDEX OF JOURNALISM ARTICLES
+AREAS
+ARTSBUSINESSDATAENTERTAINMENTENVIRONMENTFASHIONLOCALMEDICINEMUSICPOLITICSSCIENCESPORTSTECHNOLOGYTRAFFICVIDEO GAMESWARWEATHERWORLD
+GENRES
+ADVERSARIALADVOCACY (INTERVENTIONISM)ANALYTICBLOGGINGBROADCASTCHURNALISMCITIZENCIVICCOLLABORATIVECOMICS-BASEDCOMMUNITYDATADATABASEDIGITAL/ONLINEEXPLANATORYFACT-CHECKINGGONZOHUMAN-INTERESTIMMERSIONINTERPRETIVEINVESTIGATIVEMULTIMEDIANARRATIVENEW JOURNALISMNON-PROFITOPINIONPEACEPHOTOJOURNALISMPRESS RELEASESENSORTABLOIDUNDERGROUNDVIDEOVISUALWATCHDOG
+SOCIAL IMPACT
+FAKE NEWSFOURTH ESTATEFIFTH ESTATEFREEDOM OF THE PRESSINFOTAINMENTHORSE RACE JOURNALISMMEDIA BIAS (FALSE BALANCE)NEWS DESERTPINK-SLIME JOURNALISMPUBLIC RELATIONSPROPAGANDA MODELYELLOW JOURNALISM
+NEWS MEDIA
+NEWSPAPERS (NEWSPAPER OF RECORD)MAGAZINESTV AND RADIOINTERNETNEWS AGENCIESALTERNATIVE MEDIA
+ROLES
+JOURNALISTS (REPORTERS)COLUMNISTBLOGGEREDITORCOPY EDITORMETEOROLOGISTNEWS PRESENTERPHOTOGRAPHERPUNDIT / COMMENTATOR
+ JOURNALISM PORTAL
+CATEGORY: JOURNALISM
+VTE
+INTERNET
+VISUALIZATION OF INTERNET ROUTING PATHS
+AN OPTE PROJECT VISUALIZATION OF ROUTING PATHS THROUGH A PORTION OF THE INTERNET
+GENERAL
+ACCESSACTIVISMCENSORSHIPDATA ACTIVISMDEMOCRACYDIGITAL DIVIDEDIGITAL RIGHTSFREEDOMFREEDOM OF INFORMATIONINTERNET PHENOMENANET NEUTRALITYPRIVACYRIGHT TO INTERNET ACCESSSLACKTIVISMSOCIOLOGYUSAGEVIGILANTISMVIRTUAL COMMUNITYVIRTUAL VOLUNTEERING
+GOVERNANCE
 IGFNROIANAICANNIETFISOC
-Information infrastructure
-Domain Name SystemHypertext Transfer ProtocolInternet exchange pointInternet protocol suite Internet ProtocolTransmission Control ProtocolInternet service providerIP addressInternet Message Access ProtocolSimple Mail Transfer Protocol
-Services
-Blogs MicrobloggingEmailFaxFile sharingFile transferGamesInstant messagingPodcastsShoppingTelevisionVoice over IPWorld Wide Web search
-History
-History of the InternetOldest domain namesPioneersProtocol Wars
-Guides
- IndexOutline
-icon Internet portal
-vte
-Part of a series on
-Internet hosting service
-Full-featured hosting
-Virtual private serverDedicated hostingColocation centreCloud computingPeer-to-peer
-Web hosting
-SharedClustered
-Application-specific web hosting
-Blog (comments)Guild hosting serviceImageVideoWiki farmsApplicationSocial network
-By content format
-FileImageVideoMusic
-Other types
-Remote backupGame serverHome serverDNSEmail
-vte
-A blog (a truncation of "weblog")[1] is an informational website consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page. In the 2000s, blogs were often the work of a single individual, occasionally of a small group, and often covered a single subject or topic. In the 2010s, "multi-author blogs" (MABs) emerged, featuring the writing of multiple authors and sometimes professionally edited. MABs from newspapers, other media outlets, universities, think tanks, advocacy groups, and similar institutions account for an increasing quantity of blog traffic. The rise of Twitter and other "microblogging" systems helps integrate MABs and single-author blogs into the news media. Blog can also be used as a verb, meaning to maintain or add content to a blog.
+INFORMATION INFRASTRUCTURE
+DOMAIN NAME SYSTEMHYPERTEXT TRANSFER PROTOCOLINTERNET EXCHANGE POINTINTERNET PROTOCOL SUITE INTERNET PROTOCOLTRANSMISSION CONTROL PROTOCOLINTERNET SERVICE PROVIDERIP ADDRESSINTERNET MESSAGE ACCESS PROTOCOLSIMPLE MAIL TRANSFER PROTOCOL
+SERVICES
+BLOGS MICROBLOGGINGEMAILFAXFILE SHARINGFILE TRANSFERGAMESINSTANT MESSAGINGPODCASTSSHOPPINGTELEVISIONVOICE OVER IPWORLD WIDE WEB SEARCH
+HISTORY
+HISTORY OF THE INTERNETOLDEST DOMAIN NAMESPIONEERSPROTOCOL WARS
+GUIDES
+ INDEXOUTLINE
+ICON INTERNET PORTAL
+VTE
+PART OF A SERIES ON
+INTERNET HOSTING SERVICE
+FULL-FEATURED HOSTING
+VIRTUAL PRIVATE SERVERDEDICATED HOSTINGCOLOCATION CENTRECLOUD COMPUTINGPEER-TO-PEER
+WEB HOSTING
+SHAREDCLUSTERED
+APPLICATION-SPECIFIC WEB HOSTING
+BLOG (COMMENTS)GUILD HOSTING SERVICEIMAGEVIDEOWIKI FARMSAPPLICATIONSOCIAL NETWORK
+BY CONTENT FORMAT
+FILEIMAGEVIDEOMUSIC
+OTHER TYPES
+REMOTE BACKUPGAME SERVERHOME SERVERDNSEMAIL
+VTE
+A BLOG (A TRUNCATION OF "WEBLOG")[1] IS AN INFORMATIONAL WEBSITE CONSISTING OF DISCRETE, OFTEN INFORMAL DIARY-STYLE TEXT ENTRIES (POSTS). POSTS ARE TYPICALLY DISPLAYED IN REVERSE CHRONOLOGICAL ORDER SO THAT THE MOST RECENT POST APPEARS FIRST, AT THE TOP OF THE WEB PAGE. IN THE 2000S, BLOGS WERE OFTEN THE WORK OF A SINGLE INDIVIDUAL, OCCASIONALLY OF A SMALL GROUP, AND OFTEN COVERED A SINGLE SUBJECT OR TOPIC. IN THE 2010S, "MULTI-AUTHOR BLOGS" (MABS) EMERGED, FEATURING THE WRITING OF MULTIPLE AUTHORS AND SOMETIMES PROFESSIONALLY EDITED. MABS FROM NEWSPAPERS, OTHER MEDIA OUTLETS, UNIVERSITIES, THINK TANKS, ADVOCACY GROUPS, AND SIMILAR INSTITUTIONS ACCOUNT FOR AN INCREASING QUANTITY OF BLOG TRAFFIC. THE RISE OF TWITTER AND OTHER "MICROBLOGGING" SYSTEMS HELPS INTEGRATE MABS AND SINGLE-AUTHOR BLOGS INTO THE NEWS MEDIA. BLOG CAN ALSO BE USED AS A VERB, MEANING TO MAINTAIN OR ADD CONTENT TO A BLOG.
 
-The emergence and growth of blogs in the late 1990s coincided with the advent of web publishing tools that facilitated the posting of content by non-technical users who did not have much experience with HTML or computer programming. Previously, knowledge of such technologies as HTML and File Transfer Protocol had been required to publish content on the Web, and early Web users therefore tended to be hackers and computer enthusiasts. As of the 2010s, the majority are interactive Web 2.0 websites, allowing visitors to leave online comments, and it is this interactivity that distinguishes them from other static websites.[2] In that sense, blogging can be seen as a form of social networking service. Indeed, bloggers not only produce content to post on their blogs but also often build social relations with their readers and other bloggers.[3] Blog owners or authors often moderate and filter online comments to remove hate speech or other offensive content. There are also high-readership blogs which do not allow comments.
+THE EMERGENCE AND GROWTH OF BLOGS IN THE LATE 1990S COINCIDED WITH THE ADVENT OF WEB PUBLISHING TOOLS THAT FACILITATED THE POSTING OF CONTENT BY NON-TECHNICAL USERS WHO DID NOT HAVE MUCH EXPERIENCE WITH HTML OR COMPUTER PROGRAMMING. PREVIOUSLY, KNOWLEDGE OF SUCH TECHNOLOGIES AS HTML AND FILE TRANSFER PROTOCOL HAD BEEN REQUIRED TO PUBLISH CONTENT ON THE WEB, AND EARLY WEB USERS THEREFORE TENDED TO BE HACKERS AND COMPUTER ENTHUSIASTS. AS OF THE 2010S, THE MAJORITY ARE INTERACTIVE WEB 2.0 WEBSITES, ALLOWING VISITORS TO LEAVE ONLINE COMMENTS, AND IT IS THIS INTERACTIVITY THAT DISTINGUISHES THEM FROM OTHER STATIC WEBSITES.[2] IN THAT SENSE, BLOGGING CAN BE SEEN AS A FORM OF SOCIAL NETWORKING SERVICE. INDEED, BLOGGERS NOT ONLY PRODUCE CONTENT TO POST ON THEIR BLOGS BUT ALSO OFTEN BUILD SOCIAL RELATIONS WITH THEIR READERS AND OTHER BLOGGERS.[3] BLOG OWNERS OR AUTHORS OFTEN MODERATE AND FILTER ONLINE COMMENTS TO REMOVE HATE SPEECH OR OTHER OFFENSIVE CONTENT. THERE ARE ALSO HIGH-READERSHIP BLOGS WHICH DO NOT ALLOW COMMENTS.
 
-Many blogs provide commentary on a particular subject or topic, ranging from philosophy, religion, and arts to science, politics, and sports. Others function as more personal online diaries or online brand advertising of a particular individual or company. A typical blog combines text, digital images, and links to other blogs, web pages, and other media related to its topic. Most blogs are primarily textual, although some focus on art (art blogs), photographs (photoblogs), videos (video blogs or vlogs), music (MP3 blogs), and audio (podcasts). In education, blogs can be used as instructional resources; these are referred to as edublogs. Microblogging is another type of blogging, featuring very short posts.
+MANY BLOGS PROVIDE COMMENTARY ON A PARTICULAR SUBJECT OR TOPIC, RANGING FROM PHILOSOPHY, RELIGION, AND ARTS TO SCIENCE, POLITICS, AND SPORTS. OTHERS FUNCTION AS MORE PERSONAL ONLINE DIARIES OR ONLINE BRAND ADVERTISING OF A PARTICULAR INDIVIDUAL OR COMPANY. A TYPICAL BLOG COMBINES TEXT, DIGITAL IMAGES, AND LINKS TO OTHER BLOGS, WEB PAGES, AND OTHER MEDIA RELATED TO ITS TOPIC. MOST BLOGS ARE PRIMARILY TEXTUAL, ALTHOUGH SOME FOCUS ON ART (ART BLOGS), PHOTOGRAPHS (PHOTOBLOGS), VIDEOS (VIDEO BLOGS OR VLOGS), MUSIC (MP3 BLOGS), AND AUDIO (PODCASTS). IN EDUCATION, BLOGS CAN BE USED AS INSTRUCTIONAL RESOURCES; THESE ARE REFERRED TO AS EDUBLOGS. MICROBLOGGING IS ANOTHER TYPE OF BLOGGING, FEATURING VERY SHORT POSTS.
 
-Blog and blogging are now loosely used for content creation and sharing on social media, especially when the content is long-form and one creates and shares content on a regular basis, so one could be maintaining a blog on Facebook or blogging on Instagram. A 2022 estimate suggested that there were over 600 million public blogs out of more than 1.9 billion websites.[4]
+BLOG AND BLOGGING ARE NOW LOOSELY USED FOR CONTENT CREATION AND SHARING ON SOCIAL MEDIA, ESPECIALLY WHEN THE CONTENT IS LONG-FORM AND ONE CREATES AND SHARES CONTENT ON A REGULAR BASIS, SO ONE COULD BE MAINTAINING A BLOG ON FACEBOOK OR BLOGGING ON INSTAGRAM. A 2022 ESTIMATE SUGGESTED THAT THERE WERE OVER 600 MILLION PUBLIC BLOGS OUT OF MORE THAN 1.9 BILLION WEBSITES.[4]
 
-History
-Main articles: History of blogging and online diary
+HISTORY
+MAIN ARTICLES: HISTORY OF BLOGGING AND ONLINE DIARY
 
-An early example of a "diary" style blog consisting of text and images transmitted wirelessly in real-time from a wearable computer with head-up display, February 22, 1995
-The term "weblog" was coined by Jorn Barger[5] on December 17, 1997. The short form "blog" was coined by Peter Merholz, who jokingly broke the word weblog into the phrase we blog in the sidebar of his blog Peterme.com in May 1999.[6][7][8] Shortly thereafter, Evan Williams at Pyra Labs used "blog" as both a noun and verb ("to blog", meaning "to edit one's weblog or to post to one's weblog") and devised the term "blogger" in connection with Pyra Labs' Blogger product, leading to the popularization of the terms.[9]
+AN EARLY EXAMPLE OF A "DIARY" STYLE BLOG CONSISTING OF TEXT AND IMAGES TRANSMITTED WIRELESSLY IN REAL-TIME FROM A WEARABLE COMPUTER WITH HEAD-UP DISPLAY, FEBRUARY 22, 1995
+THE TERM "WEBLOG" WAS COINED BY JORN BARGER[5] ON DECEMBER 17, 1997. THE SHORT FORM "BLOG" WAS COINED BY PETER MERHOLZ, WHO JOKINGLY BROKE THE WORD WEBLOG INTO THE PHRASE WE BLOG IN THE SIDEBAR OF HIS BLOG PETERME.COM IN MAY 1999.[6][7][8] SHORTLY THEREAFTER, EVAN WILLIAMS AT PYRA LABS USED "BLOG" AS BOTH A NOUN AND VERB ("TO BLOG", MEANING "TO EDIT ONE'S WEBLOG OR TO POST TO ONE'S WEBLOG") AND DEVISED THE TERM "BLOGGER" IN CONNECTION WITH PYRA LABS' BLOGGER PRODUCT, LEADING TO THE POPULARIZATION OF THE TERMS.[9]
 
-Origins
-Before blogging became popular, digital communities took many forms, including Usenet, commercial online services such as GEnie, Byte Information Exchange (BIX) and the early CompuServe, e-mail lists,[10] and bulletin board systems (BBS). In the 1990s, Internet forum software created running conversations with "threads". Threads are topical connections between messages on a virtual "corkboard".[further explanation needed]
+ORIGINS
+BEFORE BLOGGING BECAME POPULAR, DIGITAL COMMUNITIES TOOK MANY FORMS, INCLUDING USENET, COMMERCIAL ONLINE SERVICES SUCH AS GENIE, BYTE INFORMATION EXCHANGE (BIX) AND THE EARLY COMPUSERVE, E-MAIL LISTS,[10] AND BULLETIN BOARD SYSTEMS (BBS). IN THE 1990S, INTERNET FORUM SOFTWARE CREATED RUNNING CONVERSATIONS WITH "THREADS". THREADS ARE TOPICAL CONNECTIONS BETWEEN MESSAGES ON A VIRTUAL "CORKBOARD".[FURTHER EXPLANATION NEEDED]
 
-Berners-Lee also created what is considered by Encyclopedia Britannica to be "the first 'blog'" in 1992 to discuss the progress made on creating the World Wide Web and software used for it.[11]
+BERNERS-LEE ALSO CREATED WHAT IS CONSIDERED BY ENCYCLOPEDIA BRITANNICA TO BE "THE FIRST 'BLOG'" IN 1992 TO DISCUSS THE PROGRESS MADE ON CREATING THE WORLD WIDE WEB AND SOFTWARE USED FOR IT.[11]
 
-From June 14, 1993, Mosaic Communications Corporation maintained their "What's New"[12] list of new websites, updated daily and archived monthly. The page was accessible by a special "What's New" button in the Mosaic web browser.
+FROM JUNE 14, 1993, MOSAIC COMMUNICATIONS CORPORATION MAINTAINED THEIR "WHAT'S NEW"[12] LIST OF NEW WEBSITES, UPDATED DAILY AND ARCHIVED MONTHLY. THE PAGE WAS ACCESSIBLE BY A SPECIAL "WHAT'S NEW" BUTTON IN THE MOSAIC WEB BROWSER.
 
-In November 1993 Ranjit Bhatnagar started writing about interesting sites, pages and discussion groups he found on the internet, as well as some personal information, on his website Moonmilk, arranging them chronologically in a special section called Ranjit's HTTP Playground.[13] Other early pioneers of blogging, such as Justin Hall, credit him with being an inspiration.[14]
+IN NOVEMBER 1993 RANJIT BHATNAGAR STARTED WRITING ABOUT INTERESTING SITES, PAGES AND DISCUSSION GROUPS HE FOUND ON THE INTERNET, AS WELL AS SOME PERSONAL INFORMATION, ON HIS WEBSITE MOONMILK, ARRANGING THEM CHRONOLOGICALLY IN A SPECIAL SECTION CALLED RANJIT'S HTTP PLAYGROUND.[13] OTHER EARLY PIONEERS OF BLOGGING, SUCH AS JUSTIN HALL, CREDIT HIM WITH BEING AN INSPIRATION.[14]
 
-The earliest instance of a commercial blog was on the first business to consumer Web site created in 1995 by Ty, Inc., which featured a blog in a section called "Online Diary". The entries were maintained by featured Beanie Babies that were voted for monthly by Web site visitors.[15]
+THE EARLIEST INSTANCE OF A COMMERCIAL BLOG WAS ON THE FIRST BUSINESS TO CONSUMER WEB SITE CREATED IN 1995 BY TY, INC., WHICH FEATURED A BLOG IN A SECTION CALLED "ONLINE DIARY". THE ENTRIES WERE MAINTAINED BY FEATURED BEANIE BABIES THAT WERE VOTED FOR MONTHLY BY WEB SITE VISITORS.[15]
 
-The modern blog evolved from the online diary where people would keep a running account of the events in their personal lives. Most such writers called themselves diarists, journalists, or journalers. Justin Hall, who began personal blogging in 1994 while a student at Swarthmore College, is generally recognized as one of the earlier bloggers,[16] as is Jerry Pournelle.[17] Dave Winer's Scripting News is also credited with being one of the older and longer running weblogs.[18][19] The Australian Netguide magazine maintained the Daily Net News[20] on their web site from 1996. Daily Net News ran links and daily reviews of new websites, mostly in Australia.
+THE MODERN BLOG EVOLVED FROM THE ONLINE DIARY WHERE PEOPLE WOULD KEEP A RUNNING ACCOUNT OF THE EVENTS IN THEIR PERSONAL LIVES. MOST SUCH WRITERS CALLED THEMSELVES DIARISTS, JOURNALISTS, OR JOURNALERS. JUSTIN HALL, WHO BEGAN PERSONAL BLOGGING IN 1994 WHILE A STUDENT AT SWARTHMORE COLLEGE, IS GENERALLY RECOGNIZED AS ONE OF THE EARLIER BLOGGERS,[16] AS IS JERRY POURNELLE.[17] DAVE WINER'S SCRIPTING NEWS IS ALSO CREDITED WITH BEING ONE OF THE OLDER AND LONGER RUNNING WEBLOGS.[18][19] THE AUSTRALIAN NETGUIDE MAGAZINE MAINTAINED THE DAILY NET NEWS[20] ON THEIR WEB SITE FROM 1996. DAILY NET NEWS RAN LINKS AND DAILY REVIEWS OF NEW WEBSITES, MOSTLY IN AUSTRALIA.
 
-Another early blog was Wearable Wireless Webcam, an online shared diary of a person's personal life combining text, digital video, and digital pictures transmitted live from a wearable computer and EyeTap device to a web site in 1994. This practice of semi-automated blogging with live video together with text was referred to as sousveillance, and such journals were also used as evidence in legal matters. Some early bloggers, such as The Misanthropic Bitch, who began in 1997, referred to their online presence as a zine, before the term blog entered common usage.
+ANOTHER EARLY BLOG WAS WEARABLE WIRELESS WEBCAM, AN ONLINE SHARED DIARY OF A PERSON'S PERSONAL LIFE COMBINING TEXT, DIGITAL VIDEO, AND DIGITAL PICTURES TRANSMITTED LIVE FROM A WEARABLE COMPUTER AND EYETAP DEVICE TO A WEB SITE IN 1994. THIS PRACTICE OF SEMI-AUTOMATED BLOGGING WITH LIVE VIDEO TOGETHER WITH TEXT WAS REFERRED TO AS SOUSVEILLANCE, AND SUCH JOURNALS WERE ALSO USED AS EVIDENCE IN LEGAL MATTERS. SOME EARLY BLOGGERS, SUCH AS THE MISANTHROPIC BITCH, WHO BEGAN IN 1997, REFERRED TO THEIR ONLINE PRESENCE AS A ZINE, BEFORE THE TERM BLOG ENTERED COMMON USAGE.
 
-The first research paper about blogging was Torill Mortensen and Jill Walker Rettberg's paper "Blogging Thoughts",[21] which analysed how blogs were being used to foster research communities and the exchange of ideas and scholarship, and how this new means of networking overturns traditional power structures.
+THE FIRST RESEARCH PAPER ABOUT BLOGGING WAS TORILL MORTENSEN AND JILL WALKER RETTBERG'S PAPER "BLOGGING THOUGHTS",[21] WHICH ANALYSED HOW BLOGS WERE BEING USED TO FOSTER RESEARCH COMMUNITIES AND THE EXCHANGE OF IDEAS AND SCHOLARSHIP, AND HOW THIS NEW MEANS OF NETWORKING OVERTURNS TRADITIONAL POWER STRUCTURES.
 
-Technology
-Early blogs were simply manually updated components of common Websites. In 1995, the "Online Diary" on the Ty, Inc. Web site was produced and updated manually before any blogging programs were available. Posts were made to appear in reverse chronological order by manually updating text-based HTML code using FTP software in real time several times a day. To users, this offered the appearance of a live diary that contained multiple new entries per day. At the beginning of each new day, new diary entries were manually coded into a new HTML file, and at the start of each month, diary entries were archived into their own folder, which contained a separate HTML page for every day of the month. Then, menus that contained links to the most recent diary entry were updated manually throughout the site. This text-based method of organizing thousands of files served as a springboard to define future blogging styles that were captured by blogging software developed years later.[15]
+TECHNOLOGY
+EARLY BLOGS WERE SIMPLY MANUALLY UPDATED COMPONENTS OF COMMON WEBSITES. IN 1995, THE "ONLINE DIARY" ON THE TY, INC. WEB SITE WAS PRODUCED AND UPDATED MANUALLY BEFORE ANY BLOGGING PROGRAMS WERE AVAILABLE. POSTS WERE MADE TO APPEAR IN REVERSE CHRONOLOGICAL ORDER BY MANUALLY UPDATING TEXT-BASED HTML CODE USING FTP SOFTWARE IN REAL TIME SEVERAL TIMES A DAY. TO USERS, THIS OFFERED THE APPEARANCE OF A LIVE DIARY THAT CONTAINED MULTIPLE NEW ENTRIES PER DAY. AT THE BEGINNING OF EACH NEW DAY, NEW DIARY ENTRIES WERE MANUALLY CODED INTO A NEW HTML FILE, AND AT THE START OF EACH MONTH, DIARY ENTRIES WERE ARCHIVED INTO THEIR OWN FOLDER, WHICH CONTAINED A SEPARATE HTML PAGE FOR EVERY DAY OF THE MONTH. THEN, MENUS THAT CONTAINED LINKS TO THE MOST RECENT DIARY ENTRY WERE UPDATED MANUALLY THROUGHOUT THE SITE. THIS TEXT-BASED METHOD OF ORGANIZING THOUSANDS OF FILES SERVED AS A SPRINGBOARD TO DEFINE FUTURE BLOGGING STYLES THAT WERE CAPTURED BY BLOGGING SOFTWARE DEVELOPED YEARS LATER.[15]
 
-The evolution of electronic and software tools to facilitate the production and maintenance of Web articles posted in reverse chronological order made the publishing process feasible for a much larger and less technically-inclined population. Ultimately, this resulted in the distinct class of online publishing that produces blogs we recognize today. For instance, the use of some sort of browser-based software is now a typical aspect of "blogging". Blogs can be hosted by dedicated blog hosting services, on regular web hosting services, or run using blog software.
+THE EVOLUTION OF ELECTRONIC AND SOFTWARE TOOLS TO FACILITATE THE PRODUCTION AND MAINTENANCE OF WEB ARTICLES POSTED IN REVERSE CHRONOLOGICAL ORDER MADE THE PUBLISHING PROCESS FEASIBLE FOR A MUCH LARGER AND LESS TECHNICALLY-INCLINED POPULATION. ULTIMATELY, THIS RESULTED IN THE DISTINCT CLASS OF ONLINE PUBLISHING THAT PRODUCES BLOGS WE RECOGNIZE TODAY. FOR INSTANCE, THE USE OF SOME SORT OF BROWSER-BASED SOFTWARE IS NOW A TYPICAL ASPECT OF "BLOGGING". BLOGS CAN BE HOSTED BY DEDICATED BLOG HOSTING SERVICES, ON REGULAR WEB HOSTING SERVICES, OR RUN USING BLOG SOFTWARE.
 
-Rise in popularity
-After a slow start, blogging rapidly gained in popularity. Blog usage spread during 1999 and the years following, being further popularized by the near-simultaneous arrival of the first hosted blog tools:
+RISE IN POPULARITY
+AFTER A SLOW START, BLOGGING RAPIDLY GAINED IN POPULARITY. BLOG USAGE SPREAD DURING 1999 AND THE YEARS FOLLOWING, BEING FURTHER POPULARIZED BY THE NEAR-SIMULTANEOUS ARRIVAL OF THE FIRST HOSTED BLOG TOOLS:
 
-Bruce Ableson launched Open Diary in October 1998, which soon grew to thousands of online diaries. Open Diary innovated the reader comment, becoming the first blog community where readers could add comments to other writers' blog entries.
-Brad Fitzpatrick started LiveJournal in March 1999.
-Andrew Smales created Pitas.com in July 1999 as an easier alternative to maintaining a "news page" on a Web site, followed by DiaryLand in September 1999, focusing more on a personal diary community.[22]
-Blogger (blogspot.com) was launched in 1999[23]
-Political impact
+BRUCE ABLESON LAUNCHED OPEN DIARY IN OCTOBER 1998, WHICH SOON GREW TO THOUSANDS OF ONLINE DIARIES. OPEN DIARY INNOVATED THE READER COMMENT, BECOMING THE FIRST BLOG COMMUNITY WHERE READERS COULD ADD COMMENTS TO OTHER WRITERS' BLOG ENTRIES.
+BRAD FITZPATRICK STARTED LIVEJOURNAL IN MARCH 1999.
+ANDREW SMALES CREATED PITAS.COM IN JULY 1999 AS AN EASIER ALTERNATIVE TO MAINTAINING A "NEWS PAGE" ON A WEB SITE, FOLLOWED BY DIARYLAND IN SEPTEMBER 1999, FOCUSING MORE ON A PERSONAL DIARY COMMUNITY.[22]
+BLOGGER (BLOGSPOT.COM) WAS LAUNCHED IN 1999[23]
+POLITICAL IMPACT
 
-On December 6, 2002, Josh Marshall's talkingpointsmemo.com blog called attention to U.S. Senator Lott's comments regarding Senator Thurmond. Senator Lott was eventually to resign his Senate leadership position over the matter.
-An early milestone in the rise in importance of blogs came in 2002, when many bloggers focused on comments by U.S. Senate Majority Leader Trent Lott.[24] Senator Lott, at a party honoring U.S. Senator Strom Thurmond, praised Senator Thurmond by suggesting that the United States would have been better off had Thurmond been elected president. Lott's critics saw these comments as tacit approval of racial segregation, a policy advocated by Thurmond's 1948 presidential campaign. This view was reinforced by documents and recorded interviews dug up by bloggers. (See Josh Marshall's Talking Points Memo.) Though Lott's comments were made at a public event attended by the media, no major media organizations reported on his controversial comments until after blogs broke the story. Blogging helped to create a political crisis that forced Lott to step down as majority leader.
+ON DECEMBER 6, 2002, JOSH MARSHALL'S TALKINGPOINTSMEMO.COM BLOG CALLED ATTENTION TO U.S. SENATOR LOTT'S COMMENTS REGARDING SENATOR THURMOND. SENATOR LOTT WAS EVENTUALLY TO RESIGN HIS SENATE LEADERSHIP POSITION OVER THE MATTER.
+AN EARLY MILESTONE IN THE RISE IN IMPORTANCE OF BLOGS CAME IN 2002, WHEN MANY BLOGGERS FOCUSED ON COMMENTS BY U.S. SENATE MAJORITY LEADER TRENT LOTT.[24] SENATOR LOTT, AT A PARTY HONORING U.S. SENATOR STROM THURMOND, PRAISED SENATOR THURMOND BY SUGGESTING THAT THE UNITED STATES WOULD HAVE BEEN BETTER OFF HAD THURMOND BEEN ELECTED PRESIDENT. LOTT'S CRITICS SAW THESE COMMENTS AS TACIT APPROVAL OF RACIAL SEGREGATION, A POLICY ADVOCATED BY THURMOND'S 1948 PRESIDENTIAL CAMPAIGN. THIS VIEW WAS REINFORCED BY DOCUMENTS AND RECORDED INTERVIEWS DUG UP BY BLOGGERS. (SEE JOSH MARSHALL'S TALKING POINTS MEMO.) THOUGH LOTT'S COMMENTS WERE MADE AT A PUBLIC EVENT ATTENDED BY THE MEDIA, NO MAJOR MEDIA ORGANIZATIONS REPORTED ON HIS CONTROVERSIAL COMMENTS UNTIL AFTER BLOGS BROKE THE STORY. BLOGGING HELPED TO CREATE A POLITICAL CRISIS THAT FORCED LOTT TO STEP DOWN AS MAJORITY LEADER.
 
-Similarly, blogs were among the driving forces behind the "Rathergate" scandal. Television journalist Dan Rather presented documents on the CBS show 60 Minutes that conflicted with accepted accounts of President Bush's military service record. Bloggers declared the documents to be forgeries and presented evidence and arguments in support of that view. Consequently, CBS apologized for what it said were inadequate reporting techniques (see: Little Green Footballs). The impact of these stories gave greater credibility to blogs as a medium of news dissemination.
+SIMILARLY, BLOGS WERE AMONG THE DRIVING FORCES BEHIND THE "RATHERGATE" SCANDAL. TELEVISION JOURNALIST DAN RATHER PRESENTED DOCUMENTS ON THE CBS SHOW 60 MINUTES THAT CONFLICTED WITH ACCEPTED ACCOUNTS OF PRESIDENT BUSH'S MILITARY SERVICE RECORD. BLOGGERS DECLARED THE DOCUMENTS TO BE FORGERIES AND PRESENTED EVIDENCE AND ARGUMENTS IN SUPPORT OF THAT VIEW. CONSEQUENTLY, CBS APOLOGIZED FOR WHAT IT SAID WERE INADEQUATE REPORTING TECHNIQUES (SEE: LITTLE GREEN FOOTBALLS). THE IMPACT OF THESE STORIES GAVE GREATER CREDIBILITY TO BLOGS AS A MEDIUM OF NEWS DISSEMINATION.
 
-In Russia, some political bloggers have started to challenge the dominance of official, overwhelmingly pro-government media. Bloggers such as Rustem Adagamov and Alexei Navalny have many followers, and the latter's nickname for the ruling United Russia party as the "party of crooks and thieves" has been adopted by anti-regime protesters.[25] This led to The Wall Street Journal calling Navalny "the man Vladimir Putin fears most" in March 2012.[26]
+IN RUSSIA, SOME POLITICAL BLOGGERS HAVE STARTED TO CHALLENGE THE DOMINANCE OF OFFICIAL, OVERWHELMINGLY PRO-GOVERNMENT MEDIA. BLOGGERS SUCH AS RUSTEM ADAGAMOV AND ALEXEI NAVALNY HAVE MANY FOLLOWERS, AND THE LATTER'S NICKNAME FOR THE RULING UNITED RUSSIA PARTY AS THE "PARTY OF CROOKS AND THIEVES" HAS BEEN ADOPTED BY ANTI-REGIME PROTESTERS.[25] THIS LED TO THE WALL STREET JOURNAL CALLING NAVALNY "THE MAN VLADIMIR PUTIN FEARS MOST" IN MARCH 2012.[26]
 
-Mainstream popularity
-By 2004, the role of blogs became increasingly mainstream, as political consultants, news services, and candidates began using them as tools for outreach and opinion forming. Blogging was established by politicians and political candidates to express opinions on war and other issues and cemented blogs' role as a news source. (See Howard Dean and Wesley Clark.) Even politicians not actively campaigning, such as the UK's Labour Party's Member of Parliament (MP) Tom Watson, began to blog to bond with constituents. In January 2005, Fortune magazine listed eight bloggers whom business people "could not ignore": Peter Rojas, Xeni Jardin, Ben Trott, Mena Trott, Jonathan Schwartz, Jason Goldman, Robert Scoble, and Jason Calacanis.[27]
+MAINSTREAM POPULARITY
+BY 2004, THE ROLE OF BLOGS BECAME INCREASINGLY MAINSTREAM, AS POLITICAL CONSULTANTS, NEWS SERVICES, AND CANDIDATES BEGAN USING THEM AS TOOLS FOR OUTREACH AND OPINION FORMING. BLOGGING WAS ESTABLISHED BY POLITICIANS AND POLITICAL CANDIDATES TO EXPRESS OPINIONS ON WAR AND OTHER ISSUES AND CEMENTED BLOGS' ROLE AS A NEWS SOURCE. (SEE HOWARD DEAN AND WESLEY CLARK.) EVEN POLITICIANS NOT ACTIVELY CAMPAIGNING, SUCH AS THE UK'S LABOUR PARTY'S MEMBER OF PARLIAMENT (MP) TOM WATSON, BEGAN TO BLOG TO BOND WITH CONSTITUENTS. IN JANUARY 2005, FORTUNE MAGAZINE LISTED EIGHT BLOGGERS WHOM BUSINESS PEOPLE "COULD NOT IGNORE": PETER ROJAS, XENI JARDIN, BEN TROTT, MENA TROTT, JONATHAN SCHWARTZ, JASON GOLDMAN, ROBERT SCOBLE, AND JASON CALACANIS.[27]
 
-Israel was among the first national governments to set up an official blog.[28] Under David Saranga, the Israeli Ministry of Foreign Affairs became active in adopting Web 2.0 initiatives, including an official video blog[28] and a political blog.[29] The Foreign Ministry also held a microblogging press conference via Twitter about its war with Hamas, with Saranga answering questions from the public in common text-messaging abbreviations during a live worldwide press conference.[30] The questions and answers were later posted on IsraelPolitik, the country's official political blog.[31]
+ISRAEL WAS AMONG THE FIRST NATIONAL GOVERNMENTS TO SET UP AN OFFICIAL BLOG.[28] UNDER DAVID SARANGA, THE ISRAELI MINISTRY OF FOREIGN AFFAIRS BECAME ACTIVE IN ADOPTING WEB 2.0 INITIATIVES, INCLUDING AN OFFICIAL VIDEO BLOG[28] AND A POLITICAL BLOG.[29] THE FOREIGN MINISTRY ALSO HELD A MICROBLOGGING PRESS CONFERENCE VIA TWITTER ABOUT ITS WAR WITH HAMAS, WITH SARANGA ANSWERING QUESTIONS FROM THE PUBLIC IN COMMON TEXT-MESSAGING ABBREVIATIONS DURING A LIVE WORLDWIDE PRESS CONFERENCE.[30] THE QUESTIONS AND ANSWERS WERE LATER POSTED ON ISRAELPOLITIK, THE COUNTRY'S OFFICIAL POLITICAL BLOG.[31]
 
-The impact of blogging on the mainstream media has also been acknowledged by governments. In 2009, the presence of the American journalism industry had declined to the point that several newspaper corporations were filing for bankruptcy, resulting in less direct competition between newspapers within the same circulation area. Discussion emerged as to whether the newspaper industry would benefit from a stimulus package by the federal government. U.S. President Barack Obama acknowledged the emerging influence of blogging upon society by saying, "if the direction of the news is all blogosphere, all opinions, with no serious fact-checking, no serious attempts to put stories in context, then what you will end up getting is people shouting at each other across the void, but not a lot of mutual understanding".[32] Between 2009 and 2012, an Orwell Prize for blogging was awarded.
+THE IMPACT OF BLOGGING ON THE MAINSTREAM MEDIA HAS ALSO BEEN ACKNOWLEDGED BY GOVERNMENTS. IN 2009, THE PRESENCE OF THE AMERICAN JOURNALISM INDUSTRY HAD DECLINED TO THE POINT THAT SEVERAL NEWSPAPER CORPORATIONS WERE FILING FOR BANKRUPTCY, RESULTING IN LESS DIRECT COMPETITION BETWEEN NEWSPAPERS WITHIN THE SAME CIRCULATION AREA. DISCUSSION EMERGED AS TO WHETHER THE NEWSPAPER INDUSTRY WOULD BENEFIT FROM A STIMULUS PACKAGE BY THE FEDERAL GOVERNMENT. U.S. PRESIDENT BARACK OBAMA ACKNOWLEDGED THE EMERGING INFLUENCE OF BLOGGING UPON SOCIETY BY SAYING, "IF THE DIRECTION OF THE NEWS IS ALL BLOGOSPHERE, ALL OPINIONS, WITH NO SERIOUS FACT-CHECKING, NO SERIOUS ATTEMPTS TO PUT STORIES IN CONTEXT, THEN WHAT YOU WILL END UP GETTING IS PEOPLE SHOUTING AT EACH OTHER ACROSS THE VOID, BUT NOT A LOT OF MUTUAL UNDERSTANDING".[32] BETWEEN 2009 AND 2012, AN ORWELL PRIZE FOR BLOGGING WAS AWARDED.
 
-In the late 2000s, blogs were often used on business websites and for grassroots political activism.[33]
+IN THE LATE 2000S, BLOGS WERE OFTEN USED ON BUSINESS WEBSITES AND FOR GRASSROOTS POLITICAL ACTIVISM.[33]
 
-Types
+TYPES
 
-A screenshot from the BlogActive website
-There are many different types of blogs, differing not only in the type of content, but also in the way that content is delivered or written.
+A SCREENSHOT FROM THE BLOGACTIVE WEBSITE
+THERE ARE MANY DIFFERENT TYPES OF BLOGS, DIFFERING NOT ONLY IN THE TYPE OF CONTENT, BUT ALSO IN THE WAY THAT CONTENT IS DELIVERED OR WRITTEN.
 
-Personal blogs
-The personal blog is an ongoing online diary or commentary written by an individual, rather than a corporation or organization. While the vast majority of personal blogs attract very few readers, other than the blogger's immediate family and friends, a small number of personal blogs have become popular, to the point that they have attracted lucrative advertising sponsorship. A tiny number of personal bloggers have become famous, both in the online community and in the real world.
-Collaborative blogs or group blogs
-A type of weblog in which posts are written and published by more than one author. The majority of high-profile collaborative blogs are organised according to a single uniting theme, such as politics, technology or advocacy. In recent years, the blogosphere has seen the emergence and growing popularity of more collaborative efforts, often set up by already established bloggers wishing to pool time and resources, both to reduce the pressure of maintaining a popular website and to attract a larger readership.
-Microblogging
-Microblogging is the practice of posting small pieces of digital content—which could be text, pictures, links, short videos, or other media—on the internet. Microblogging offers a portable communication mode that feels organic and spontaneous to many users. It has captured the public imagination, in part because the short posts are easy to read on the go or when waiting. Friends use it to keep in touch, business associates use it to coordinate meetings or share useful resources, and celebrities and politicians (or their publicists) microblog about concert dates, lectures, book releases, or tour schedules. A wide and growing range of add-on tools enables sophisticated updates and interaction with other applications. The resulting profusion of functionality is helping to define new possibilities for this type of communication.[34] Examples of these include Twitter, Facebook, Tumblr and, by far the largest, Weibo.
-Corporate and organizational blogs
-A blog can be private, as in most cases, or it can be for business or not-for-profit organization or government purposes. Blogs used internally and only available to employees via an Intranet are called corporate blogs. Companies use internal corporate blogs to enhance the communication, culture and employee engagement in a corporation. Internal corporate blogs can be used to communicate news about company policies or procedures, build employee esprit de corps and improve morale. Companies and other organizations also use external, publicly accessible blogs for marketing, branding, or public relations purposes. Some organizations have a blog authored by their executive; in practice, many of these executive blog posts are penned by a ghostwriter who makes posts in the style of the credited author. Similar blogs for clubs and societies are called club blogs, group blogs, or by similar names; typical use is to inform members and other interested parties of club and member activities.
-Aggregated blogs
-Individuals or organization may aggregate selected feeds on a specific topic, product or service and provide a combined view for its readers. This allows readers to concentrate on reading instead of searching for quality on-topic content and managing subscriptions. Many such aggregations called planets from name of Planet (software) that perform such aggregation, hosting sites usually have planet. subdomain in domain name (like http://planet.gnome.org/).
-By genre
-Some blogs focus on a particular subject, such as political blogs, journalism blogs, health blogs, travel blogs (also known as travelogs), gardening blogs, house blogs, Book Blogs,[35][36] fashion blogs, beauty blogs, lifestyle blogs, party blogs, wedding blogs, photography blogs, project blogs, psychology blogs, sociology blogs, education blogs, niche blogs, classical music blogs, quizzing blogs, legal blogs (often referred to as a blawgs), or dreamlogs. How-to/Tutorial blogs are becoming increasing popular.[37] Two common types of genre blogs are art blogs and music blogs. A blog featuring discussions, especially about home and family is not uncommonly called a mom blog. While not a legitimate type of blog, one used for the sole purpose of spamming is known as a splog.
-By media type
-A blog comprising videos is called a vlog, one comprising links is called a linklog, a site containing a portfolio of sketches is called a sketchblog or one comprising photos is called a photoblog. Blogs with shorter posts and mixed media types are called tumblelogs. Blogs that are written on typewriters and then scanned are called typecast or typecast blogs. A rare type of blog hosted on the Gopher Protocol is known as a phlog.
-By device
-A blog can also be defined by which type of device is used to compose it. A blog written by a mobile device like a mobile phone or PDA could be called a moblog.[38] One early blog was Wearable Wireless Webcam, an online shared diary of a person's personal life combining text, video, and pictures transmitted live from a wearable computer and EyeTap device to a web site. This practice of semi-automated blogging with live video together with text was referred to as sousveillance. Such journals have been used as evidence in legal matters.[citation needed]
-Reverse blog
-A reverse blog is composed by its users rather than a single blogger. This system has the characteristics of a blog and the writing of several authors. These can be written by several contributing authors on a topic or opened up for anyone to write. There is typically some limit to the number of entries to keep it from operating like a web forum.[citation needed]
-Community and cataloging
+PERSONAL BLOGS
+THE PERSONAL BLOG IS AN ONGOING ONLINE DIARY OR COMMENTARY WRITTEN BY AN INDIVIDUAL, RATHER THAN A CORPORATION OR ORGANIZATION. WHILE THE VAST MAJORITY OF PERSONAL BLOGS ATTRACT VERY FEW READERS, OTHER THAN THE BLOGGER'S IMMEDIATE FAMILY AND FRIENDS, A SMALL NUMBER OF PERSONAL BLOGS HAVE BECOME POPULAR, TO THE POINT THAT THEY HAVE ATTRACTED LUCRATIVE ADVERTISING SPONSORSHIP. A TINY NUMBER OF PERSONAL BLOGGERS HAVE BECOME FAMOUS, BOTH IN THE ONLINE COMMUNITY AND IN THE REAL WORLD.
+COLLABORATIVE BLOGS OR GROUP BLOGS
+A TYPE OF WEBLOG IN WHICH POSTS ARE WRITTEN AND PUBLISHED BY MORE THAN ONE AUTHOR. THE MAJORITY OF HIGH-PROFILE COLLABORATIVE BLOGS ARE ORGANISED ACCORDING TO A SINGLE UNITING THEME, SUCH AS POLITICS, TECHNOLOGY OR ADVOCACY. IN RECENT YEARS, THE BLOGOSPHERE HAS SEEN THE EMERGENCE AND GROWING POPULARITY OF MORE COLLABORATIVE EFFORTS, OFTEN SET UP BY ALREADY ESTABLISHED BLOGGERS WISHING TO POOL TIME AND RESOURCES, BOTH TO REDUCE THE PRESSURE OF MAINTAINING A POPULAR WEBSITE AND TO ATTRACT A LARGER READERSHIP.
+MICROBLOGGING
+MICROBLOGGING IS THE PRACTICE OF POSTING SMALL PIECES OF DIGITAL CONTENT—WHICH COULD BE TEXT, PICTURES, LINKS, SHORT VIDEOS, OR OTHER MEDIA—ON THE INTERNET. MICROBLOGGING OFFERS A PORTABLE COMMUNICATION MODE THAT FEELS ORGANIC AND SPONTANEOUS TO MANY USERS. IT HAS CAPTURED THE PUBLIC IMAGINATION, IN PART BECAUSE THE SHORT POSTS ARE EASY TO READ ON THE GO OR WHEN WAITING. FRIENDS USE IT TO KEEP IN TOUCH, BUSINESS ASSOCIATES USE IT TO COORDINATE MEETINGS OR SHARE USEFUL RESOURCES, AND CELEBRITIES AND POLITICIANS (OR THEIR PUBLICISTS) MICROBLOG ABOUT CONCERT DATES, LECTURES, BOOK RELEASES, OR TOUR SCHEDULES. A WIDE AND GROWING RANGE OF ADD-ON TOOLS ENABLES SOPHISTICATED UPDATES AND INTERACTION WITH OTHER APPLICATIONS. THE RESULTING PROFUSION OF FUNCTIONALITY IS HELPING TO DEFINE NEW POSSIBILITIES FOR THIS TYPE OF COMMUNICATION.[34] EXAMPLES OF THESE INCLUDE TWITTER, FACEBOOK, TUMBLR AND, BY FAR THE LARGEST, WEIBO.
+CORPORATE AND ORGANIZATIONAL BLOGS
+A BLOG CAN BE PRIVATE, AS IN MOST CASES, OR IT CAN BE FOR BUSINESS OR NOT-FOR-PROFIT ORGANIZATION OR GOVERNMENT PURPOSES. BLOGS USED INTERNALLY AND ONLY AVAILABLE TO EMPLOYEES VIA AN INTRANET ARE CALLED CORPORATE BLOGS. COMPANIES USE INTERNAL CORPORATE BLOGS TO ENHANCE THE COMMUNICATION, CULTURE AND EMPLOYEE ENGAGEMENT IN A CORPORATION. INTERNAL CORPORATE BLOGS CAN BE USED TO COMMUNICATE NEWS ABOUT COMPANY POLICIES OR PROCEDURES, BUILD EMPLOYEE ESPRIT DE CORPS AND IMPROVE MORALE. COMPANIES AND OTHER ORGANIZATIONS ALSO USE EXTERNAL, PUBLICLY ACCESSIBLE BLOGS FOR MARKETING, BRANDING, OR PUBLIC RELATIONS PURPOSES. SOME ORGANIZATIONS HAVE A BLOG AUTHORED BY THEIR EXECUTIVE; IN PRACTICE, MANY OF THESE EXECUTIVE BLOG POSTS ARE PENNED BY A GHOSTWRITER WHO MAKES POSTS IN THE STYLE OF THE CREDITED AUTHOR. SIMILAR BLOGS FOR CLUBS AND SOCIETIES ARE CALLED CLUB BLOGS, GROUP BLOGS, OR BY SIMILAR NAMES; TYPICAL USE IS TO INFORM MEMBERS AND OTHER INTERESTED PARTIES OF CLUB AND MEMBER ACTIVITIES.
+AGGREGATED BLOGS
+INDIVIDUALS OR ORGANIZATION MAY AGGREGATE SELECTED FEEDS ON A SPECIFIC TOPIC, PRODUCT OR SERVICE AND PROVIDE A COMBINED VIEW FOR ITS READERS. THIS ALLOWS READERS TO CONCENTRATE ON READING INSTEAD OF SEARCHING FOR QUALITY ON-TOPIC CONTENT AND MANAGING SUBSCRIPTIONS. MANY SUCH AGGREGATIONS CALLED PLANETS FROM NAME OF PLANET (SOFTWARE) THAT PERFORM SUCH AGGREGATION, HOSTING SITES USUALLY HAVE PLANET. SUBDOMAIN IN DOMAIN NAME (LIKE HTTP://PLANET.GNOME.ORG/).
+BY GENRE
+SOME BLOGS FOCUS ON A PARTICULAR SUBJECT, SUCH AS POLITICAL BLOGS, JOURNALISM BLOGS, HEALTH BLOGS, TRAVEL BLOGS (ALSO KNOWN AS TRAVELOGS), GARDENING BLOGS, HOUSE BLOGS, BOOK BLOGS,[35][36] FASHION BLOGS, BEAUTY BLOGS, LIFESTYLE BLOGS, PARTY BLOGS, WEDDING BLOGS, PHOTOGRAPHY BLOGS, PROJECT BLOGS, PSYCHOLOGY BLOGS, SOCIOLOGY BLOGS, EDUCATION BLOGS, NICHE BLOGS, CLASSICAL MUSIC BLOGS, QUIZZING BLOGS, LEGAL BLOGS (OFTEN REFERRED TO AS A BLAWGS), OR DREAMLOGS. HOW-TO/TUTORIAL BLOGS ARE BECOMING INCREASING POPULAR.[37] TWO COMMON TYPES OF GENRE BLOGS ARE ART BLOGS AND MUSIC BLOGS. A BLOG FEATURING DISCUSSIONS, ESPECIALLY ABOUT HOME AND FAMILY IS NOT UNCOMMONLY CALLED A MOM BLOG. WHILE NOT A LEGITIMATE TYPE OF BLOG, ONE USED FOR THE SOLE PURPOSE OF SPAMMING IS KNOWN AS A SPLOG.
+BY MEDIA TYPE
+A BLOG COMPRISING VIDEOS IS CALLED A VLOG, ONE COMPRISING LINKS IS CALLED A LINKLOG, A SITE CONTAINING A PORTFOLIO OF SKETCHES IS CALLED A SKETCHBLOG OR ONE COMPRISING PHOTOS IS CALLED A PHOTOBLOG. BLOGS WITH SHORTER POSTS AND MIXED MEDIA TYPES ARE CALLED TUMBLELOGS. BLOGS THAT ARE WRITTEN ON TYPEWRITERS AND THEN SCANNED ARE CALLED TYPECAST OR TYPECAST BLOGS. A RARE TYPE OF BLOG HOSTED ON THE GOPHER PROTOCOL IS KNOWN AS A PHLOG.
+BY DEVICE
+A BLOG CAN ALSO BE DEFINED BY WHICH TYPE OF DEVICE IS USED TO COMPOSE IT. A BLOG WRITTEN BY A MOBILE DEVICE LIKE A MOBILE PHONE OR PDA COULD BE CALLED A MOBLOG.[38] ONE EARLY BLOG WAS WEARABLE WIRELESS WEBCAM, AN ONLINE SHARED DIARY OF A PERSON'S PERSONAL LIFE COMBINING TEXT, VIDEO, AND PICTURES TRANSMITTED LIVE FROM A WEARABLE COMPUTER AND EYETAP DEVICE TO A WEB SITE. THIS PRACTICE OF SEMI-AUTOMATED BLOGGING WITH LIVE VIDEO TOGETHER WITH TEXT WAS REFERRED TO AS SOUSVEILLANCE. SUCH JOURNALS HAVE BEEN USED AS EVIDENCE IN LEGAL MATTERS.[CITATION NEEDED]
+REVERSE BLOG
+A REVERSE BLOG IS COMPOSED BY ITS USERS RATHER THAN A SINGLE BLOGGER. THIS SYSTEM HAS THE CHARACTERISTICS OF A BLOG AND THE WRITING OF SEVERAL AUTHORS. THESE CAN BE WRITTEN BY SEVERAL CONTRIBUTING AUTHORS ON A TOPIC OR OPENED UP FOR ANYONE TO WRITE. THERE IS TYPICALLY SOME LIMIT TO THE NUMBER OF ENTRIES TO KEEP IT FROM OPERATING LIKE A WEB FORUM.[CITATION NEEDED]
+COMMUNITY AND CATALOGING
 
-An artist's depiction of the interconnections between blogs and blog authors in the "blogosphere" in 2007
-Blogosphere
-The collective community of all blogs and blog authors, particularly notable and widely read blogs, is known as the blogosphere. Since all blogs are on the internet by definition, they may be seen as interconnected and socially networked, through blogrolls, comments, linkbacks (refbacks, trackbacks or pingbacks), and backlinks. Discussions "in the blogosphere" were occasionally used by the media as a gauge of public opinion on various issues. Because new, untapped communities of bloggers and their readers can emerge in the space of a few years, Internet marketers pay close attention to "trends in the blogosphere".[39]
-Blog search engines
-Several blog search engines have been used to search blog contents, such as Bloglines (defunct), BlogScope (defunct), and Technorati (defunct).
-Blogging communities and directories
-Several online communities exist that connect people to blogs and bloggers to other bloggers. Interest-specific blogging platforms are also available. For instance, Blogster has a sizable community of political bloggers among its members. Global Voices aggregates international bloggers, "with emphasis on voices that are not ordinarily heard in international mainstream media."[40]
-Blogging and advertising
-It is common for blogs to feature banner advertisements or promotional content, either to financially benefit the blogger, support website hosting costs, or to promote the blogger's favourite causes or products. The popularity of blogs has also given rise to "fake blogs" in which a company will create a fictional blog as a marketing tool to promote a product.[41]
-As the popularity of blogging continued to rise (as of 2006), the commercialisation of blogging is rapidly increasing. Many corporations and companies collaborate with bloggers to increase advertising and engage online communities with their products. In the book Fans, Bloggers, and Gamers, Henry Jenkins stated that "Bloggers take knowledge into their own hands, enabling successful navigation within and between these emerging knowledge cultures. One can see such behaviour as co-optation into commodity culture insofar as it sometimes collaborates with corporate interests, but one can also see it as increasing the diversity of media culture, providing opportunities for greater inclusiveness, and making more responsive to consumers."[42]
+AN ARTIST'S DEPICTION OF THE INTERCONNECTIONS BETWEEN BLOGS AND BLOG AUTHORS IN THE "BLOGOSPHERE" IN 2007
+BLOGOSPHERE
+THE COLLECTIVE COMMUNITY OF ALL BLOGS AND BLOG AUTHORS, PARTICULARLY NOTABLE AND WIDELY READ BLOGS, IS KNOWN AS THE BLOGOSPHERE. SINCE ALL BLOGS ARE ON THE INTERNET BY DEFINITION, THEY MAY BE SEEN AS INTERCONNECTED AND SOCIALLY NETWORKED, THROUGH BLOGROLLS, COMMENTS, LINKBACKS (REFBACKS, TRACKBACKS OR PINGBACKS), AND BACKLINKS. DISCUSSIONS "IN THE BLOGOSPHERE" WERE OCCASIONALLY USED BY THE MEDIA AS A GAUGE OF PUBLIC OPINION ON VARIOUS ISSUES. BECAUSE NEW, UNTAPPED COMMUNITIES OF BLOGGERS AND THEIR READERS CAN EMERGE IN THE SPACE OF A FEW YEARS, INTERNET MARKETERS PAY CLOSE ATTENTION TO "TRENDS IN THE BLOGOSPHERE".[39]
+BLOG SEARCH ENGINES
+SEVERAL BLOG SEARCH ENGINES HAVE BEEN USED TO SEARCH BLOG CONTENTS, SUCH AS BLOGLINES (DEFUNCT), BLOGSCOPE (DEFUNCT), AND TECHNORATI (DEFUNCT).
+BLOGGING COMMUNITIES AND DIRECTORIES
+SEVERAL ONLINE COMMUNITIES EXIST THAT CONNECT PEOPLE TO BLOGS AND BLOGGERS TO OTHER BLOGGERS. INTEREST-SPECIFIC BLOGGING PLATFORMS ARE ALSO AVAILABLE. FOR INSTANCE, BLOGSTER HAS A SIZABLE COMMUNITY OF POLITICAL BLOGGERS AMONG ITS MEMBERS. GLOBAL VOICES AGGREGATES INTERNATIONAL BLOGGERS, "WITH EMPHASIS ON VOICES THAT ARE NOT ORDINARILY HEARD IN INTERNATIONAL MAINSTREAM MEDIA."[40]
+BLOGGING AND ADVERTISING
+IT IS COMMON FOR BLOGS TO FEATURE BANNER ADVERTISEMENTS OR PROMOTIONAL CONTENT, EITHER TO FINANCIALLY BENEFIT THE BLOGGER, SUPPORT WEBSITE HOSTING COSTS, OR TO PROMOTE THE BLOGGER'S FAVOURITE CAUSES OR PRODUCTS. THE POPULARITY OF BLOGS HAS ALSO GIVEN RISE TO "FAKE BLOGS" IN WHICH A COMPANY WILL CREATE A FICTIONAL BLOG AS A MARKETING TOOL TO PROMOTE A PRODUCT.[41]
+AS THE POPULARITY OF BLOGGING CONTINUED TO RISE (AS OF 2006), THE COMMERCIALISATION OF BLOGGING IS RAPIDLY INCREASING. MANY CORPORATIONS AND COMPANIES COLLABORATE WITH BLOGGERS TO INCREASE ADVERTISING AND ENGAGE ONLINE COMMUNITIES WITH THEIR PRODUCTS. IN THE BOOK FANS, BLOGGERS, AND GAMERS, HENRY JENKINS STATED THAT "BLOGGERS TAKE KNOWLEDGE INTO THEIR OWN HANDS, ENABLING SUCCESSFUL NAVIGATION WITHIN AND BETWEEN THESE EMERGING KNOWLEDGE CULTURES. ONE CAN SEE SUCH BEHAVIOUR AS CO-OPTATION INTO COMMODITY CULTURE INSOFAR AS IT SOMETIMES COLLABORATES WITH CORPORATE INTERESTS, BUT ONE CAN ALSO SEE IT AS INCREASING THE DIVERSITY OF MEDIA CULTURE, PROVIDING OPPORTUNITIES FOR GREATER INCLUSIVENESS, AND MAKING MORE RESPONSIVE TO CONSUMERS."[42]
 
-Early popularity
-Before 2006: The blogdex project was launched by researchers in the MIT Media Lab to crawl the Web and gather data from thousands of blogs to investigate their social properties. Information was gathered by the tool for over four years, during which it autonomously tracked the most contagious information spreading in the blog community, ranking it by recency and popularity. It can, therefore,[original research?] be considered the first instantiation of a memetracker. The project was replaced by tailrank.com, which in turn has been replaced by spinn3r.com.
-2006: Blogs are given rankings by Alexa Internet (web hits of Alexa Toolbar users), and formerly by blog search engine Technorati based on the number of incoming links (Technorati stopped doing this in 2014). In August 2006, Technorati found that the most linked-to blog on the internet was that of Chinese actress Xu Jinglei.[43] Chinese media Xinhua reported that this blog received more than 50 million page views, claiming it to be the most popular blog in the world at the time.[44][better source needed] Technorati rated Boing Boing to be the most-read group-written blog.[43]
-2008: As of 2008, blogging had "become such a mania that a new blog was created every second of every minute of every hour of every day."[45] Researchers have actively analyzed the dynamics of how blogs become popular. There are essentially two measures of this: popularity through citations, as well as popularity through affiliation (i.e., blogroll). The basic conclusion from studies of the structure of blogs is that while it takes time for a blog to become popular through blogrolls, permalinks can boost popularity more quickly and are perhaps more indicative of popularity and authority than blogrolls since they denote that people are reading the blog's content and deem it valuable or noteworthy in specific cases.[46]
-Software
-Blogs are a form of websites and can therefore be created via the same software as can be used for creating websites. Many people use managed platforms such as Medium (website) or Substack. These platforms have built-in support for many features such as previewing posts, paywalls, and newsletters. Other people self-host their website via open source software such as WordPress or static site generators such as Hugo (software) or Jekyll (software).
+EARLY POPULARITY
+BEFORE 2006: THE BLOGDEX PROJECT WAS LAUNCHED BY RESEARCHERS IN THE MIT MEDIA LAB TO CRAWL THE WEB AND GATHER DATA FROM THOUSANDS OF BLOGS TO INVESTIGATE THEIR SOCIAL PROPERTIES. INFORMATION WAS GATHERED BY THE TOOL FOR OVER FOUR YEARS, DURING WHICH IT AUTONOMOUSLY TRACKED THE MOST CONTAGIOUS INFORMATION SPREADING IN THE BLOG COMMUNITY, RANKING IT BY RECENCY AND POPULARITY. IT CAN, THEREFORE,[ORIGINAL RESEARCH?] BE CONSIDERED THE FIRST INSTANTIATION OF A MEMETRACKER. THE PROJECT WAS REPLACED BY TAILRANK.COM, WHICH IN TURN HAS BEEN REPLACED BY SPINN3R.COM.
+2006: BLOGS ARE GIVEN RANKINGS BY ALEXA INTERNET (WEB HITS OF ALEXA TOOLBAR USERS), AND FORMERLY BY BLOG SEARCH ENGINE TECHNORATI BASED ON THE NUMBER OF INCOMING LINKS (TECHNORATI STOPPED DOING THIS IN 2014). IN AUGUST 2006, TECHNORATI FOUND THAT THE MOST LINKED-TO BLOG ON THE INTERNET WAS THAT OF CHINESE ACTRESS XU JINGLEI.[43] CHINESE MEDIA XINHUA REPORTED THAT THIS BLOG RECEIVED MORE THAN 50 MILLION PAGE VIEWS, CLAIMING IT TO BE THE MOST POPULAR BLOG IN THE WORLD AT THE TIME.[44][BETTER SOURCE NEEDED] TECHNORATI RATED BOING BOING TO BE THE MOST-READ GROUP-WRITTEN BLOG.[43]
+2008: AS OF 2008, BLOGGING HAD "BECOME SUCH A MANIA THAT A NEW BLOG WAS CREATED EVERY SECOND OF EVERY MINUTE OF EVERY HOUR OF EVERY DAY."[45] RESEARCHERS HAVE ACTIVELY ANALYZED THE DYNAMICS OF HOW BLOGS BECOME POPULAR. THERE ARE ESSENTIALLY TWO MEASURES OF THIS: POPULARITY THROUGH CITATIONS, AS WELL AS POPULARITY THROUGH AFFILIATION (I.E., BLOGROLL). THE BASIC CONCLUSION FROM STUDIES OF THE STRUCTURE OF BLOGS IS THAT WHILE IT TAKES TIME FOR A BLOG TO BECOME POPULAR THROUGH BLOGROLLS, PERMALINKS CAN BOOST POPULARITY MORE QUICKLY AND ARE PERHAPS MORE INDICATIVE OF POPULARITY AND AUTHORITY THAN BLOGROLLS SINCE THEY DENOTE THAT PEOPLE ARE READING THE BLOG'S CONTENT AND DEEM IT VALUABLE OR NOTEWORTHY IN SPECIFIC CASES.[46]
+SOFTWARE
+BLOGS ARE A FORM OF WEBSITES AND CAN THEREFORE BE CREATED VIA THE SAME SOFTWARE AS CAN BE USED FOR CREATING WEBSITES. MANY PEOPLE USE MANAGED PLATFORMS SUCH AS MEDIUM (WEBSITE) OR SUBSTACK. THESE PLATFORMS HAVE BUILT-IN SUPPORT FOR MANY FEATURES SUCH AS PREVIEWING POSTS, PAYWALLS, AND NEWSLETTERS. OTHER PEOPLE SELF-HOST THEIR WEBSITE VIA OPEN SOURCE SOFTWARE SUCH AS WORDPRESS OR STATIC SITE GENERATORS SUCH AS HUGO (SOFTWARE) OR JEKYLL (SOFTWARE).
 
-Blurring with the mass media
-Many bloggers, particularly those engaged in participatory journalism, are amateur journalists, and thus they differentiate themselves from the professional reporters and editors who work in mainstream media organizations. Other bloggers are media professionals who are publishing online, rather than via a TV station or newspaper, either as an add-on to a traditional media presence (e.g., hosting a radio show or writing a column in a paper newspaper), or as their sole journalistic output. Some institutions and organizations see blogging as a means of "getting around the filter" of media "gatekeepers" and pushing their messages directly to the public. Many mainstream journalists, meanwhile, write their own blogs—well over 300, according to CyberJournalist.net's J-blog list.[citation needed] The first known use of a blog on a news site was in August 1998, when Jonathan Dube of The Charlotte Observer published one chronicling Hurricane Bonnie.[47]
+BLURRING WITH THE MASS MEDIA
+MANY BLOGGERS, PARTICULARLY THOSE ENGAGED IN PARTICIPATORY JOURNALISM, ARE AMATEUR JOURNALISTS, AND THUS THEY DIFFERENTIATE THEMSELVES FROM THE PROFESSIONAL REPORTERS AND EDITORS WHO WORK IN MAINSTREAM MEDIA ORGANIZATIONS. OTHER BLOGGERS ARE MEDIA PROFESSIONALS WHO ARE PUBLISHING ONLINE, RATHER THAN VIA A TV STATION OR NEWSPAPER, EITHER AS AN ADD-ON TO A TRADITIONAL MEDIA PRESENCE (E.G., HOSTING A RADIO SHOW OR WRITING A COLUMN IN A PAPER NEWSPAPER), OR AS THEIR SOLE JOURNALISTIC OUTPUT. SOME INSTITUTIONS AND ORGANIZATIONS SEE BLOGGING AS A MEANS OF "GETTING AROUND THE FILTER" OF MEDIA "GATEKEEPERS" AND PUSHING THEIR MESSAGES DIRECTLY TO THE PUBLIC. MANY MAINSTREAM JOURNALISTS, MEANWHILE, WRITE THEIR OWN BLOGS—WELL OVER 300, ACCORDING TO CYBERJOURNALIST.NET'S J-BLOG LIST.[CITATION NEEDED] THE FIRST KNOWN USE OF A BLOG ON A NEWS SITE WAS IN AUGUST 1998, WHEN JONATHAN DUBE OF THE CHARLOTTE OBSERVER PUBLISHED ONE CHRONICLING HURRICANE BONNIE.[47]
 
-Some bloggers have moved over to other media. The following bloggers (and others) have appeared on radio and television: Duncan Black (known widely by his pseudonym, Atrios), Glenn Reynolds (Instapundit), Markos Moulitsas Zúniga (Daily Kos), Alex Steffen (Worldchanging), Ana Marie Cox (Wonkette), Nate Silver (FiveThirtyEight.com), and Ezra Klein (Ezra Klein blog in The American Prospect, now in The Washington Post). In counterpoint, Hugh Hewitt exemplifies a mass media personality who has moved in the other direction, adding to his reach in "old media" by being an influential blogger. Similarly, it was Emergency Preparedness and Safety Tips On Air and Online blog articles that captured Surgeon General of the United States Richard Carmona's attention and earned his kudos for the associated broadcasts by talk show host Lisa Tolliver and Westchester Emergency Volunteer Reserves-Medical Reserve Corps Director Marianne Partridge.[48][49]
+SOME BLOGGERS HAVE MOVED OVER TO OTHER MEDIA. THE FOLLOWING BLOGGERS (AND OTHERS) HAVE APPEARED ON RADIO AND TELEVISION: DUNCAN BLACK (KNOWN WIDELY BY HIS PSEUDONYM, ATRIOS), GLENN REYNOLDS (INSTAPUNDIT), MARKOS MOULITSAS ZÚNIGA (DAILY KOS), ALEX STEFFEN (WORLDCHANGING), ANA MARIE COX (WONKETTE), NATE SILVER (FIVETHIRTYEIGHT.COM), AND EZRA KLEIN (EZRA KLEIN BLOG IN THE AMERICAN PROSPECT, NOW IN THE WASHINGTON POST). IN COUNTERPOINT, HUGH HEWITT EXEMPLIFIES A MASS MEDIA PERSONALITY WHO HAS MOVED IN THE OTHER DIRECTION, ADDING TO HIS REACH IN "OLD MEDIA" BY BEING AN INFLUENTIAL BLOGGER. SIMILARLY, IT WAS EMERGENCY PREPAREDNESS AND SAFETY TIPS ON AIR AND ONLINE BLOG ARTICLES THAT CAPTURED SURGEON GENERAL OF THE UNITED STATES RICHARD CARMONA'S ATTENTION AND EARNED HIS KUDOS FOR THE ASSOCIATED BROADCASTS BY TALK SHOW HOST LISA TOLLIVER AND WESTCHESTER EMERGENCY VOLUNTEER RESERVES-MEDICAL RESERVE CORPS DIRECTOR MARIANNE PARTRIDGE.[48][49]
 
-Blogs have also had an influence on minority languages, bringing together scattered speakers and learners; this is particularly so with blogs in Gaelic languages. Minority language publishing (which may lack economic feasibility) can find its audience through inexpensive blogging. There are examples of bloggers who have published books based on their blogs, e.g., Salam Pax, Ellen Simonetti, Jessica Cutler, and ScrappleFace. Blog-based books have been given the name blook. A prize for the best blog-based book was initiated in 2005,[50] the Lulu Blooker Prize.[51] However, success has been elusive offline, with many of these books not selling as well as their blogs. The book based on Julie Powell's blog "The Julie/Julia Project" was made into the film Julie & Julia, apparently the first to do so.
+BLOGS HAVE ALSO HAD AN INFLUENCE ON MINORITY LANGUAGES, BRINGING TOGETHER SCATTERED SPEAKERS AND LEARNERS; THIS IS PARTICULARLY SO WITH BLOGS IN GAELIC LANGUAGES. MINORITY LANGUAGE PUBLISHING (WHICH MAY LACK ECONOMIC FEASIBILITY) CAN FIND ITS AUDIENCE THROUGH INEXPENSIVE BLOGGING. THERE ARE EXAMPLES OF BLOGGERS WHO HAVE PUBLISHED BOOKS BASED ON THEIR BLOGS, E.G., SALAM PAX, ELLEN SIMONETTI, JESSICA CUTLER, AND SCRAPPLEFACE. BLOG-BASED BOOKS HAVE BEEN GIVEN THE NAME BLOOK. A PRIZE FOR THE BEST BLOG-BASED BOOK WAS INITIATED IN 2005,[50] THE LULU BLOOKER PRIZE.[51] HOWEVER, SUCCESS HAS BEEN ELUSIVE OFFLINE, WITH MANY OF THESE BOOKS NOT SELLING AS WELL AS THEIR BLOGS. THE BOOK BASED ON JULIE POWELL'S BLOG "THE JULIE/JULIA PROJECT" WAS MADE INTO THE FILM JULIE & JULIA, APPARENTLY THE FIRST TO DO SO.
 
-Consumer-generated advertising
-Consumer-generated advertising is a relatively new and controversial development, and it has created a new model of marketing communication from businesses to consumers. Among the various forms of advertising on blog, the most controversial are the sponsored posts.[52] These are blog entries or posts and may be in the form of feedback, reviews, opinion, videos, etc. and usually contain a link back to the desired site using a keyword or several keywords. Blogs have led to some disintermediation and a breakdown of the traditional advertising model, where companies can skip over the advertising agencies (previously the only interface with the customer) and contact the customers directly via social media websites. On the other hand, new companies specialised in blog advertising have been established to take advantage of this new development as well. However, there are many people who look negatively on this new development. Some believe that any form of commercial activity on blogs will destroy the blogosphere's credibility.[53]
+CONSUMER-GENERATED ADVERTISING
+CONSUMER-GENERATED ADVERTISING IS A RELATIVELY NEW AND CONTROVERSIAL DEVELOPMENT, AND IT HAS CREATED A NEW MODEL OF MARKETING COMMUNICATION FROM BUSINESSES TO CONSUMERS. AMONG THE VARIOUS FORMS OF ADVERTISING ON BLOG, THE MOST CONTROVERSIAL ARE THE SPONSORED POSTS.[52] THESE ARE BLOG ENTRIES OR POSTS AND MAY BE IN THE FORM OF FEEDBACK, REVIEWS, OPINION, VIDEOS, ETC. AND USUALLY CONTAIN A LINK BACK TO THE DESIRED SITE USING A KEYWORD OR SEVERAL KEYWORDS. BLOGS HAVE LED TO SOME DISINTERMEDIATION AND A BREAKDOWN OF THE TRADITIONAL ADVERTISING MODEL, WHERE COMPANIES CAN SKIP OVER THE ADVERTISING AGENCIES (PREVIOUSLY THE ONLY INTERFACE WITH THE CUSTOMER) AND CONTACT THE CUSTOMERS DIRECTLY VIA SOCIAL MEDIA WEBSITES. ON THE OTHER HAND, NEW COMPANIES SPECIALISED IN BLOG ADVERTISING HAVE BEEN ESTABLISHED TO TAKE ADVANTAGE OF THIS NEW DEVELOPMENT AS WELL. HOWEVER, THERE ARE MANY PEOPLE WHO LOOK NEGATIVELY ON THIS NEW DEVELOPMENT. SOME BELIEVE THAT ANY FORM OF COMMERCIAL ACTIVITY ON BLOGS WILL DESTROY THE BLOGOSPHERE'S CREDIBILITY.[53]
 
-Legal and social consequences
-Blogging can result in a range of legal liabilities and other unforeseen consequences.[54]
+LEGAL AND SOCIAL CONSEQUENCES
+BLOGGING CAN RESULT IN A RANGE OF LEGAL LIABILITIES AND OTHER UNFORESEEN CONSEQUENCES.[54]
 
-Defamation or liability
-Several cases have been brought before the national courts against bloggers concerning issues of defamation or liability. U.S. payouts related to blogging totalled $17.4 million by 2009; in some cases these have been covered by umbrella insurance.[55] The courts have returned with mixed verdicts. Internet Service Providers (ISPs), in general, are immune from liability for information that originates with third parties (U.S. Communications Decency Act and the EU Directive 2000/31/EC). In Doe v. Cahill, the Delaware Supreme Court held that stringent standards had to be met to unmask the anonymous bloggers and also took the unusual step of dismissing the libel case itself (as unfounded under American libel law) rather than referring it back to the trial court for reconsideration.[56] In a bizarre twist, the Cahills were able to obtain the identity of John Doe, who turned out to be the person they suspected: the town's mayor, Councilman Cahill's political rival. The Cahills amended their original complaint, and the mayor settled the case rather than going to trial.
+DEFAMATION OR LIABILITY
+SEVERAL CASES HAVE BEEN BROUGHT BEFORE THE NATIONAL COURTS AGAINST BLOGGERS CONCERNING ISSUES OF DEFAMATION OR LIABILITY. U.S. PAYOUTS RELATED TO BLOGGING TOTALLED $17.4 MILLION BY 2009; IN SOME CASES THESE HAVE BEEN COVERED BY UMBRELLA INSURANCE.[55] THE COURTS HAVE RETURNED WITH MIXED VERDICTS. INTERNET SERVICE PROVIDERS (ISPS), IN GENERAL, ARE IMMUNE FROM LIABILITY FOR INFORMATION THAT ORIGINATES WITH THIRD PARTIES (U.S. COMMUNICATIONS DECENCY ACT AND THE EU DIRECTIVE 2000/31/EC). IN DOE V. CAHILL, THE DELAWARE SUPREME COURT HELD THAT STRINGENT STANDARDS HAD TO BE MET TO UNMASK THE ANONYMOUS BLOGGERS AND ALSO TOOK THE UNUSUAL STEP OF DISMISSING THE LIBEL CASE ITSELF (AS UNFOUNDED UNDER AMERICAN LIBEL LAW) RATHER THAN REFERRING IT BACK TO THE TRIAL COURT FOR RECONSIDERATION.[56] IN A BIZARRE TWIST, THE CAHILLS WERE ABLE TO OBTAIN THE IDENTITY OF JOHN DOE, WHO TURNED OUT TO BE THE PERSON THEY SUSPECTED: THE TOWN'S MAYOR, COUNCILMAN CAHILL'S POLITICAL RIVAL. THE CAHILLS AMENDED THEIR ORIGINAL COMPLAINT, AND THE MAYOR SETTLED THE CASE RATHER THAN GOING TO TRIAL.
 
-In January 2007, two prominent Malaysian political bloggers, Jeff Ooi and Ahirudin Attan, were sued by a pro-government newspaper, The New Straits Times Press (Malaysia) Berhad, Kalimullah bin Masheerul Hassan, Hishamuddin bin Aun and Brenden John a/l John Pereira over alleged defamation. The plaintiff was supported by the Malaysian government.[57] Following the suit, the Malaysian government proposed to "register" all bloggers in Malaysia to better control parties against their interests.[58] This is the first such legal case against bloggers in the country. In the United States, blogger Aaron Wall was sued by Traffic Power for defamation and publication of trade secrets in 2005.[59] According to Wired magazine, Traffic Power had been "banned from Google for allegedly rigging search engine results."[60] Wall and other "white hat" search engine optimization consultants had exposed Traffic Power in what they claim was an effort to protect the public. The case was dismissed for lack of personal jurisdiction, and Traffic Power failed to appeal within the allowed time.[61]
+IN JANUARY 2007, TWO PROMINENT MALAYSIAN POLITICAL BLOGGERS, JEFF OOI AND AHIRUDIN ATTAN, WERE SUED BY A PRO-GOVERNMENT NEWSPAPER, THE NEW STRAITS TIMES PRESS (MALAYSIA) BERHAD, KALIMULLAH BIN MASHEERUL HASSAN, HISHAMUDDIN BIN AUN AND BRENDEN JOHN A/L JOHN PEREIRA OVER ALLEGED DEFAMATION. THE PLAINTIFF WAS SUPPORTED BY THE MALAYSIAN GOVERNMENT.[57] FOLLOWING THE SUIT, THE MALAYSIAN GOVERNMENT PROPOSED TO "REGISTER" ALL BLOGGERS IN MALAYSIA TO BETTER CONTROL PARTIES AGAINST THEIR INTERESTS.[58] THIS IS THE FIRST SUCH LEGAL CASE AGAINST BLOGGERS IN THE COUNTRY. IN THE UNITED STATES, BLOGGER AARON WALL WAS SUED BY TRAFFIC POWER FOR DEFAMATION AND PUBLICATION OF TRADE SECRETS IN 2005.[59] ACCORDING TO WIRED MAGAZINE, TRAFFIC POWER HAD BEEN "BANNED FROM GOOGLE FOR ALLEGEDLY RIGGING SEARCH ENGINE RESULTS."[60] WALL AND OTHER "WHITE HAT" SEARCH ENGINE OPTIMIZATION CONSULTANTS HAD EXPOSED TRAFFIC POWER IN WHAT THEY CLAIM WAS AN EFFORT TO PROTECT THE PUBLIC. THE CASE WAS DISMISSED FOR LACK OF PERSONAL JURISDICTION, AND TRAFFIC POWER FAILED TO APPEAL WITHIN THE ALLOWED TIME.[61]
 
-In 2009, NDTV issued a legal notice to Indian blogger Kunte for a blog post criticizing their coverage of the Mumbai attacks.[62] The blogger unconditionally withdrew his post, which resulted in several Indian bloggers criticizing NDTV for trying to silence critics.[63]
+IN 2009, NDTV ISSUED A LEGAL NOTICE TO INDIAN BLOGGER KUNTE FOR A BLOG POST CRITICIZING THEIR COVERAGE OF THE MUMBAI ATTACKS.[62] THE BLOGGER UNCONDITIONALLY WITHDREW HIS POST, WHICH RESULTED IN SEVERAL INDIAN BLOGGERS CRITICIZING NDTV FOR TRYING TO SILENCE CRITICS.[63]
 
-Employment
-Employees who blog about elements of their place of employment can begin to affect the reputation of their employer, either in a positive way, if the employee is praising the employer and its workplaces, or in a negative way, if the blogger is making negative comments about the company or its practices.
+EMPLOYMENT
+EMPLOYEES WHO BLOG ABOUT ELEMENTS OF THEIR PLACE OF EMPLOYMENT CAN BEGIN TO AFFECT THE REPUTATION OF THEIR EMPLOYER, EITHER IN A POSITIVE WAY, IF THE EMPLOYEE IS PRAISING THE EMPLOYER AND ITS WORKPLACES, OR IN A NEGATIVE WAY, IF THE BLOGGER IS MAKING NEGATIVE COMMENTS ABOUT THE COMPANY OR ITS PRACTICES.
 
-In general, attempts by employee bloggers to protect themselves by maintaining anonymity have proved ineffective.[64] In 2009, a controversial and landmark decision by The Hon. Mr Justice Eady refused to grant an order to protect the anonymity of Richard Horton. Horton was a police officer in the United Kingdom who blogged about his job under the name "NightJack".[65]
+IN GENERAL, ATTEMPTS BY EMPLOYEE BLOGGERS TO PROTECT THEMSELVES BY MAINTAINING ANONYMITY HAVE PROVED INEFFECTIVE.[64] IN 2009, A CONTROVERSIAL AND LANDMARK DECISION BY THE HON. MR JUSTICE EADY REFUSED TO GRANT AN ORDER TO PROTECT THE ANONYMITY OF RICHARD HORTON. HORTON WAS A POLICE OFFICER IN THE UNITED KINGDOM WHO BLOGGED ABOUT HIS JOB UNDER THE NAME "NIGHTJACK".[65]
 
-Delta Air Lines fired flight attendant Ellen Simonetti because she posted photographs of herself in uniform on an aeroplane and because of comments posted on her blog "Queen of Sky: Diary of a Flight Attendant" which the employer deemed inappropriate.[66][67] This case highlighted the issue of personal blogging and freedom of expression versus employer rights and responsibilities, and so it received wide media attention. Simonetti took legal action against the airline for "wrongful termination, defamation of character and lost future wages".[68] The suit was postponed while Delta was in bankruptcy proceedings.[69]
+DELTA AIR LINES FIRED FLIGHT ATTENDANT ELLEN SIMONETTI BECAUSE SHE POSTED PHOTOGRAPHS OF HERSELF IN UNIFORM ON AN AEROPLANE AND BECAUSE OF COMMENTS POSTED ON HER BLOG "QUEEN OF SKY: DIARY OF A FLIGHT ATTENDANT" WHICH THE EMPLOYER DEEMED INAPPROPRIATE.[66][67] THIS CASE HIGHLIGHTED THE ISSUE OF PERSONAL BLOGGING AND FREEDOM OF EXPRESSION VERSUS EMPLOYER RIGHTS AND RESPONSIBILITIES, AND SO IT RECEIVED WIDE MEDIA ATTENTION. SIMONETTI TOOK LEGAL ACTION AGAINST THE AIRLINE FOR "WRONGFUL TERMINATION, DEFAMATION OF CHARACTER AND LOST FUTURE WAGES".[68] THE SUIT WAS POSTPONED WHILE DELTA WAS IN BANKRUPTCY PROCEEDINGS.[69]
 
-In early 2006, Erik Ringmar, a senior lecturer at the London School of Economics, was ordered by the convenor of his department to "take down and destroy" his blog in which he discussed the quality of education at the school.[70]
+IN EARLY 2006, ERIK RINGMAR, A SENIOR LECTURER AT THE LONDON SCHOOL OF ECONOMICS, WAS ORDERED BY THE CONVENOR OF HIS DEPARTMENT TO "TAKE DOWN AND DESTROY" HIS BLOG IN WHICH HE DISCUSSED THE QUALITY OF EDUCATION AT THE SCHOOL.[70]
 
-Mark Jen was terminated in 2005 after 10 days of employment as an assistant product manager at Google for discussing corporate secrets on his personal blog, then called 99zeros and hosted on the Google-owned Blogger service.[71] He blogged about unreleased products and company finances a week before the company's earnings announcement. He was fired two days after he complied with his employer's request to remove the sensitive material from his blog.[72]
+MARK JEN WAS TERMINATED IN 2005 AFTER 10 DAYS OF EMPLOYMENT AS AN ASSISTANT PRODUCT MANAGER AT GOOGLE FOR DISCUSSING CORPORATE SECRETS ON HIS PERSONAL BLOG, THEN CALLED 99ZEROS AND HOSTED ON THE GOOGLE-OWNED BLOGGER SERVICE.[71] HE BLOGGED ABOUT UNRELEASED PRODUCTS AND COMPANY FINANCES A WEEK BEFORE THE COMPANY'S EARNINGS ANNOUNCEMENT. HE WAS FIRED TWO DAYS AFTER HE COMPLIED WITH HIS EMPLOYER'S REQUEST TO REMOVE THE SENSITIVE MATERIAL FROM HIS BLOG.[72]
 
-In India, blogger Gaurav Sabnis resigned from IBM after his posts questioned the claims made by a management school.[73] Jessica Cutler, aka "The Washingtonienne", blogged about her sex life while employed as a congressional assistant. After the blog was discovered and she was fired,[74] she wrote a novel based on her experiences and blog: The Washingtonienne: A Novel. As of 2006, Cutler is being sued by one of her former lovers in a case that could establish the extent to which bloggers are obligated to protect the privacy of their real life associates.[75]
+IN INDIA, BLOGGER GAURAV SABNIS RESIGNED FROM IBM AFTER HIS POSTS QUESTIONED THE CLAIMS MADE BY A MANAGEMENT SCHOOL.[73] JESSICA CUTLER, AKA "THE WASHINGTONIENNE", BLOGGED ABOUT HER SEX LIFE WHILE EMPLOYED AS A CONGRESSIONAL ASSISTANT. AFTER THE BLOG WAS DISCOVERED AND SHE WAS FIRED,[74] SHE WROTE A NOVEL BASED ON HER EXPERIENCES AND BLOG: THE WASHINGTONIENNE: A NOVEL. AS OF 2006, CUTLER IS BEING SUED BY ONE OF HER FORMER LOVERS IN A CASE THAT COULD ESTABLISH THE EXTENT TO WHICH BLOGGERS ARE OBLIGATED TO PROTECT THE PRIVACY OF THEIR REAL LIFE ASSOCIATES.[75]
 
-Catherine Sanderson, a.k.a. Petite Anglaise, lost her job in Paris at a British accountancy firm because of blogging.[76] Although given in the blog in a fairly anonymous manner, some of the descriptions of the firm and some of its people were less than flattering. Sanderson later won a compensation claim case against the British firm, however.[77]
+CATHERINE SANDERSON, A.K.A. PETITE ANGLAISE, LOST HER JOB IN PARIS AT A BRITISH ACCOUNTANCY FIRM BECAUSE OF BLOGGING.[76] ALTHOUGH GIVEN IN THE BLOG IN A FAIRLY ANONYMOUS MANNER, SOME OF THE DESCRIPTIONS OF THE FIRM AND SOME OF ITS PEOPLE WERE LESS THAN FLATTERING. SANDERSON LATER WON A COMPENSATION CLAIM CASE AGAINST THE BRITISH FIRM, HOWEVER.[77]
 
-On the other hand, Penelope Trunk wrote an upbeat article in The Boston Globe in 2006, entitled "Blogs 'essential' to a good career".[78] She was one of the first journalists to point out that a large portion of bloggers are professionals and that a well-written blog can help attract employers.
+ON THE OTHER HAND, PENELOPE TRUNK WROTE AN UPBEAT ARTICLE IN THE BOSTON GLOBE IN 2006, ENTITLED "BLOGS 'ESSENTIAL' TO A GOOD CAREER".[78] SHE WAS ONE OF THE FIRST JOURNALISTS TO POINT OUT THAT A LARGE PORTION OF BLOGGERS ARE PROFESSIONALS AND THAT A WELL-WRITTEN BLOG CAN HELP ATTRACT EMPLOYERS.
 
-Business owners
-Business owners who blog about their business can also run into legal consequences. Mark Cuban, owner of the Dallas Mavericks, was fined during the 2006 NBA playoffs for criticizing NBA officials on the court and in his blog.[79]
+BUSINESS OWNERS
+BUSINESS OWNERS WHO BLOG ABOUT THEIR BUSINESS CAN ALSO RUN INTO LEGAL CONSEQUENCES. MARK CUBAN, OWNER OF THE DALLAS MAVERICKS, WAS FINED DURING THE 2006 NBA PLAYOFFS FOR CRITICIZING NBA OFFICIALS ON THE COURT AND IN HIS BLOG.[79]
 
-Political dangers
-See also: Political repression of cyber-dissidents
-Blogging can sometimes have unforeseen consequences in politically sensitive areas. In some countries, Internet police or secret police may monitor blogs and arrest blog authors or commentators. Blogs can be much harder to control than broadcast or print media because a person can create a blog whose authorship is hard to trace by using anonymity technology such as Tor. As a result, totalitarian and authoritarian regimes often seek to suppress blogs and punish those who maintain them.
+POLITICAL DANGERS
+SEE ALSO: POLITICAL REPRESSION OF CYBER-DISSIDENTS
+BLOGGING CAN SOMETIMES HAVE UNFORESEEN CONSEQUENCES IN POLITICALLY SENSITIVE AREAS. IN SOME COUNTRIES, INTERNET POLICE OR SECRET POLICE MAY MONITOR BLOGS AND ARREST BLOG AUTHORS OR COMMENTATORS. BLOGS CAN BE MUCH HARDER TO CONTROL THAN BROADCAST OR PRINT MEDIA BECAUSE A PERSON CAN CREATE A BLOG WHOSE AUTHORSHIP IS HARD TO TRACE BY USING ANONYMITY TECHNOLOGY SUCH AS TOR. AS A RESULT, TOTALITARIAN AND AUTHORITARIAN REGIMES OFTEN SEEK TO SUPPRESS BLOGS AND PUNISH THOSE WHO MAINTAIN THEM.
 
-In Singapore, two ethnic Chinese individuals were imprisoned under the country's anti-sedition law for posting anti-Muslim remarks in their blogs.[80] Egyptian blogger Kareem Amer was charged with insulting the Egyptian president Hosni Mubarak and an Islamic institution through his blog. It is the first time in the history of Egypt that a blogger was prosecuted. After a brief trial session that took place in Alexandria, the blogger was found guilty and sentenced to prison terms of three years for insulting Islam and inciting sedition and one year for insulting Mubarak.[81] Egyptian blogger Abdel Monem Mahmoud was arrested in April 2007 for anti-government writings in his blog. Monem is a member of the then banned Muslim Brotherhood. After the 2011 Egyptian revolution, the Egyptian blogger Maikel Nabil Sanad was charged with insulting the military for an article he wrote on his personal blog and sentenced to three years.[82]
+IN SINGAPORE, TWO ETHNIC CHINESE INDIVIDUALS WERE IMPRISONED UNDER THE COUNTRY'S ANTI-SEDITION LAW FOR POSTING ANTI-MUSLIM REMARKS IN THEIR BLOGS.[80] EGYPTIAN BLOGGER KAREEM AMER WAS CHARGED WITH INSULTING THE EGYPTIAN PRESIDENT HOSNI MUBARAK AND AN ISLAMIC INSTITUTION THROUGH HIS BLOG. IT IS THE FIRST TIME IN THE HISTORY OF EGYPT THAT A BLOGGER WAS PROSECUTED. AFTER A BRIEF TRIAL SESSION THAT TOOK PLACE IN ALEXANDRIA, THE BLOGGER WAS FOUND GUILTY AND SENTENCED TO PRISON TERMS OF THREE YEARS FOR INSULTING ISLAM AND INCITING SEDITION AND ONE YEAR FOR INSULTING MUBARAK.[81] EGYPTIAN BLOGGER ABDEL MONEM MAHMOUD WAS ARRESTED IN APRIL 2007 FOR ANTI-GOVERNMENT WRITINGS IN HIS BLOG. MONEM IS A MEMBER OF THE THEN BANNED MUSLIM BROTHERHOOD. AFTER THE 2011 EGYPTIAN REVOLUTION, THE EGYPTIAN BLOGGER MAIKEL NABIL SANAD WAS CHARGED WITH INSULTING THE MILITARY FOR AN ARTICLE HE WROTE ON HIS PERSONAL BLOG AND SENTENCED TO THREE YEARS.[82]
 
-After expressing opinions in his personal blog about the state of the Sudanese armed forces, Jan Pronk, United Nations Special Representative for Sudan, was given three days notice to leave Sudan. The Sudanese army had demanded his deportation.[83][84] In Myanmar, Nay Phone Latt, a blogger, was sentenced to 20 years in jail for posting a cartoon critical of head of state Than Shwe.[85]
+AFTER EXPRESSING OPINIONS IN HIS PERSONAL BLOG ABOUT THE STATE OF THE SUDANESE ARMED FORCES, JAN PRONK, UNITED NATIONS SPECIAL REPRESENTATIVE FOR SUDAN, WAS GIVEN THREE DAYS NOTICE TO LEAVE SUDAN. THE SUDANESE ARMY HAD DEMANDED HIS DEPORTATION.[83][84] IN MYANMAR, NAY PHONE LATT, A BLOGGER, WAS SENTENCED TO 20 YEARS IN JAIL FOR POSTING A CARTOON CRITICAL OF HEAD OF STATE THAN SHWE.[85]
 
-Personal safety
-See also: Cyberstalking and Internet homicide
-One consequence of blogging is the possibility of online or in-person attacks or threats against the blogger, sometimes without apparent reason. In some cases, bloggers have faced cyberbullying. Kathy Sierra, author of the blog "Creating Passionate Users",[86] was the target of threats and misogynistic insults to the point that she cancelled her keynote speech at a technology conference in San Diego, fearing for her safety.[87] While a blogger's anonymity is often tenuous, Internet trolls who would attack a blogger with threats or insults can be emboldened by the anonymity of the online environment, where some users are known only by a pseudonymous "username" (e.g., "Hacker1984"). Sierra and supporters initiated an online discussion aimed at countering abusive online behaviour[88] and developed a Blogger's Code of Conduct, which set out a rules for behaviour in the online space.
+PERSONAL SAFETY
+SEE ALSO: CYBERSTALKING AND INTERNET HOMICIDE
+ONE CONSEQUENCE OF BLOGGING IS THE POSSIBILITY OF ONLINE OR IN-PERSON ATTACKS OR THREATS AGAINST THE BLOGGER, SOMETIMES WITHOUT APPARENT REASON. IN SOME CASES, BLOGGERS HAVE FACED CYBERBULLYING. KATHY SIERRA, AUTHOR OF THE BLOG "CREATING PASSIONATE USERS",[86] WAS THE TARGET OF THREATS AND MISOGYNISTIC INSULTS TO THE POINT THAT SHE CANCELLED HER KEYNOTE SPEECH AT A TECHNOLOGY CONFERENCE IN SAN DIEGO, FEARING FOR HER SAFETY.[87] WHILE A BLOGGER'S ANONYMITY IS OFTEN TENUOUS, INTERNET TROLLS WHO WOULD ATTACK A BLOGGER WITH THREATS OR INSULTS CAN BE EMBOLDENED BY THE ANONYMITY OF THE ONLINE ENVIRONMENT, WHERE SOME USERS ARE KNOWN ONLY BY A PSEUDONYMOUS "USERNAME" (E.G., "HACKER1984"). SIERRA AND SUPPORTERS INITIATED AN ONLINE DISCUSSION AIMED AT COUNTERING ABUSIVE ONLINE BEHAVIOUR[88] AND DEVELOPED A BLOGGER'S CODE OF CONDUCT, WHICH SET OUT A RULES FOR BEHAVIOUR IN THE ONLINE SPACE.
 
-See also
-icon	Internet portal
-	Journalism portal
-Blog award
+SEE ALSO
+ICON	INTERNET PORTAL
+	JOURNALISM PORTAL
+BLOG AWARD
 BROG
-Chat room
-Citizen journalism
-Collaborative blog
-Comparison of free blog hosting services
-Customer engagement
-Glossary of blogging
-Interactive journalism
-Internet think tank
-Israblog
-List of blogs
-List of family-and-homemaking blogs
-Mass collaboration
-Perzine
-Sideblog
-Social blogging
-Think aloud protocol
-Webmaster
-Web template system
-Web traffic
-References
- Blood, Rebecca (September 7, 2000). "Weblogs: A History And Perspective". Archived from the original on May 30, 2015. Retrieved September 2, 2008.
- Mutum, Dilip; Wang, Qing (2010). "Consumer Generated Advertising in Blogs". In Neal M. Burns; Terry Daugherty; Matthew S. Eastin (eds.). Handbook of Research on Digital Media and Advertising: User Generated Content Consumption. Vol. 1. IGI Global. pp. 248–261.
- Gaudeul, Alexia & Peroni, Chiara (2010). "Reciprocal attention and norm of reciprocity in blogging networks". Economics Bulletin. 30 (3): 2230–2248.
- Si Quan Ong (February 3, 2022). "71 Blogging Statistics for 2022". SEO Blog by Ahrefs. Retrieved December 30, 2022.
- "After 10 Years of Blogs, the Future's Brighter Than Ever". Wired. December 17, 2007. Retrieved June 5, 2008.
- "It's the links, stupid". The Economist. April 20, 2006. Retrieved June 5, 2008.
- Merholz, Peter. "Peterme.com". Archived from the original on October 13, 1999. Retrieved June 5, 2008.
- Kottke, Jason (August 26, 2003). "It's 'weblog' not 'web log'". kottke.org. Retrieved June 5, 2008.
- Origins of "Blog" and "Blogger" Archived November 3, 2014, at the Wayback Machine, American Dialect Society Mailing List (April 20, 2008).
- The term "e-log" has been used to describe journal entries sent out via e-mail since as early as March 1996.Norman, David (July 13, 2005). "Users confused by blogs". Archived from the original on June 7, 2007. Retrieved June 5, 2008. "Research staff and students welcome 'E-Log'". University College London. December 2003. Archived from the original on August 12, 2007. Retrieved June 5, 2008.
- Dennis, Michael Aaron; Hosch, William L.; Tikkanen, Amy (April 11, 2007). "blog". Encyclopedia Britannica. Retrieved May 3, 2023.
- "What's New!". Mosaic Communications Corporation. Retrieved June 15, 2013.
- "Ranjit's HTTP playground". Moonmilk. May 19, 1998. Archived from the original on May 19, 1998. Retrieved November 26, 2023.
- Rosenberg, Scott (September 23, 2008). "Scott Rosenberg Traces the Blogosphere's Origins". Mediashift (Interview). Interviewed by Simon Owens. PBS. Retrieved November 26, 2023. For instance, Justin Hall started his site in January 1994, before most of us had heard of the web. I asked him, 'Well, you're one of the first bloggers, was there anyone out there who you were getting inspiration from?' And he pointed me to this other guy named Ranjit Bhatnagar who was keeping a site at moonmilk.com in 1993. And, sure enough, it was a reverse chronological list of stuff he found on the web.
- Bissonnette, Zac (March 2015). "The $12-per-hour Sociology Major Who Made Ty Warner a Billionaire". The Great Beanie Baby Bubble: Mass Delusion and the Dark Side of Cute. Penguin Books. pp. 107–121. ISBN 978-1591846024.
- Harmanci, Reyhan (February 20, 2005). "Time to get a life — pioneer blogger Justin Hall bows out at 31". San Francisco Chronicle. Retrieved June 5, 2008.
- Pournelle, Jerry. "Jerry Pournelle's Chaos Manor". jerrypournelle.com. Archived from the original on February 16, 2024. I can make some claim to this being The Original Blog and Daybook. I certainly started keeping a day book well before most, and long before the term "blog" or Web Log was invented. BIX, the Byte information exchange, preceded the Web by a lot, and I also had a daily journal on GE Genie. Both of those would have been considered blogs if there had been any such term. All that was long before the World Wide Web.
- Festa, Paul (February 25, 2003). "Newsmaker: Blogging comes to Harvard". CNET News. Archived from the original on July 7, 2009. Retrieved January 25, 2007.
- Gallagher, David F. (June 10, 2002). "Technology; A rift among bloggers". The New York Times. Archived from the original on January 22, 2013. ...Dave Winer... whose Scripting News (scripting.com) is one of the oldest blogs.
- "Australian Net Guide". netguide.aust.com (November 12, 1996). Retrieved June 15, 2013.
- Mortensen, Torill; Walker, Jill (2002). "Blogging thoughts: personal publication as an online research tool" (PDF). Researching ICTs in Context: 249–279. Archived (PDF) from the original on February 28, 2022 – via Bergen Open Research Archive.
- Jensen, Mallory (September–October 2005). "Emerging Alternatives: A Brief History of Weblogs". Columbia Journalism Review. Columbia University's Graduate School of Journalism. Archived from the original on April 11, 2008. Retrieved March 29, 2008.
- Bull, Glen; Bull, Gina; Kadjer, Sara. "Writing with Weblogs" (PDF). International Society for Technology in Education. Retrieved December 6, 2023.
- Massing, Michael (August 13, 2009). "The News About the Internet". New York Review of Books. 56 (13): 29–32. Retrieved October 10, 2009.
- Daniel Sandford, BBC News: "Russians tire of corruption spectacle", https://www.bbc.co.uk/news/world-europe-15972326
- Kaminski, Matthew (March 3, 2012). "The Man Vladimir Putin Fears Most (the weekend interview)". The Wall Street Journal.
- Kirkpatrick, David; Roth, Daniel. "Why There's No Escaping the Blog". Fortune. Archived from the original on January 1, 2005. Retrieved January 30, 2014.
- Israel Video Blog aims to show the world 'the beautiful face of real Israel', Ynet, February 24, 2008.
- Latest PR venture of Israel's diplomatic mission in New York attracts large Arab audience, Ynet, June 21, 2007.
- Haviv Rettig Gur (December 30, 2008). "Battlefront Twitter". The Jerusalem Post. Archived from the original on November 10, 2011.
- The Toughest Q's Answered in the Briefest Tweets, Noam Cohen, The New York Times, January 3, 2009. Retrieved January 5, 2009.
- Journalists deserve subsidies too Archived March 24, 2014, at the Wayback Machine, Robert W. McChesney and John Nichols, Delaware Online, November 3, 2009. Retrieved November 10, 2009.
- Lain Kennedy, Joice (January 3, 2008) [2007, the majority was completed by this year]. Job Interviews for Dummies (3rd ed.). Indianapolis: Wiley Publishing, Inc. p. 197. ISBN 9780470177488.
- "7 Things You Should Know About Microblogging". Educause.edu. July 7, 2009. Retrieved October 25, 2012.
- Stephan Metcalf, "Fixing a Hole", The New York Times, March 2006
- Jennifer Saranow, "Blogwatch: This Old House", The Wall Street Journal, September 2007
- "52 Types of Blog Posts that Are Proven to Work". Problogger.net. September 2, 2011. Retrieved July 18, 2017.
- "Blogging goes mobile". BBC News. February 23, 2003. Retrieved June 5, 2008.
- See for instance:
-Mesure, Susie (August 23, 2009). "Is it a diary? Is it an ad? No, it's a mummy blog". The Independent. London. p. 11. Archived from the original on December 29, 2010. Retrieved October 10, 2009.
- "About". Global Voices. Retrieved April 2, 2011.
- Gogoi, Pallavi (October 9, 2006). "Wal-Mart's Jim and Laura: The Real Story". Bloomberg BusinessWeek. Archived from the original on September 26, 2008. Retrieved August 6, 2008.
- Jenkins, Henry (2006). Fans, Bloggers, and Gamers. New York: New York University Press. p. 151. ISBN 978-0814742853.
- Fickling, David, Internet killed the TV star, The Guardian NewsBlog, August 15, 2006
- "Xu Jinglei most popular blogger in world". China Daily. August 24, 2006. Retrieved June 5, 2008.
- Keen, Andrew (2008). The Cult of the Amateur: How Today's Internet Is Killing Our Culture. New York: Nicholas Brealey Publishing. p. 3. ISBN 978-1857885200.
- Marlow, C. Audience, structure and authority in the weblog community Archived September 28, 2011, at the Wayback Machine. Presented at the International Communication Association Conference, May 2004, New Orleans, LA.
- "Blogging Bonnie". Poynter.org. September 18, 2003.
- "National Safety Month". National Safety Council. Archived from the original on June 16, 2014. Retrieved April 9, 2010.
- "Flavor Flav Celebrates National Safety Month". Blogcritics. Archived from the original on February 13, 2009.
- "Blooker rewards books from blogs". BBC News. October 11, 2005. Retrieved June 5, 2008.
- "Blooker prize honours best blogs". BBC News. March 17, 2007. Retrieved June 5, 2008.
- Mutum, Dilip and Wang, Qing (2010). "Consumer Generated Advertising in Blogs". In Neal M. Burns, Terry Daugherty, Matthew S. Eastin (Eds) Handbook of Research on Digital Media and Advertising: User Generated Content Consumption (Vol 1), IGI Global, 248–261.
- "PayPerPost.com offers to sell your soul". TechCrunch. June 30, 2006. Retrieved July 18, 2017.
- "Article Window". The Times of India. Archived from the original on March 18, 2013. Retrieved October 25, 2012.
- McQueen MP. (2009). Bloggers, Beware: What You Write Can Get You Sued. The Wall Street Journal.
- Doe v. Cahill, 884 A.2d 451 (Del. 2005).
- "New Straits Times staffers sue two bloggers". Reporters Without Borders. January 19, 2007. Archived from the original on June 8, 2008. Retrieved June 5, 2008.
- "Government plans to force bloggers to register". Reporters Without Borders. April 6, 2007. Archived from the original on June 11, 2008. Retrieved June 5, 2008.
- Kesmodel, David (August 31, 2005). "Blogger Faces Lawsuit Over Comments Posted by Readers". The Wall Street Journal. Retrieved June 5, 2008.
- Wired Magazine, Legal Showdown in Search Fracas, September 8, 2005
- Sullivan, Danny (April 13, 2006). "SearchEngineWatch". Blog.searchenginewatch.com. Archived from the original on February 4, 2009. Retrieved July 31, 2010.
- "Barkha versus blogger". The Hoot. Retrieved February 2, 2009.
- "Indian bloggers criticizing NDTV". Abhishekarora.com. February 8, 2009. Archived from the original on February 12, 2009. Retrieved April 21, 2013.
- Sanderson, Cathrine (April 2, 2007). "Blogger beware!". The Guardian. London. Retrieved April 2, 2007.
- "Ruling on NightJack author Richard Horton kills blogger anonymity". Archived from the original on August 29, 2011.
- Twist, Jo (November 3, 2004). "US Blogger Fired by her Airline". BBC News. Retrieved June 5, 2008.
- "Delta employee fired for blogging sues airline". USA Today. September 8, 2005. Retrieved June 5, 2008.
- "Queen of the Sky gets marching orders". The Register. November 3, 2004. Retrieved June 5, 2008.
- "Twelfth Omnibus Claims Objection" (PDF). Retrieved July 8, 2014.
- MacLeod, Donald (May 3, 2006). "Lecturer's Blog Sparks Free Speech Row". The Guardian. London. Archived from the original on June 12, 2008. Retrieved June 5, 2008. See also "Forget the Footnotes". Archived from the original on April 13, 2006.
- Hansen, Evan (February 8, 2005). "Google blogger has left the building". CNET News. Retrieved April 4, 2007.
- "Plaxoed! » the official story, straight from the source [Mark Jen's life @ Plaxo]". Archived from the original on July 25, 2008. Retrieved September 10, 2008.
- "Bloggers join hands against B-school". The Indian Express. Archived from the original on December 14, 2005. Retrieved January 30, 2011.
- "The Hill's Sex Diarist Reveals All (Well, Some)". The Washington Post. May 23, 2004. Retrieved June 5, 2008.
- "Steamy D.C. Sex Blog Scandal Heads to Court". NBC News. December 27, 2006. Retrieved June 5, 2008.
- "Bridget Jones Blogger Fire Fury". CNN. July 19, 2006. Retrieved June 5, 2008.
- "Sacked 'petite anglaise' blogger wins compensation claim". The Sydney Morning Herald. March 31, 2007. Retrieved February 6, 2015.
- Trunk, Penelope (April 16, 2006). "Blogs 'essential' to a good career". The Boston Globe. Retrieved April 21, 2013.
- "NBA fines Cuban $200K for antics on, off court". ESPN. May 11, 2006. Retrieved June 5, 2008.
- Kierkegaard, Sylvia (2006). "Blogs, lies and the doocing: The next hotbed of litigation?". Computer Law & Security Report. 22 (2): 127. doi:10.1016/j.clsr.2006.01.002. ISSN 0267-3649.
- "Egypt blogger jailed for insult". BBC News. February 22, 2007. Retrieved June 5, 2008.
- Knafo, Saki (September 15, 2011). "Maikel Nabil Sanad, On Hunger Strike in Egypt, Is Dying". HuffPost. Retrieved December 29, 2011.
- "Sudan expels U.N. envoy for blog". CNN. October 22, 2006. Retrieved March 14, 2007.
- "UN envoy leaves after Sudan row". BBC News. BBC. October 23, 2006. Retrieved October 24, 2006.
- "Burma blogger jailed for 20 years". BBC News. November 11, 2008. Retrieved March 26, 2010.
- "Headrush.typepad.com". Headrush.typepad.com. Retrieved April 21, 2013.
- Pham, Alex (March 31, 2007). "Abuse, threats quiet bloggers' keyboards" (PDF). Los Angeles Times. Archived from the original on June 25, 2008. Retrieved June 5, 2008.
- "Blog death threats spark debate". BBC News. March 27, 2007. Retrieved June 5, 2008.
-Further reading
+CHAT ROOM
+CITIZEN JOURNALISM
+COLLABORATIVE BLOG
+COMPARISON OF FREE BLOG HOSTING SERVICES
+CUSTOMER ENGAGEMENT
+GLOSSARY OF BLOGGING
+INTERACTIVE JOURNALISM
+INTERNET THINK TANK
+ISRABLOG
+LIST OF BLOGS
+LIST OF FAMILY-AND-HOMEMAKING BLOGS
+MASS COLLABORATION
+PERZINE
+SIDEBLOG
+SOCIAL BLOGGING
+THINK ALOUD PROTOCOL
+WEBMASTER
+WEB TEMPLATE SYSTEM
+WEB TRAFFIC
+REFERENCES
+ BLOOD, REBECCA (SEPTEMBER 7, 2000). "WEBLOGS: A HISTORY AND PERSPECTIVE". ARCHIVED FROM THE ORIGINAL ON MAY 30, 2015. RETRIEVED SEPTEMBER 2, 2008.
+ MUTUM, DILIP; WANG, QING (2010). "CONSUMER GENERATED ADVERTISING IN BLOGS". IN NEAL M. BURNS; TERRY DAUGHERTY; MATTHEW S. EASTIN (EDS.). HANDBOOK OF RESEARCH ON DIGITAL MEDIA AND ADVERTISING: USER GENERATED CONTENT CONSUMPTION. VOL. 1. IGI GLOBAL. PP. 248–261.
+ GAUDEUL, ALEXIA & PERONI, CHIARA (2010). "RECIPROCAL ATTENTION AND NORM OF RECIPROCITY IN BLOGGING NETWORKS". ECONOMICS BULLETIN. 30 (3): 2230–2248.
+ SI QUAN ONG (FEBRUARY 3, 2022). "71 BLOGGING STATISTICS FOR 2022". SEO BLOG BY AHREFS. RETRIEVED DECEMBER 30, 2022.
+ "AFTER 10 YEARS OF BLOGS, THE FUTURE'S BRIGHTER THAN EVER". WIRED. DECEMBER 17, 2007. RETRIEVED JUNE 5, 2008.
+ "IT'S THE LINKS, STUPID". THE ECONOMIST. APRIL 20, 2006. RETRIEVED JUNE 5, 2008.
+ MERHOLZ, PETER. "PETERME.COM". ARCHIVED FROM THE ORIGINAL ON OCTOBER 13, 1999. RETRIEVED JUNE 5, 2008.
+ KOTTKE, JASON (AUGUST 26, 2003). "IT'S 'WEBLOG' NOT 'WEB LOG'". KOTTKE.ORG. RETRIEVED JUNE 5, 2008.
+ ORIGINS OF "BLOG" AND "BLOGGER" ARCHIVED NOVEMBER 3, 2014, AT THE WAYBACK MACHINE, AMERICAN DIALECT SOCIETY MAILING LIST (APRIL 20, 2008).
+ THE TERM "E-LOG" HAS BEEN USED TO DESCRIBE JOURNAL ENTRIES SENT OUT VIA E-MAIL SINCE AS EARLY AS MARCH 1996.NORMAN, DAVID (JULY 13, 2005). "USERS CONFUSED BY BLOGS". ARCHIVED FROM THE ORIGINAL ON JUNE 7, 2007. RETRIEVED JUNE 5, 2008. "RESEARCH STAFF AND STUDENTS WELCOME 'E-LOG'". UNIVERSITY COLLEGE LONDON. DECEMBER 2003. ARCHIVED FROM THE ORIGINAL ON AUGUST 12, 2007. RETRIEVED JUNE 5, 2008.
+ DENNIS, MICHAEL AARON; HOSCH, WILLIAM L.; TIKKANEN, AMY (APRIL 11, 2007). "BLOG". ENCYCLOPEDIA BRITANNICA. RETRIEVED MAY 3, 2023.
+ "WHAT'S NEW!". MOSAIC COMMUNICATIONS CORPORATION. RETRIEVED JUNE 15, 2013.
+ "RANJIT'S HTTP PLAYGROUND". MOONMILK. MAY 19, 1998. ARCHIVED FROM THE ORIGINAL ON MAY 19, 1998. RETRIEVED NOVEMBER 26, 2023.
+ ROSENBERG, SCOTT (SEPTEMBER 23, 2008). "SCOTT ROSENBERG TRACES THE BLOGOSPHERE'S ORIGINS". MEDIASHIFT (INTERVIEW). INTERVIEWED BY SIMON OWENS. PBS. RETRIEVED NOVEMBER 26, 2023. FOR INSTANCE, JUSTIN HALL STARTED HIS SITE IN JANUARY 1994, BEFORE MOST OF US HAD HEARD OF THE WEB. I ASKED HIM, 'WELL, YOU'RE ONE OF THE FIRST BLOGGERS, WAS THERE ANYONE OUT THERE WHO YOU WERE GETTING INSPIRATION FROM?' AND HE POINTED ME TO THIS OTHER GUY NAMED RANJIT BHATNAGAR WHO WAS KEEPING A SITE AT MOONMILK.COM IN 1993. AND, SURE ENOUGH, IT WAS A REVERSE CHRONOLOGICAL LIST OF STUFF HE FOUND ON THE WEB.
+ BISSONNETTE, ZAC (MARCH 2015). "THE $12-PER-HOUR SOCIOLOGY MAJOR WHO MADE TY WARNER A BILLIONAIRE". THE GREAT BEANIE BABY BUBBLE: MASS DELUSION AND THE DARK SIDE OF CUTE. PENGUIN BOOKS. PP. 107–121. ISBN 978-1591846024.
+ HARMANCI, REYHAN (FEBRUARY 20, 2005). "TIME TO GET A LIFE — PIONEER BLOGGER JUSTIN HALL BOWS OUT AT 31". SAN FRANCISCO CHRONICLE. RETRIEVED JUNE 5, 2008.
+ POURNELLE, JERRY. "JERRY POURNELLE'S CHAOS MANOR". JERRYPOURNELLE.COM. ARCHIVED FROM THE ORIGINAL ON FEBRUARY 16, 2024. I CAN MAKE SOME CLAIM TO THIS BEING THE ORIGINAL BLOG AND DAYBOOK. I CERTAINLY STARTED KEEPING A DAY BOOK WELL BEFORE MOST, AND LONG BEFORE THE TERM "BLOG" OR WEB LOG WAS INVENTED. BIX, THE BYTE INFORMATION EXCHANGE, PRECEDED THE WEB BY A LOT, AND I ALSO HAD A DAILY JOURNAL ON GE GENIE. BOTH OF THOSE WOULD HAVE BEEN CONSIDERED BLOGS IF THERE HAD BEEN ANY SUCH TERM. ALL THAT WAS LONG BEFORE THE WORLD WIDE WEB.
+ FESTA, PAUL (FEBRUARY 25, 2003). "NEWSMAKER: BLOGGING COMES TO HARVARD". CNET NEWS. ARCHIVED FROM THE ORIGINAL ON JULY 7, 2009. RETRIEVED JANUARY 25, 2007.
+ GALLAGHER, DAVID F. (JUNE 10, 2002). "TECHNOLOGY; A RIFT AMONG BLOGGERS". THE NEW YORK TIMES. ARCHIVED FROM THE ORIGINAL ON JANUARY 22, 2013. ...DAVE WINER... WHOSE SCRIPTING NEWS (SCRIPTING.COM) IS ONE OF THE OLDEST BLOGS.
+ "AUSTRALIAN NET GUIDE". NETGUIDE.AUST.COM (NOVEMBER 12, 1996). RETRIEVED JUNE 15, 2013.
+ MORTENSEN, TORILL; WALKER, JILL (2002). "BLOGGING THOUGHTS: PERSONAL PUBLICATION AS AN ONLINE RESEARCH TOOL" (PDF). RESEARCHING ICTS IN CONTEXT: 249–279. ARCHIVED (PDF) FROM THE ORIGINAL ON FEBRUARY 28, 2022 – VIA BERGEN OPEN RESEARCH ARCHIVE.
+ JENSEN, MALLORY (SEPTEMBER–OCTOBER 2005). "EMERGING ALTERNATIVES: A BRIEF HISTORY OF WEBLOGS". COLUMBIA JOURNALISM REVIEW. COLUMBIA UNIVERSITY'S GRADUATE SCHOOL OF JOURNALISM. ARCHIVED FROM THE ORIGINAL ON APRIL 11, 2008. RETRIEVED MARCH 29, 2008.
+ BULL, GLEN; BULL, GINA; KADJER, SARA. "WRITING WITH WEBLOGS" (PDF). INTERNATIONAL SOCIETY FOR TECHNOLOGY IN EDUCATION. RETRIEVED DECEMBER 6, 2023.
+ MASSING, MICHAEL (AUGUST 13, 2009). "THE NEWS ABOUT THE INTERNET". NEW YORK REVIEW OF BOOKS. 56 (13): 29–32. RETRIEVED OCTOBER 10, 2009.
+ DANIEL SANDFORD, BBC NEWS: "RUSSIANS TIRE OF CORRUPTION SPECTACLE", HTTPS://WWW.BBC.CO.UK/NEWS/WORLD-EUROPE-15972326
+ KAMINSKI, MATTHEW (MARCH 3, 2012). "THE MAN VLADIMIR PUTIN FEARS MOST (THE WEEKEND INTERVIEW)". THE WALL STREET JOURNAL.
+ KIRKPATRICK, DAVID; ROTH, DANIEL. "WHY THERE'S NO ESCAPING THE BLOG". FORTUNE. ARCHIVED FROM THE ORIGINAL ON JANUARY 1, 2005. RETRIEVED JANUARY 30, 2014.
+ ISRAEL VIDEO BLOG AIMS TO SHOW THE WORLD 'THE BEAUTIFUL FACE OF REAL ISRAEL', YNET, FEBRUARY 24, 2008.
+ LATEST PR VENTURE OF ISRAEL'S DIPLOMATIC MISSION IN NEW YORK ATTRACTS LARGE ARAB AUDIENCE, YNET, JUNE 21, 2007.
+ HAVIV RETTIG GUR (DECEMBER 30, 2008). "BATTLEFRONT TWITTER". THE JERUSALEM POST. ARCHIVED FROM THE ORIGINAL ON NOVEMBER 10, 2011.
+ THE TOUGHEST Q'S ANSWERED IN THE BRIEFEST TWEETS, NOAM COHEN, THE NEW YORK TIMES, JANUARY 3, 2009. RETRIEVED JANUARY 5, 2009.
+ JOURNALISTS DESERVE SUBSIDIES TOO ARCHIVED MARCH 24, 2014, AT THE WAYBACK MACHINE, ROBERT W. MCCHESNEY AND JOHN NICHOLS, DELAWARE ONLINE, NOVEMBER 3, 2009. RETRIEVED NOVEMBER 10, 2009.
+ LAIN KENNEDY, JOICE (JANUARY 3, 2008) [2007, THE MAJORITY WAS COMPLETED BY THIS YEAR]. JOB INTERVIEWS FOR DUMMIES (3RD ED.). INDIANAPOLIS: WILEY PUBLISHING, INC. P. 197. ISBN 9780470177488.
+ "7 THINGS YOU SHOULD KNOW ABOUT MICROBLOGGING". EDUCAUSE.EDU. JULY 7, 2009. RETRIEVED OCTOBER 25, 2012.
+ STEPHAN METCALF, "FIXING A HOLE", THE NEW YORK TIMES, MARCH 2006
+ JENNIFER SARANOW, "BLOGWATCH: THIS OLD HOUSE", THE WALL STREET JOURNAL, SEPTEMBER 2007
+ "52 TYPES OF BLOG POSTS THAT ARE PROVEN TO WORK". PROBLOGGER.NET. SEPTEMBER 2, 2011. RETRIEVED JULY 18, 2017.
+ "BLOGGING GOES MOBILE". BBC NEWS. FEBRUARY 23, 2003. RETRIEVED JUNE 5, 2008.
+ SEE FOR INSTANCE:
+MESURE, SUSIE (AUGUST 23, 2009). "IS IT A DIARY? IS IT AN AD? NO, IT'S A MUMMY BLOG". THE INDEPENDENT. LONDON. P. 11. ARCHIVED FROM THE ORIGINAL ON DECEMBER 29, 2010. RETRIEVED OCTOBER 10, 2009.
+ "ABOUT". GLOBAL VOICES. RETRIEVED APRIL 2, 2011.
+ GOGOI, PALLAVI (OCTOBER 9, 2006). "WAL-MART'S JIM AND LAURA: THE REAL STORY". BLOOMBERG BUSINESSWEEK. ARCHIVED FROM THE ORIGINAL ON SEPTEMBER 26, 2008. RETRIEVED AUGUST 6, 2008.
+ JENKINS, HENRY (2006). FANS, BLOGGERS, AND GAMERS. NEW YORK: NEW YORK UNIVERSITY PRESS. P. 151. ISBN 978-0814742853.
+ FICKLING, DAVID, INTERNET KILLED THE TV STAR, THE GUARDIAN NEWSBLOG, AUGUST 15, 2006
+ "XU JINGLEI MOST POPULAR BLOGGER IN WORLD". CHINA DAILY. AUGUST 24, 2006. RETRIEVED JUNE 5, 2008.
+ KEEN, ANDREW (2008). THE CULT OF THE AMATEUR: HOW TODAY'S INTERNET IS KILLING OUR CULTURE. NEW YORK: NICHOLAS BREALEY PUBLISHING. P. 3. ISBN 978-1857885200.
+ MARLOW, C. AUDIENCE, STRUCTURE AND AUTHORITY IN THE WEBLOG COMMUNITY ARCHIVED SEPTEMBER 28, 2011, AT THE WAYBACK MACHINE. PRESENTED AT THE INTERNATIONAL COMMUNICATION ASSOCIATION CONFERENCE, MAY 2004, NEW ORLEANS, LA.
+ "BLOGGING BONNIE". POYNTER.ORG. SEPTEMBER 18, 2003.
+ "NATIONAL SAFETY MONTH". NATIONAL SAFETY COUNCIL. ARCHIVED FROM THE ORIGINAL ON JUNE 16, 2014. RETRIEVED APRIL 9, 2010.
+ "FLAVOR FLAV CELEBRATES NATIONAL SAFETY MONTH". BLOGCRITICS. ARCHIVED FROM THE ORIGINAL ON FEBRUARY 13, 2009.
+ "BLOOKER REWARDS BOOKS FROM BLOGS". BBC NEWS. OCTOBER 11, 2005. RETRIEVED JUNE 5, 2008.
+ "BLOOKER PRIZE HONOURS BEST BLOGS". BBC NEWS. MARCH 17, 2007. RETRIEVED JUNE 5, 2008.
+ MUTUM, DILIP AND WANG, QING (2010). "CONSUMER GENERATED ADVERTISING IN BLOGS". IN NEAL M. BURNS, TERRY DAUGHERTY, MATTHEW S. EASTIN (EDS) HANDBOOK OF RESEARCH ON DIGITAL MEDIA AND ADVERTISING: USER GENERATED CONTENT CONSUMPTION (VOL 1), IGI GLOBAL, 248–261.
+ "PAYPERPOST.COM OFFERS TO SELL YOUR SOUL". TECHCRUNCH. JUNE 30, 2006. RETRIEVED JULY 18, 2017.
+ "ARTICLE WINDOW". THE TIMES OF INDIA. ARCHIVED FROM THE ORIGINAL ON MARCH 18, 2013. RETRIEVED OCTOBER 25, 2012.
+ MCQUEEN MP. (2009). BLOGGERS, BEWARE: WHAT YOU WRITE CAN GET YOU SUED. THE WALL STREET JOURNAL.
+ DOE V. CAHILL, 884 A.2D 451 (DEL. 2005).
+ "NEW STRAITS TIMES STAFFERS SUE TWO BLOGGERS". REPORTERS WITHOUT BORDERS. JANUARY 19, 2007. ARCHIVED FROM THE ORIGINAL ON JUNE 8, 2008. RETRIEVED JUNE 5, 2008.
+ "GOVERNMENT PLANS TO FORCE BLOGGERS TO REGISTER". REPORTERS WITHOUT BORDERS. APRIL 6, 2007. ARCHIVED FROM THE ORIGINAL ON JUNE 11, 2008. RETRIEVED JUNE 5, 2008.
+ KESMODEL, DAVID (AUGUST 31, 2005). "BLOGGER FACES LAWSUIT OVER COMMENTS POSTED BY READERS". THE WALL STREET JOURNAL. RETRIEVED JUNE 5, 2008.
+ WIRED MAGAZINE, LEGAL SHOWDOWN IN SEARCH FRACAS, SEPTEMBER 8, 2005
+ SULLIVAN, DANNY (APRIL 13, 2006). "SEARCHENGINEWATCH". BLOG.SEARCHENGINEWATCH.COM. ARCHIVED FROM THE ORIGINAL ON FEBRUARY 4, 2009. RETRIEVED JULY 31, 2010.
+ "BARKHA VERSUS BLOGGER". THE HOOT. RETRIEVED FEBRUARY 2, 2009.
+ "INDIAN BLOGGERS CRITICIZING NDTV". ABHISHEKARORA.COM. FEBRUARY 8, 2009. ARCHIVED FROM THE ORIGINAL ON FEBRUARY 12, 2009. RETRIEVED APRIL 21, 2013.
+ SANDERSON, CATHRINE (APRIL 2, 2007). "BLOGGER BEWARE!". THE GUARDIAN. LONDON. RETRIEVED APRIL 2, 2007.
+ "RULING ON NIGHTJACK AUTHOR RICHARD HORTON KILLS BLOGGER ANONYMITY". ARCHIVED FROM THE ORIGINAL ON AUGUST 29, 2011.
+ TWIST, JO (NOVEMBER 3, 2004). "US BLOGGER FIRED BY HER AIRLINE". BBC NEWS. RETRIEVED JUNE 5, 2008.
+ "DELTA EMPLOYEE FIRED FOR BLOGGING SUES AIRLINE". USA TODAY. SEPTEMBER 8, 2005. RETRIEVED JUNE 5, 2008.
+ "QUEEN OF THE SKY GETS MARCHING ORDERS". THE REGISTER. NOVEMBER 3, 2004. RETRIEVED JUNE 5, 2008.
+ "TWELFTH OMNIBUS CLAIMS OBJECTION" (PDF). RETRIEVED JULY 8, 2014.
+ MACLEOD, DONALD (MAY 3, 2006). "LECTURER'S BLOG SPARKS FREE SPEECH ROW". THE GUARDIAN. LONDON. ARCHIVED FROM THE ORIGINAL ON JUNE 12, 2008. RETRIEVED JUNE 5, 2008. SEE ALSO "FORGET THE FOOTNOTES". ARCHIVED FROM THE ORIGINAL ON APRIL 13, 2006.
+ HANSEN, EVAN (FEBRUARY 8, 2005). "GOOGLE BLOGGER HAS LEFT THE BUILDING". CNET NEWS. RETRIEVED APRIL 4, 2007.
+ "PLAXOED! » THE OFFICIAL STORY, STRAIGHT FROM THE SOURCE [MARK JEN'S LIFE @ PLAXO]". ARCHIVED FROM THE ORIGINAL ON JULY 25, 2008. RETRIEVED SEPTEMBER 10, 2008.
+ "BLOGGERS JOIN HANDS AGAINST B-SCHOOL". THE INDIAN EXPRESS. ARCHIVED FROM THE ORIGINAL ON DECEMBER 14, 2005. RETRIEVED JANUARY 30, 2011.
+ "THE HILL'S SEX DIARIST REVEALS ALL (WELL, SOME)". THE WASHINGTON POST. MAY 23, 2004. RETRIEVED JUNE 5, 2008.
+ "STEAMY D.C. SEX BLOG SCANDAL HEADS TO COURT". NBC NEWS. DECEMBER 27, 2006. RETRIEVED JUNE 5, 2008.
+ "BRIDGET JONES BLOGGER FIRE FURY". CNN. JULY 19, 2006. RETRIEVED JUNE 5, 2008.
+ "SACKED 'PETITE ANGLAISE' BLOGGER WINS COMPENSATION CLAIM". THE SYDNEY MORNING HERALD. MARCH 31, 2007. RETRIEVED FEBRUARY 6, 2015.
+ TRUNK, PENELOPE (APRIL 16, 2006). "BLOGS 'ESSENTIAL' TO A GOOD CAREER". THE BOSTON GLOBE. RETRIEVED APRIL 21, 2013.
+ "NBA FINES CUBAN $200K FOR ANTICS ON, OFF COURT". ESPN. MAY 11, 2006. RETRIEVED JUNE 5, 2008.
+ KIERKEGAARD, SYLVIA (2006). "BLOGS, LIES AND THE DOOCING: THE NEXT HOTBED OF LITIGATION?". COMPUTER LAW & SECURITY REPORT. 22 (2): 127. DOI:10.1016/J.CLSR.2006.01.002. ISSN 0267-3649.
+ "EGYPT BLOGGER JAILED FOR INSULT". BBC NEWS. FEBRUARY 22, 2007. RETRIEVED JUNE 5, 2008.
+ KNAFO, SAKI (SEPTEMBER 15, 2011). "MAIKEL NABIL SANAD, ON HUNGER STRIKE IN EGYPT, IS DYING". HUFFPOST. RETRIEVED DECEMBER 29, 2011.
+ "SUDAN EXPELS U.N. ENVOY FOR BLOG". CNN. OCTOBER 22, 2006. RETRIEVED MARCH 14, 2007.
+ "UN ENVOY LEAVES AFTER SUDAN ROW". BBC NEWS. BBC. OCTOBER 23, 2006. RETRIEVED OCTOBER 24, 2006.
+ "BURMA BLOGGER JAILED FOR 20 YEARS". BBC NEWS. NOVEMBER 11, 2008. RETRIEVED MARCH 26, 2010.
+ "HEADRUSH.TYPEPAD.COM". HEADRUSH.TYPEPAD.COM. RETRIEVED APRIL 21, 2013.
+ PHAM, ALEX (MARCH 31, 2007). "ABUSE, THREATS QUIET BLOGGERS' KEYBOARDS" (PDF). LOS ANGELES TIMES. ARCHIVED FROM THE ORIGINAL ON JUNE 25, 2008. RETRIEVED JUNE 5, 2008.
+ "BLOG DEATH THREATS SPARK DEBATE". BBC NEWS. MARCH 27, 2007. RETRIEVED JUNE 5, 2008.
+FURTHER READING
