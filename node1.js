@@ -31,40 +31,40 @@ fs.appendFileSync("node1.txt", new Date().toString(), (err) => {
 const http=require('http');
 
 
-const server=http.createServer((req,res)=>{
-    res.writeHead(200,{
-        "content-type":"text/html"
-    }),
-    res.end("<h1>Hello world</h1>");
+// const server=http.createServer((req,res)=>{
+//     res.writeHead(200,{
+//         "content-type":"text/html"
+//     }),
+//     res.end("<h1>Hello world</h1>");
 
-    const log=`${Date.now()}:new request received `
-    fs.appendFileSync("log.txt", log, (err) => {
-        if (err) throw err;
-        console.log("Data appended successfully");    
-    })
+//     const log=`${Date.now()}:new request received `
+//     fs.appendFileSync("log.txt", log, (err) => {
+//         if (err) throw err;
+//         console.log("Data appended successfully");    
+//     })
 
-})
+// })
 
-server.listen(3000,()=>{
-    console.log("Server is running on port 3000");
-})
+// server.listen(3000,()=>{
+//     console.log("Server is running on port 3000");
+// })
 
 /////////////////////////
 
-setTimeout(()=>{
-    console.log("hello world")
-},2000)
+// setTimeout(()=>{
+//     console.log("hello world")
+// },2000)
 
 
-let count=0;
+// let count=0;
 
-const cc=setInterval(()=>{
-    console.log(`${count}:the count is ${count}`);
-    if(count===5){
-        clearInterval(cc);
-    }
-    count++;
-},1000)
+// const cc=setInterval(()=>{
+//     console.log(`${count}:the count is ${count}`);
+//     if(count===5){
+//         clearInterval(cc);
+//     }
+//     count++;
+// },1000)
 
 ///////////////////////////
 /////
@@ -157,4 +157,61 @@ const cc=setInterval(()=>{
 
 
 ////////////////////////////////////////////////////////////////////////
+///stream////
 
+
+const server=http.createServer((req,res)=>{
+    // res.end("<h1>Hello world</h1>");
+
+
+    // const file=fs.readFileSync("sample.txt")
+    // res.end(file);
+
+
+//download file in a good way
+    // const readablestream=fs.createReadStream("sample.txt");
+    // readablestream.pipe(res);
+   
+
+
+//copy paste
+    //  const readstream=fs.createReadStream("sample.txt");
+    //  const writestream=fs.createWriteStream("output.txt");
+
+
+    //  readstream.on('data',(chunk)=>{
+    //     console.log("new chunk received",chunk);
+    //     writestream.write(chunk);
+        
+    //  })
+})
+
+
+
+server.listen(3000,()=>{
+    console.log("Server is running on port 3000");
+})
+
+
+/////////////////
+const {Readable,Writable}=require('stream');
+
+const readable=new Readable({
+    highWaterMark:2,
+    read() {
+    }
+})
+
+const writable=new Writable({
+    write(streamdata){
+        console.log("new data received",streamdata.toString());
+        
+    }
+})
+
+readable.on("data",(chunk)=>{
+    console.log("new chunk received",chunk.toString());
+    writable.write(chunk);
+})
+
+readable.push("hello")
