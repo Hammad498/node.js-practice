@@ -246,7 +246,7 @@ const b=crypto.randomBytes(8).toString('hex');
 console.log(b);
 
 const hash=crypto.createHash('sha256').update('hello world').digest('hex');
-const inputvalue="hell0 world";
+const inputvalue="hello world";
 const matchvalue=crypto.createHash('sha256').update(inputvalue).digest('hex')
 
 if(hash===matchvalue){
@@ -311,23 +311,30 @@ app.post('api/v1/users',(req,res)=>{
 
 ///////////////
 
-app.post('/api/v1/users', (req, res) => {
-    console.log("Request body:", req.body); 
 
-    
-    const newUser = req.body;
-   
-    if (!newUser.id || !newUser.username || !newUser.email) {
-        return res.status(400).send({ message: "ID, username, and email are required" });
-    }
-
-    
-    userdata.data.push(newUser);
-
-    
-    res.status(201).send({ message: "User created successfully", user: newUser });
-});
 
 app.listen(3000,()=>{
     console.log("Server is running on port 3000");
 })
+
+
+
+
+app.post("/api/v1/users", (req, res) => {
+    const user = req.body;
+
+    if (!user.username || !user.id || !user.email) {
+        return res.status(400).json({ error: "Missing required fields" });
+    }
+
+    try {
+        userdata.data.push(user);
+        console.log(user);
+        res.status(201).json({ 
+            message: "User created successfully!",
+            user: user 
+        });
+    } catch (error) {
+        res.status(500).json({ error: "Internal server error" });
+    }
+});
