@@ -262,6 +262,8 @@ console.log(hash);
 const express=require('express');
 const app=express();
 
+app.use(express.json());
+
 const userdata =require('./data/data.js');
 
 
@@ -286,7 +288,7 @@ app.get("/api/v1/users", (req, res) => {
     }
 });
 
-
+///params
 app.get("/api/v1/users/:id",(req,res)=>{
     const {id}=req.params;
     const user=userdata.data.find((user)=>user.id===parseInt(id));
@@ -306,6 +308,25 @@ app.post('api/v1/users',(req,res)=>{
     res.status(201).send({message:"user created successfully"});
    
 })
+
+///////////////
+
+app.post('/api/v1/users', (req, res) => {
+    console.log("Request body:", req.body); 
+
+    
+    const newUser = req.body;
+   
+    if (!newUser.id || !newUser.username || !newUser.email) {
+        return res.status(400).send({ message: "ID, username, and email are required" });
+    }
+
+    
+    userdata.data.push(newUser);
+
+    
+    res.status(201).send({ message: "User created successfully", user: newUser });
+});
 
 app.listen(3000,()=>{
     console.log("Server is running on port 3000");
