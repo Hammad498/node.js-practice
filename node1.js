@@ -320,21 +320,113 @@ app.listen(3000,()=>{
 
 
 
-app.post("/api/v1/users", (req, res) => {
-    const user = req.body;
+// app.post("/api/v1/users", (req, res) => {
+//     const user = req.body;
 
-    if (!user.username || !user.id || !user.email) {
-        return res.status(400).json({ error: "Missing required fields" });
+//     if (!user.username || !user.id || !user.email) {
+//         return res.status(400).json({ error: "Missing required fields" });
+//     }
+
+//     try {
+//         userdata.data.push(user);
+//         console.log(user);
+//         res.status(201).json({ 
+//             message: "User created successfully!",
+//             user: user 
+//         });
+//     } catch (error) {
+//         res.status(500).json({ error: "Internal server error" });
+//     }
+// });
+
+
+
+//////////////////
+
+app.post('/api/v1/users', (req, res) => {
+    const { username, email } = req.body;
+
+    
+    if (!username || !email) {
+        return res.status(400).json({ error: "Username and email are required" });
     }
 
-    try {
-        userdata.data.push(user);
-        console.log(user);
-        res.status(201).json({ 
-            message: "User created successfully!",
-            user: user 
-        });
-    } catch (error) {
-        res.status(500).json({ error: "Internal server error" });
+    const User = {
+        id: userdata.length + 1, 
+        username,
+        email,
+    };
+
+    userdata.push(User);  
+
+    res.status(201).send(User);  
+});
+
+
+// const { data: userdata } = require('./data/data.js');  
+
+// // POST route
+// app.post('/api/v1/users', (req, res) => {
+//     const { username, email } = req.body;
+
+//     if (!username || !email) {
+//         return res.status(400).json({ error: "Username and email are required" });
+//     }
+
+//     const User = {
+//         id: userdata.length + 1,  
+//         username,
+//         email,
+//     };
+
+//     userdata.push(User);  
+
+//     res.status(201).send(User); 
+// });
+
+///put///////////////////////////////
+
+
+// app.put("/api/v1/users/:id",(req,res)=>{
+//     const {body,params:{id}}=req;
+
+//     const parsedid=parseInt(id);
+
+//     const userIndex=userdata.findIndex((user)=>user.id===parsedid);
+//     if(userIndex===-1){
+//         res.status(404).send('not found');
+//     }
+
+//     userdata[userIndex]={
+//         id:parsedid,
+//         ...body
+//     }
+
+//     res.status(201).send({
+//         message:"User Updated",
+//         data:userdata[userIndex]
+//     })
+    
+// })
+
+
+app.put('/api/v1/users/:id', (req, res) => {
+    const { body, params: { id } } = req;
+
+    const parsedId = parseInt(id);  // Use camelCase for consistency
+
+    const userIndex = userdata.findIndex((user) => user.id === parsedId);
+    if (userIndex === -1) {
+        return res.status(404).send('Not found');
     }
+
+    userdata[userIndex] = {
+        id: parsedId,
+        ...body  // Overwrite with new username and email
+    };
+
+    res.status(201).send({
+        message: "User Updated",
+        data: userdata[userIndex]
+    });
 });
