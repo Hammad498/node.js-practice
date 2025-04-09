@@ -6,10 +6,10 @@
   "scripts": {
     "start": "node node1.js",
     "dev": "nodemon node1.js"
-
   },
   "author": "",
   "license": "ISC",
+  
   "dependencies": {
     "cors": "^2.8.5",
     "env": "^0.0.2",

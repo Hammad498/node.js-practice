@@ -28,26 +28,26 @@ fs.appendFileSync("node1.txt", new Date().toString(), (err) => {
 
 
 
-const http=require('http');
+// const http=require('http');
 
 
-const server=http.createServer((req,res)=>{
-    res.writeHead(200,{
-        "content-type":"text/html"
-    }),
-    res.end("<h1>Hello world</h1>");
+// const server=http.createServer((req,res)=>{
+//     res.writeHead(200,{
+//         "content-type":"text/html"
+//     }),
+//     res.end("<h1>Hello world</h1>");
 
-    const log=`${Date.now()}:new request received `
-    fs.appendFileSync("log.txt", log, (err) => {
-        if (err) throw err;
-        console.log("Data appended successfully");    
-    })
+//     const log=`${Date.now()}:new request received `
+//     fs.appendFileSync("log.txt", log, (err) => {
+//         if (err) throw err;
+//         console.log("Data appended successfully");    
+//     })
 
-})
+// })
 
-server.listen(3000,()=>{
-    console.log("Server is running on port 3000");
-})
+// server.listen(3000,()=>{
+//     console.log("Server is running on port 3000");
+// })
 
 /////////////////////////
 
@@ -257,3 +257,48 @@ else{
 }
 console.log(hash);
 ////////////
+
+
+const express=require('express');
+const app=express();
+
+const userdata =require('./data/data.js');
+
+
+app.get("/",(req,res)=>{
+    res.send("<h1>Hello world</h1>");
+})
+
+
+app.get("/api/v1/users",(req,res)=>{
+    res.status(200).send(userdata.data);
+})
+
+app.get("/api/v1/users", (req, res) => {
+    const { username } = req.query;
+    console.log("Query username:", username);
+    if (username) {
+        const user = userdata.data.filter((user) => user.username === username);
+        console.log("Filtered result:", user);
+        res.status(200).send(user);
+    } else {
+        res.status(400).send({ message: "Please provide a username" });
+    }
+});
+
+
+app.get("/api/v1/users/:id",(req,res)=>{
+    const {id}=req.params;
+    const user=userdata.data.find((user)=>user.id===parseInt(id));
+    if(user){
+        res.status(200).send(user);
+    }
+    else{
+        res.status(404).send({message:"user not found"});
+    }
+
+})
+
+app.listen(3000,()=>{
+    console.log("Server is running on port 3000");
+})

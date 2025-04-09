@@ -1,8 +1,8 @@
 
 
 
-function fs1(a,a){
-    return a+a;
+function fs1(a,b){
+    return a+b;
 }
 
 module.exports = {
