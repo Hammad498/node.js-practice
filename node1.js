@@ -430,3 +430,16 @@ app.put('/api/v1/users/:id', (req, res) => {
         data: userdata[userIndex]
     });
 });
+
+///////////////////////
+
+///middlewares   1.global   2.specific for routes 3.in-built ////////////////
+
+
+function middleware(req,res,next){
+    console.log("Middleware executed");
+    next();
+   
+}
+
+app.use(middleware);
