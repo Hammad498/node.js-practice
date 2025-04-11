@@ -1,14 +1,17 @@
 import exprress from 'express';
-import router from './router/route.middleware.js';
+import publicRoutes from './routes/public.routes.js';
+import privateRoutes from './routes/private.routes.js';
+
 
 const app=exprress();
 
+app.use(exprress.json());
 
-app.use("/api/v1",router);
+app.use("/public",publicRoutes);
+app.use("/private",privateRoutes);
 
-app.get("/", (req, res) => {
-    res.send("Hello World");
-});
+
+
 
 
 app.listen(8000,()=>{
