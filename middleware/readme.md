@@ -19,3 +19,12 @@
 
 ==>b/c private route is accessed by that token
 1. auth middleware before accessing the dashboard
+    token comes from hitting the public route
+    copy the token ,, save/copy and in the /dashboard in headers section (key:authorizations   value:token)
+    validate if exists and after validate make a custom user (testing purpose) name & id , so when we hit the dashboard route after saving the token generted on hitting the public route it shows the user name using (${req.user.name}` ) in privvate route ...
+
+
+
+
+
+ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh------> THE END 
