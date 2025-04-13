@@ -2,9 +2,12 @@ import express from "express"
 import cookieParser from "cookie-parser";
 import session from "express-session";
 
+import authRoute from "./routes/auth.route.js";
+
 
 
 const app=express();
+app.use(express.json());
 
 app.use(session({
     secret:"hello",
@@ -20,6 +23,8 @@ app.use(cookieParser("hello2"));
 app.get("/",(req,res)=>{
     res.send('hello..');
 })
+
+app.use('auth',authRoute);
 
 
 app.listen(2000,()=>{
