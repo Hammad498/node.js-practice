@@ -8,17 +8,20 @@ import authRoute from "./routes/auth.route.js";
 
 const app=express();
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 app.use(session({
-    secret:"hello",
+    secret:"your-secret-key",
     saveUninitialized:false,
     resave:false,
     cookie:{
         maxAge:100*60*60*24,
+        httpOnly:true,
+        secure:false
     }
 }));
 
-app.use(cookieParser("hello2"));
+app.use(cookieParser());
 
 app.get("/",(req,res)=>{
     res.send('hello..');
