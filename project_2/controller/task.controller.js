@@ -20,7 +20,29 @@ export const getAllTask=async(req,res)=>{
 
 
 export const createTask=async(req,res)=>{
-    
+    const {title,description}=req.body;
+
+    if(!title && !description){
+        res.status(401).json({
+            message:"Title and description required!"
+        })
+    }
+
+    //append new tasks in already present tasks.
+    const tasks=await readTask();
+
+    const newTask={
+        id:Date.now(),
+        username:req.session.user.username,
+        title,
+        description,
+        completed:false,
+    }
+
+    tasks.push(newTask);
+    await writeTask(tasks);
+
+    res.status(201).send(newTask);
 }
 
 export const updateTask=(req,res)=>{
