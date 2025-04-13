@@ -3,6 +3,7 @@ import cookieParser from "cookie-parser";
 import session from "express-session";
 
 import authRoute from "./routes/auth.route.js";
+import taskRoute from "./routes/task.route.js";
 
 
 
@@ -28,6 +29,7 @@ app.get("/",(req,res)=>{
 })
 
 app.use('/auth',authRoute);
+app.use('task',taskRoute);
 
 
 app.listen(2000,()=>{
