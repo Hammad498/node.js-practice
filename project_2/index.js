@@ -29,7 +29,7 @@ app.get("/",(req,res)=>{
 })
 
 app.use('/auth',authRoute);
-app.use('task',taskRoute);
+app.use('/task',taskRoute);
 
 
 app.listen(2000,()=>{
