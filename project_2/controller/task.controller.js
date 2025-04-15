@@ -86,6 +86,30 @@ export const updateTask=async (req,res)=>{
 }
 
 
-export const deleteTask=(req,res)=>{
-    res.send('task route');
+export const deleteTask=async (req,res)=>{
+    const {id}=req.params;
+
+    const parsedId=parseInt(id);
+
+    const tasks=await readTask();
+
+    const taskIndex=tasks.findIndex((task)=>task.id===parsedId);
+
+
+    if(taskIndex===-1){
+        return res.status(404).send("Task with the specified ID not found:deleteTask")
+    }
+
+    const deletedTask=tasks.splice(taskIndex,1)[0];
+
+
+    
+    await writeTask(tasks);
+
+    res.json({
+        message:"Task deleted successfully",
+        task:deletedTask
+    })
+
+    
 }
