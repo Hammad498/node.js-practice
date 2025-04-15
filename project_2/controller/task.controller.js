@@ -46,8 +46,43 @@ export const createTask=async(req,res)=>{
     res.status(201).send(newTask);
 }
 
-export const updateTask=(req,res)=>{
-    res.send('task route');
+
+
+
+export const updateTask=async (req,res)=>{
+    
+    const { id } = req.params;
+    const {title, description}=req.body;
+
+    const parsedId=parseInt(id);
+
+    const tasks = await readTask();
+
+    const taskIndex = tasks.findIndex((task) => task.id === parsedId);
+
+    if (taskIndex === -1) {
+        return res.status(404).send("Task with the specified ID not found");
+    }
+
+    
+    const updatedTask = {
+        ...tasks[taskIndex], 
+        title: title || tasks[taskIndex].title, 
+        description: description || tasks[taskIndex].description,
+    };
+
+    // Replace the old task with the updated task
+    tasks[taskIndex] = updatedTask;
+
+    
+    await writeTask(tasks);
+
+    
+    res.json({
+        message: "Task updated successfully",
+        task: updatedTask,
+    });
+    
 }
 
 
