@@ -32,7 +32,7 @@ export const Logout=(req,res)=>{
     ///for logout flirst clear the cookies
 
     res.clearCookie('username');
-    res.session.destroy((err)=>{
+    req.session.destroy((err)=>{
         if(err){
             res.status(500).json({
                 message:"Error logging out!"

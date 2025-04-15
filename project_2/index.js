@@ -5,6 +5,8 @@ import session from "express-session";
 import authRoute from "./routes/auth.route.js";
 import taskRoute from "./routes/task.route.js";
 
+import {Middleware} from "./middleware/auth.middleware.js";
+
 
 
 const app=express();
@@ -29,7 +31,7 @@ app.get("/",(req,res)=>{
 })
 
 app.use('/auth',authRoute);
-app.use('/task',taskRoute);
+app.use('/task',Middleware,taskRoute);
 
 
 app.listen(2000,()=>{
