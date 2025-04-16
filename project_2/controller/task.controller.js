@@ -101,7 +101,7 @@ export const deleteTask=async (req,res)=>{
     }
 
     const deletedTask=tasks.splice(taskIndex,1)[0];
-
+///////////////
 
     
     await writeTask(tasks);
