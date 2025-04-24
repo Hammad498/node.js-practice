@@ -4,10 +4,8 @@ import {getUsers,createUsers,updateUsers,deleteUsers} from '../controller/user.c
 
 const router =Router();
 
-
-router.get('/users',getUsers);
-////
 router.post('/users',createUsers);
+router.get('/users',getUsers);
 router.put('/users/:id',updateUsers);
 router.delete('/users/"id',deleteUsers);
 
