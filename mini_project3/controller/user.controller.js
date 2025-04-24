@@ -2,7 +2,14 @@ import User from "../model/user.model.js";
 
 
 export const getUsers=async(req,res)=>{
-    res.send('user get')
+    try {
+        const user=await User.find();
+        res.status(200).json(user,{message:"User fetched successfully"});
+        
+    } catch (error) {
+        res.status(500).json({error:"Internal server error:getUsers",error})
+        
+    }
 }
 
 export const createUsers=async(req,res)=>{
