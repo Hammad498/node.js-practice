@@ -45,13 +45,7 @@ export const updateUsers = async (req, res) => {
     const { name, age, weight } = req.body;
 
     try {
-        // const parsedId = parseInt(id);
-
-        // if (!id || isNaN(parsedId)) {
-        //     return res.status(401).json({
-        //         message: "id is required."
-        //     });
-        // }
+        
 
         const updateUser  = await User.findByIdAndUpdate(id, { name, age, weight }, { new: true, runValidators: true });
 
@@ -70,8 +64,37 @@ export const updateUsers = async (req, res) => {
         res.status(500).json({ error: "Internal server error: updateUsers", error });
     }
 }
-export const deleteUsers=async(req,res)=>{
-    res.send('user delete')
+
+
+
+
+
+export const deleteUsers = async (req, res) => {
+    const { id } = req.params;
+    try {
+        
+        // if (!id || !mongoose.Types.ObjectId.isValid(id)) {
+        //     return res.status(400).json({
+        //         message: "Invalid ID format."
+        //     });
+        // }
+
+        const deleteUser  = await User.findByIdAndDelete(id);
+
+        if (!deleteUser ) {
+            return res.status(404).json({
+                message: "User  not found"
+            });
+        }
+
+        res.status(200).json({
+            message: "User  deleted successfully"
+        });
+
+    } catch (error) {
+        console.error("Error deleting user:", error);
+        res.status(500).json({ error: "Internal server error: deleteUsers", error });
+    }
 }
 
 
