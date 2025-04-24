@@ -73,11 +73,6 @@ export const deleteUsers = async (req, res) => {
     const { id } = req.params;
     try {
         
-        // if (!id || !mongoose.Types.ObjectId.isValid(id)) {
-        //     return res.status(400).json({
-        //         message: "Invalid ID format."
-        //     });
-        // }
 
         const deleteUser  = await User.findByIdAndDelete(id);
 
