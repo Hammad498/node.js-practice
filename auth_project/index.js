@@ -1,6 +1,7 @@
 import express from 'express';
 import dotenv from 'dotenv';
 import connectDB from './config/db.js';
+import session from 'express-session'
 
 
 dotenv.config();
@@ -9,6 +10,14 @@ dotenv.config();
 const app=express();
 const PORT=4000;
 app.use(express.json());
+app.use(
+    session({
+        secret:process.env.SESSION_SECRET,
+        resave:false,
+        saveUninitialized:false,
+        cookie:{maxAge:600000}
+    })
+)
 
 
 
