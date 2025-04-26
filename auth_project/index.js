@@ -16,7 +16,7 @@ app.use(express.json());
 app.get("/",(req,res)=>{
     res.send("hello world");
 })
-//
+
 
 connectDB().then(()=>{
     app.listen(PORT,()=>{
