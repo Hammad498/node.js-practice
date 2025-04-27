@@ -1,6 +1,6 @@
 
 
-import User from "../models/user.model.js";
+
 import { registerUser } from "../services/user.service.js";
 
 export const signup=async(req,res)=>{
