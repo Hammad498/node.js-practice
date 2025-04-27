@@ -3,6 +3,7 @@ import dotenv from 'dotenv';
 import connectDB from './config/db.js';
 import session from 'express-session'
 import userRoute from './routes/user.route.js';
+import taskRoute from './routes/task.route.js'
 
 
 dotenv.config();
@@ -30,6 +31,7 @@ app.get("/",(req,res)=>{
 
 
 app.use('/api/user',userRoute);
+app.use('/api/task',taskRoute);
 
 
 connectDB().then(()=>{
