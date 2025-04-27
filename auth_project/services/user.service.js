@@ -8,3 +8,14 @@ export const registerUser=async(username,password)=>{
     await user.save();
 
 }
+
+
+
+export const LoginUser=async(username,password)=>{
+    const user=await User.findOne({username});
+
+    if(!user || !(await bcrypt.compare(password,user.password))){
+        throw new Error("Invalide username or password!")
+    }
+    return user;
+}
