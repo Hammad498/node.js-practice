@@ -49,6 +49,17 @@ export const login=async(req,res)=>{
 
 
 
-export const logout=async(req,res)=>{
-    res.status(200).json({message:"Hello from logout route"});
-}
+
+
+
+export const logout = async (req, res) => {
+    req.session.destroy((err) => {
+        if (err) {
+            console.error("Error destroying session:", err);
+            return res.status(500).json({ success: false, message: "Logout failed" });
+        }
+
+        res.clearCookie("connect.sid"); 
+        res.status(200).json({ success: true, message: "Logout successful" });
+    });
+};
