@@ -5,7 +5,7 @@ import { validateSession } from "../middleware/session.middleware.js";
 
 const router=Router();
 
-//add task that is currently loged in , so make a middleware for it
+//add task that is currently loged in , so make a middleware for it///////
 router.post('/',validateSession,addTask)
 router.get('/',validateSession,fetchTask)
 
