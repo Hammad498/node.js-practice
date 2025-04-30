@@ -3,35 +3,49 @@ import {Schema,Model} from "mongoose";
 
 const userSchema=new Schema({
     _id:{
-        type:Number,
-        required:true
+        type:Schema.Types.ObjectId,
     },
     channelName:{
         type:String,
-    },
-    phone:{
-        type:Number,
-    },
-    password:{
-        type:Number,
         required:true
     },
-    // logo:{
+    email:{
+        type:String,
+        required:true,
+        unique:true
+    },
+    phone:{
+        type:String,
+        required:true
+    },
+    password:{
+        type:String,
+        required:true,
+    },
+    logoUrl:{
+        type:String,
+        required:true,
 
-    // },
-    // subscribers:{
+    },
+    logoId:{
+        type:String,
+        required:true,
+    },
+    subscribers:{
+        type:Number,
+        default:0,
+        required:false
 
-    // },
-    // subscribed:{
-
-    // },
-    // channels:{
-
-    // }
+    },
+    subscribedChannels:{
+        type:Schema.Types.ObjectId,
+        ref:"user",
+    },
+    
 },{timestamp:true});
 
 
-const User=new Model("user",userSchema);
+const userModel=new Model("User",userSchema);
 
 
-export default User;
+export default userModel;
