@@ -6,7 +6,9 @@ import bcrypt from "bcrypt";
 
 export const signup=async(req,res)=>{
     try {
+        console.log('request made!')
         const hashedPassword=await bcrypt.hash(req.body.password,10);
+        console.log('hashedPassword',hashedPassword)
         const uploadImage=await cloudinary.uploader.upload(req.files.logoUrl.tempFilePath);
         console.log("image:",uploadImage);
 
