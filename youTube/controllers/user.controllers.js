@@ -38,11 +38,11 @@ export const signup = async (req, res) => {
       console.log("Request made!");
   
       const hashedPassword = await bcrypt.hash(req.body.password, 10);
-      console.log("Password hashed");
+      // console.log("Password hashed");
   
-      console.log("Uploading image...");
+      // console.log("Uploading image...");
       const uploadImage = await cloudinary.uploader.upload(req.files.logoUrl.tempFilePath);
-      console.log("Image uploaded", uploadImage);
+      // console.log("Image uploaded", uploadImage);
   
       const newUser = new User({
         _id: new mongoose.Types.ObjectId(),
