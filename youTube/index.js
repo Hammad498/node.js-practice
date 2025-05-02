@@ -2,6 +2,7 @@ import express from "express";
 import dotenv from "dotenv";
 import connectDB from "./config/db.js";
 import userRoute from "./routes/user.routes.js";
+import videoRoute from './routes/video.routes.js'
 import bodyParser from "body-parser";
 import cors from "cors";
 
@@ -28,6 +29,7 @@ app.get("/",(req,res)=>{
 })
 
 app.use("/api/v1/users",userRoute);
+app.use("/api/v1/videos",videoRoute);
 
 connectDB().then(() => {
     app.listen(process.env.PORT,()=>{
