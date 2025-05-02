@@ -60,18 +60,18 @@ const videoSchema=new Schema({
         default:0,
         min:0
     },
-    likedBy:{
+    likedBy:[{
         type:mongoose.Types.ObjectId,
         ref:"User"
-    },
-    dislikedBy:{
+    }],
+    dislikedBy:[{
         type:mongoose.Types.ObjectId,
         ref:"User"
-    },
-    viewedBy:{
+    }],
+    viewedBy:[{
         type:mongoose.Types.ObjectId,
         ref:"User"
-    },
+    }],
 
 },{timestamps:true});
 

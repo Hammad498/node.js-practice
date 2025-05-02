@@ -49,3 +49,62 @@ export const upload=async(req,res)=>{
         
     }
 }
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+///no video change...just metadat change
+export const updateVideoMetadata=async(req,res)=>{
+    try {
+        // const {title,description,category,tags}=req.body;
+        const videoId=req.params.id 
+
+        let video=await Video.findById(videoId);
+
+
+        if(!video){
+            return res.status(404).json({
+                message:"Not found!",
+                error
+            })
+        }
+
+        ///check ownership 
+        if(video.user_id.toString()!==req.user._id.toString()){
+            return res.status(403).json({
+                message:"Unauthorized",
+                error
+            })
+        }
+
+        //if user wanted to update let suppose thumbnail , previous thumbnail should be destroyed !
+        if(req.files && req.files.thumbnailUrl){
+            await cloudinary.uploader.destroy(video.thumbnailId);
+
+            const thumbnailUpload=await cloudinary.uploader.upload(req.files.thumbnailUrl.tempFilePath,{folder:"thumbnails"})
+
+            video.thumbnailUrl=thumbnailUpload.secure_url;
+            video.thumbnailId=thumbnailUpload.public_id;
+        }
+
+
+        video.title=req.body.title || video.title;
+        video.description=req.body.description || video.description;
+        video.category=req.body.category || video.category;
+        video.tags=req.body.tags? req.body.tags.split(",") : video.tags;
+
+        await video.save();
+
+        res.status(200).json({
+            message:"Successfullly updated!",
+            video
+        })
+        
+    } catch (error) {
+        console.error("UPLOAD ERROR:", error);
+        res.status(500).json({
+            message:"Error (failed to update!)",
+            error
+        })
+    }
+}
