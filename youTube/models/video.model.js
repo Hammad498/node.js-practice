@@ -45,21 +45,21 @@ const videoSchema=new Schema({
         type:String,
         trim:true
     }],
-    likes:{
-        type:Number,
-        default:0,
-        min:0
-    },
-    dislikes:{
-        type:Number,
-        default:0,
-        min:0
-    },
-    views:{
-        type:Number,
-        default:0,
-        min:0
-    },
+    // likes:{
+    //     type:Number,
+    //     default:0,
+    //     min:0
+    // },
+    // dislikes:{
+    //     type:Number,
+    //     default:0,
+    //     min:0
+    // },
+    // views:{
+    //     type:Number,
+    //     default:0,
+    //     min:0
+    // },
     likedBy:[{
         type:mongoose.Types.ObjectId,
         ref:"User"
@@ -74,6 +74,27 @@ const videoSchema=new Schema({
     }],
 
 },{timestamps:true});
+
+videoSchema.virtual("likes").get(function(){
+    return this.likedBy.length
+})
+
+videoSchema.virtual("dislikes").get(function(){
+    return this.dislikedBy.length
+})
+
+
+videoSchema.virtual("views").get(function(){
+    return this.viewedBy.length
+})
+
+videoSchema.set("toJSON",{
+    virtuals:true
+})
+
+
+
+
 
 
 const videoModel=mongoose.model("Video",videoSchema);
