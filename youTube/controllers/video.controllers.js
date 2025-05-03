@@ -56,7 +56,7 @@ export const upload=async(req,res)=>{
 ///no video change...just metadat change
 export const updateVideoMetadata=async(req,res)=>{
     try {
-        // const {title,description,category,tags}=req.body;
+       
         const videoId=req.params.id 
 
         let video=await Video.findById(videoId);
@@ -108,3 +108,7 @@ export const updateVideoMetadata=async(req,res)=>{
         })
     }
 }
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+
