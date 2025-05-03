@@ -153,3 +153,53 @@ export const deleteVideo=async(req,res)=>{
         })
     }
 }
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+export const getAllVideos=async(req,res)=>{
+    try {
+        const video=await Video.find().sort({createdAt:-1});
+        res.status(200).json({
+            message:"Successfully get all videos!",
+            data:video
+        })
+        console.log("videos...",video);
+        
+    } catch (error) {
+        console.error("GET_ALL_VIDEOS ERROR:", error);
+        res.status(500).json({
+            message:"Error (failed to getAllVideos!)",
+            error
+        })
+    }
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+export const getOwnVideo=async(req,res)=>{
+    try {
+
+        //get video of that user ,who hit the request
+        const video=await Video.find({user_id:req.user._id}).sort({createdAt:-1});
+
+        res.status(200).json({
+            message:"Successfully get own videos!",
+            data:video
+        });
+
+        console.log("getOwnVideo",video);
+        
+    } catch (error) {
+        console.error("GET_OWN_VIDEOS ERROR:", error);
+        res.status(500).json({
+            message:"Error (failed to getOwnVideos!)",
+            error
+        })
+    }
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
