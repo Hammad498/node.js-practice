@@ -203,3 +203,80 @@ export const getOwnVideo=async(req,res)=>{
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
+export const getById=async(req,res)=>{
+    try {
+        const videoId=req.params.id;
+
+        const video=await Video.findById(videoId);
+
+        if(!video){
+            return res.status(404).json({
+                message:"video not found:getById",
+                error
+            })
+        };
+
+        //ownsership
+        if(video.user_id.toString() !== req.user._id.toString()){
+            return res.status(403).json({
+                message:"Unautorized: getById",
+                error
+            })
+        };
+
+        res.status(200).json({
+            message:"Successfully getById",
+            data:video,
+        })
+
+        console.log(`getbyid:`,video);
+        
+    } catch (error) {
+        console.error("GET_OWN_VIDEOS ERROR:", error);
+        res.status(500).json({
+            message:"Error (failed to getOwnVideos!)",
+            error
+        })
+    }
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+///get the video by id and viewedby feature
+export const get=async(req,res)=>{
+    try {
+        const videoId=req.params.id;
+        const userId=req.user._id;
+
+
+        // Use findByIdAndUpdate to add the user ID to the viewedBy array if not already present
+        const video=await Video.findByIdAndUpdate(
+            videoId,
+            {
+                $addToSet:{viewedBy:userId}
+            },
+            {new:true}
+        )
+        
+        if (!video) return res.status(404).json({ error: "Video not found" });
+
+        res.status(200).json(video);
+        console.log('video by id',video);
+
+
+    } catch (error) {
+        console.error("GET__VIDEOS ERROR:", error);
+        res.status(500).json({
+            message:"Error (failed to getVideos & viewed by!)",
+            error
+        })
+    }
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+export const getByCategory=async(req,res)=>{
+    
+}
+
+

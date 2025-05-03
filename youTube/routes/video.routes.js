@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { upload,updateVideoMetadata,deleteVideo,getAllVideos,getOwnVideo } from "../controllers/video.controllers.js";
+import { upload,updateVideoMetadata,deleteVideo,getAllVideos,getOwnVideo,getById,get,getByCategory } from "../controllers/video.controllers.js";
 import { checkAuth } from "../middleware/auth.middleware.js";
 
 
@@ -21,6 +21,14 @@ router.get('/getAll',checkAuth,getAllVideos);
 
 router.get('/own_video',checkAuth,getOwnVideo);
 
+router.get('/get/:id',checkAuth,getById);
 
+
+//viewed by user feature
+router.get('/:id',checkAuth,get);
+
+
+
+router.get('/category/:category',checkAuth,getByCategory);
 
 export default router;
