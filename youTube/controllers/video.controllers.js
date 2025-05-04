@@ -351,3 +351,31 @@ export const likes=async(req,res)=>{
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
+export const dislikes=async(req,res)=>{
+    try {
+        const {videoId}=req.body;
+
+        const dislike=await Video.findByIdAndUpdate(
+            videoId,
+            {
+                $addToSet: { dislikedBy: req.user._id },
+                $pull: { likedBy: req.user._id }
+            },
+            { new: true }
+        );
+
+        res.status(200).json({
+            message:"Successfully disliked!",
+            data:dislike
+        })
+
+        console.log(dislike)
+        
+    } catch (error) {
+        console.error("dislike route ERROR:", error);
+        res.status(500).json({
+            message:"Error (failed to dislike!)",
+            error
+        })
+    }
+}

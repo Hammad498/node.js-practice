@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { upload,updateVideoMetadata,deleteVideo,getAllVideos,getOwnVideo,getById,get,getByCategory,getByTags,likes } from "../controllers/video.controllers.js";
+import { upload,updateVideoMetadata,deleteVideo,getAllVideos,getOwnVideo,getById,get,getByCategory,getByTags,likes,dislikes } from "../controllers/video.controllers.js";
 import { checkAuth } from "../middleware/auth.middleware.js";
 
 
@@ -36,6 +36,7 @@ router.get("/tags/:tags",checkAuth,getByTags);
 ///////////////////////////////////////////////////////////////////////////////////////////////
 
 router.post("/likes",checkAuth,likes);
+router.post("/dislikes",checkAuth,dislikes);
 
 
 
