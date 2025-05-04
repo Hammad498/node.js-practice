@@ -288,9 +288,9 @@ export const getByCategory=async(req,res)=>{
         console.log(videoCategory);
 
     } catch (error) {
-         console.error("GET__VIDEOS ERROR:", error);
+         console.error("GET__BY_CATEGORY ERROR:", error);
         res.status(500).json({
-            message:"Error (failed to getVideos & viewed by!)",
+            message:"Error (failed to getByCategory!)",
             error
         })
     }
@@ -298,5 +298,29 @@ export const getByCategory=async(req,res)=>{
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
 export const getByTags=async(req,res)=>{
+    try {
+        const tag=req.params.tags;
+
+        const videoTags=await Video.find({tags:tag}).sort({createdAt:-1});
+
+        res.status(200).json({
+            message:"successfully get by tags!",
+            data:videoTags,
+        })
+
+        console.log(videoTags);
+        
+    } catch (error) {
+        console.error("GET__BY_Tags ERROR:", error);
+        res.status(500).json({
+            message:"Error (failed to getByTags!)",
+            error
+        })
+    }
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+export const likes=async(req,res)=>{
 
 }
