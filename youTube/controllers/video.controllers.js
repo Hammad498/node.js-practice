@@ -322,5 +322,32 @@ export const getByTags=async(req,res)=>{
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
 export const likes=async(req,res)=>{
+    try {
+        const {videoId}=req.body;
 
+        const like = await Video.findByIdAndUpdate(
+            videoId,
+            {
+                $addToSet: { likedBy: req.user._id },
+                $pull: { dislikedBy: req.user._id },
+                // $addToSet:{viewedBy:req.user._id},
+                // $addToSet:{likedBy:req.user.email}
+            },
+            { new: true }
+        );
+
+        res.status(200).json({ message: "Liked the video",like });
+        console.log(like)
+
+        
+    } catch (error) {
+        console.error("likes route ERROR:", error);
+        res.status(500).json({
+            message:"Error (failed to like!)",
+            error
+        })
+    }
 }
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
