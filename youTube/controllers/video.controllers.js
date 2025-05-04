@@ -276,7 +276,27 @@ export const get=async(req,res)=>{
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
 export const getByCategory=async(req,res)=>{
-    
+    try {
+        const category=req.params.category;
+
+        const videoCategory=await Video.find({category:category}).sort({createdAt:-1});
+
+        res.status(200).json({
+            message:"getByCategory successfully done!",
+            data:videoCategory
+        })
+        console.log(videoCategory);
+
+    } catch (error) {
+         console.error("GET__VIDEOS ERROR:", error);
+        res.status(500).json({
+            message:"Error (failed to getVideos & viewed by!)",
+            error
+        })
+    }
 }
+////////////////////////////////////////////////////////////////////////////////////////////////
 
+export const getByTags=async(req,res)=>{
 
+}
