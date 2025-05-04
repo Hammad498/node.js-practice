@@ -94,12 +94,36 @@ export const signup = async (req, res) => {
 
    //////////////////////////////////////////////////////
 
-
+  ////update channel name and phone only
   export const updateProfile=async(req,res)=>{
     try {
       const userId=req.params.id;
 
-      const user=await Video.findById(userId);
+      const user=await User.findById(userId);
+
+      if (!user) {
+        return res.status(404).json({ message: "User not found!" });
+      }
+
+      let newLogoUrl=null;
+
+      if(req.files && req.files.logoUrl){
+        await cloudinary.uploader.destroy(user.logoId);
+
+        newLogoUrl=await cloudinary.uploader.upload(req.files.logoUrl.tempFilePath);
+        
+      }
+
+      user.channelName = req.body.channelName || user.channelName;
+      user.email = req.body.email || user.email;
+      user.phone = req.body.phone || user.phone;
+
+      if (newLogoUrl) {
+        user.logoUrl = newLogoUrl.secure_url;
+        user.logoId = newLogoUrl.public_id;
+      }
+  
+      await user.save();
 
       res.status(200).json({
         message:"successfuly updated!",
