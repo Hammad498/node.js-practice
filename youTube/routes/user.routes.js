@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { signup,login } from "../controllers/user.controllers.js";
+import { signup,login,updateProfile } from "../controllers/user.controllers.js";
 
 
 const router=Router();
@@ -9,6 +9,9 @@ const router=Router();
 router.post("/signup",signup);
 
 router.post('/login',login);
+
+
+router.put('/update',updateProfile);
 
 
 

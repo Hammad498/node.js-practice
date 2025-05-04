@@ -92,5 +92,26 @@ export const signup = async (req, res) => {
     }
   }
 
+   //////////////////////////////////////////////////////
+
+
+  export const updateProfile=async(req,res)=>{
+    try {
+      const userId=req.params.id;
+
+      const user=await Video.findById(userId);
+
+      res.status(200).json({
+        message:"successfuly updated!",
+        data:user
+      })
+
+
+
+    } catch (error) {
+      console.error("userUpdate error:", error);
+      res.status(500).json({ error: "Internal server error: updateUser", error });
+    }
+  }
 
        
