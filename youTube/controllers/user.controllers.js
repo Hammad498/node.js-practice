@@ -142,6 +142,16 @@ export const signup = async (req, res) => {
   //////////////////////////////////////////////////////
 
 
-
+export const subscribe=async(req,res)=>{
+  try {
+    
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({
+      message:"Failed to subscribe!",
+      error
+    })
+  }
+}
 
   

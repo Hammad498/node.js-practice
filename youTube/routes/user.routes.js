@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { signup,login,updateProfile } from "../controllers/user.controllers.js";
+import { signup,login,updateProfile,subscribe } from "../controllers/user.controllers.js";
 import { checkAuth } from "../middleware/auth.middleware.js";
 
 
@@ -14,6 +14,9 @@ router.post('/login',login);
 
 router.put('/update/:id',checkAuth,updateProfile);
 
+
+
+router.post("/subscribed",checkAuth,subscribe);
 
 
 
