@@ -197,29 +197,34 @@ export const signup = async (req, res) => {
 
 export const subscribe = async (req, res) => {
   try {
-    const { channelId } = req.body;
 
-    // Prevent subscribing to yourself
+    //req to subscribe a channel comes
+    const { channelId } = req.body;   // req.user._id=current user    want to subscribe channelId=other user's channel
+
+    // Prevent subscribing to yourself (check that you are subscribing yourself)
     if (req.user._id.toString() === channelId.toString()) {
       return res.status(400).json({
         message: "Cannot subscribe to yourself!"
       });
     }
 
-    // Check if channel exists
+    // Check if channel exists   (when a req to subscribe a channel came check it )
     const userExists = await User.findById(channelId);
     if (!userExists) {
       return res.status(404).json({ message: "Channel not found" });
     }
 
+
+    //okay now add subscription in subscribedChannel array (means current user is added )
     // Add channel to user's subscriptions
+    //that channel is added to currentuser's array 
     const currentUser = await User.findByIdAndUpdate(
       req.user._id,
       { $addToSet: { subscribedChannels: channelId } },
       { new: true }
     );
 
-    // Increment the subscriber count on the channel
+    // Increment the subscriber count on the channel  
     const subscribedUser = await User.findByIdAndUpdate(
       channelId,
       { $inc: { subscribers: 1 } },

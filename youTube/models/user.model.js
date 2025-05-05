@@ -45,13 +45,7 @@ const userSchema=new Schema({
 },{timestamp:true});
 
 
-// userSchema.virtual("subscribers").get(function(){
-//     return this.subscribedChannels.length;
-// })
 
-// userSchema.set("toJSON",{
-//     virtuals:true
-// })
 
 
 const userModel=mongoose.model("User",userSchema);
