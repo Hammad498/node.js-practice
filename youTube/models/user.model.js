@@ -31,27 +31,27 @@ const userSchema=new Schema({
         type:String,
         required:true,
     },
-    // subscribers:{
-    //     type:Number,
-    //     default:0,
-    //     required:false
+    subscribers:{
+        type:Number,
+        default:0,
+        required:false
 
-    // },
-    subscribedChannels:{
-        type:Schema.Types.ObjectId,
-        ref:"user",
     },
+    subscribedChannels:[{
+        type:Schema.Types.ObjectId,
+        ref:"User",
+    }],
     
 },{timestamp:true});
 
 
-userSchema.virtual("subscribers").get(function(){
-    return this.subscribedChannels.length;
-})
+// userSchema.virtual("subscribers").get(function(){
+//     return this.subscribedChannels.length;
+// })
 
-userSchema.set("toJSON",{
-    virtuals:true
-})
+// userSchema.set("toJSON",{
+//     virtuals:true
+// })
 
 
 const userModel=mongoose.model("User",userSchema);

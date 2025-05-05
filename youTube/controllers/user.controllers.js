@@ -4,6 +4,7 @@ import cloudinary from "../config/cloudinary.js";
 import User from "../models/user.model.js";
 import bcrypt, { hash } from "bcrypt";
 import jwt from 'jsonwebtoken'
+import userModel from "../models/user.model.js";
 
 
 
@@ -142,15 +143,101 @@ export const signup = async (req, res) => {
   //////////////////////////////////////////////////////
 
 
-export const subscribe=async(req,res)=>{
-  try {
+// export const subscribe=async(req,res)=>{
+//   try {
+
+//     //a request to subscribe the channel
+//     const {channelId}=req.body;   ///userId =currentUser , channelId=user to subscribe (channel)
+
+//     const userExists = await User.findById(channelId);
+//       if (!userExists) {
+//           return res.status(404).json({ message: "Channel not found" });
+//        }
+
+
+//     //check that cannot subscribe to yourself  
+//     if(req.user._id.toString() === channelId.toString()){
+//       return res.status(400).json({
+//         message:"Cannot subscribe to yourself!",
+//         error
+//       })
+//     }
+
+//     const currentUser=await User.findByIdAndUpdate(req.user._id,{
+//       $addToSet:{subscribedChannels:channelId}
+//     })
+
+//     const subscribedUser=await User.findByIdAndUpdate(channelId,{
+//       $inc:{subscribers:1}
+//     })
+
+
+//     res.status(200).json({
+//       message:"Successfully subscribed!",
+//       currentUser,
+//       subscribedUser
+//     });
+//     console.log(currentUser);
+//     console.log(subscribedUser);
+
+
     
+//   } catch (error) {
+//     console.log(error);
+//     res.status(500).json({
+//       message:"Failed to subscribe!",
+//       error
+//     })
+//   }
+// }
+
+
+
+
+
+export const subscribe = async (req, res) => {
+  try {
+    const { channelId } = req.body;
+
+    // Prevent subscribing to yourself
+    if (req.user._id.toString() === channelId.toString()) {
+      return res.status(400).json({
+        message: "Cannot subscribe to yourself!"
+      });
+    }
+
+    // Check if channel exists
+    const userExists = await User.findById(channelId);
+    if (!userExists) {
+      return res.status(404).json({ message: "Channel not found" });
+    }
+
+    // Add channel to user's subscriptions
+    const currentUser = await User.findByIdAndUpdate(
+      req.user._id,
+      { $addToSet: { subscribedChannels: channelId } },
+      { new: true }
+    );
+
+    // Increment the subscriber count on the channel
+    const subscribedUser = await User.findByIdAndUpdate(
+      channelId,
+      { $inc: { subscribers: 1 } },
+      { new: true }
+    );
+
+    res.status(200).json({
+      message: "Successfully subscribed!",
+      currentUser,
+      subscribedUser
+    });
+
   } catch (error) {
-    console.log(error);
+    console.error("Subscribe error:", error);
     res.status(500).json({
-      message:"Failed to subscribe!",
-      error
-    })
+      message: "Failed to subscribe!",
+      error: error.message || error
+    });
   }
 }
 
