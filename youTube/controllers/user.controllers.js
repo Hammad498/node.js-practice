@@ -94,7 +94,7 @@ export const signup = async (req, res) => {
 
    //////////////////////////////////////////////////////
 
-  ////update channelName ,phone ,email and logoUrl
+  ////update channelName ,phone ,email and logoUrl///////
   export const updateProfile=async(req,res)=>{
     try {
       const userId=req.params.id;
@@ -140,6 +140,8 @@ export const signup = async (req, res) => {
 
 
   //////////////////////////////////////////////////////
+
+
 
 
   
