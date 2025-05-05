@@ -143,57 +143,6 @@ export const signup = async (req, res) => {
   //////////////////////////////////////////////////////
 
 
-// export const subscribe=async(req,res)=>{
-//   try {
-
-//     //a request to subscribe the channel
-//     const {channelId}=req.body;   ///userId =currentUser , channelId=user to subscribe (channel)
-
-//     const userExists = await User.findById(channelId);
-//       if (!userExists) {
-//           return res.status(404).json({ message: "Channel not found" });
-//        }
-
-
-//     //check that cannot subscribe to yourself  
-//     if(req.user._id.toString() === channelId.toString()){
-//       return res.status(400).json({
-//         message:"Cannot subscribe to yourself!",
-//         error
-//       })
-//     }
-
-//     const currentUser=await User.findByIdAndUpdate(req.user._id,{
-//       $addToSet:{subscribedChannels:channelId}
-//     })
-
-//     const subscribedUser=await User.findByIdAndUpdate(channelId,{
-//       $inc:{subscribers:1}
-//     })
-
-
-//     res.status(200).json({
-//       message:"Successfully subscribed!",
-//       currentUser,
-//       subscribedUser
-//     });
-//     console.log(currentUser);
-//     console.log(subscribedUser);
-
-
-    
-//   } catch (error) {
-//     console.log(error);
-//     res.status(500).json({
-//       message:"Failed to subscribe!",
-//       error
-//     })
-//   }
-// }
-
-
-
-
 
 export const subscribe = async (req, res) => {
   try {
@@ -241,6 +190,64 @@ export const subscribe = async (req, res) => {
     console.error("Subscribe error:", error);
     res.status(500).json({
       message: "Failed to subscribe!",
+      error: error.message || error
+    });
+  }
+}
+
+//////////////////////////////////////////////////////
+
+
+export const unsubscribe = async (req, res) => {
+  try {
+
+    //req to unsubscribe a channel comes
+    const { channelId } = req.body;   // req.user._id=current user    want to unsubscribe channelId=other user's channel
+
+    if (!channelId) {
+      return res.status(400).json({ message: "channelId is required!" });
+    }
+
+    // Prevent unsubscribing to yourself (check that you are unsubscribing yourself)
+    if (req.user._id.toString() === channelId.toString()) {
+      return res.status(400).json({
+        message: "Cannot unsubscribe from yourself!"
+      });
+    }
+
+    // Check if channel exists   (when a req to unsubscribe a channel came check it )
+    const userExists = await User.findById(channelId);
+    if (!userExists) {
+      return res.status(404).json({ message: "Channel not found" });
+    }
+
+
+    //okay now add unsubscription in subscribedChannel array (means current user is removed )
+    // remove channel to user's subscriptions
+    //that channel is removed to currentuser's array 
+    const currentUser = await User.findByIdAndUpdate(
+      req.user._id,
+      { $pull: { subscribedChannels: channelId } },
+      { new: true }
+    );
+
+    // decrement the subscriber count on the channel  
+    const subscribedUser = await User.findByIdAndUpdate(
+      channelId,
+      { $inc: { subscribers: -1 } },
+      { new: true }
+    );
+
+    res.status(200).json({
+      message: "Successfully Unsubscribed!",
+      currentUser,
+      subscribedUser
+    });
+
+  } catch (error) {
+    console.error("UnSubscribe error:", error);
+    res.status(500).json({
+      message: "Failed to Unsubscribe!",
       error: error.message || error
     });
   }
