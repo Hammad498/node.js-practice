@@ -12,7 +12,7 @@ export const comment=async(req,res)=>{
         }
 
         const newComment=new Comment({
-            _id:new mongoose.Schema.Types.ObjectId(),
+            _id:new mongoose.Types.ObjectId(),
             video_id,
             commentText,
             user_id:req.user._id
