@@ -10,7 +10,7 @@ export const comment=async(req,res)=>{
                 message:"not found",
             })
         }
-//
+///////////////////////////////////////////////
         const newComment=new Comment({
             _id:new mongoose.Types.ObjectId(),
             video_id,
