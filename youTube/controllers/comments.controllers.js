@@ -116,3 +116,34 @@ export const editComment = async (req, res) => {
         });
     }
 };
+////////////////////////////////////////////////////////////////////////////////
+
+export const getAllComments=async(req,res)=>{
+    try {
+        const {videoId}=req.params;
+        const comments=await Comment.find({video_id:videoId}).populate("user_id","channelName logoUrl").sort({createdAt:-1});
+
+        if (!comments) {
+            return res.status(404).json({
+                message: "Not found that comment!"
+            });
+        }
+
+        
+
+
+        res.status(200).json({
+            message: "Successfully getAll comment!",
+            data: comments
+        });
+
+
+        
+    } catch (error) {
+        console.error("GET COMMENT ERROR:", error);
+        res.status(500).json({
+            message: "Something went wrong!:get_all_comments",
+            error: error.message
+        });
+    }
+}
