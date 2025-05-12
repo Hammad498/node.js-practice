@@ -5,7 +5,7 @@ import {comment,deleteComment} from '../controllers/comments.controllers.js'
 const router=Router();
 
 router.post('/new',checkAuth,comment);
-router.delete('/delete',checkAuth,deleteComment)
+router.delete('/delete/:id',checkAuth,deleteComment)
 
 
 export default router;
