@@ -107,7 +107,7 @@ export const editComment = async (req, res) => {
         });
 
         console.log(comment);
-
+//
     } catch (error) {
         console.error("EDIT COMMENT ERROR:", error);
         res.status(500).json({
@@ -128,9 +128,6 @@ export const getAllComments=async(req,res)=>{
                 message: "Not found that comment!"
             });
         }
-
-        
-
 
         res.status(200).json({
             message: "Successfully getAll comment!",
