@@ -1,5 +1,6 @@
 import express from 'express';
 import connectDB from './config/db.js';
+import cors from 'cors';
 import dotenv from 'dotenv';
 
 dotenv.config();
@@ -7,6 +8,7 @@ dotenv.config();
 const app=express();
 
 connectDB();
+app.use(cors());
 
 app.get("/",(req,res)=>{
     res.send('working!')
