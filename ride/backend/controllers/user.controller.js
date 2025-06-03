@@ -12,15 +12,15 @@ export const registerUser=async(req,res,next)=>{
     }
 
     try {
-        const {firstname,lastname,email,password}=req.body;
+        const {fullname,email,password}=req.body;
 
     const hashedPassword=await userModel.hashPassword(password);
 
     const user=await createUser({
-        firstname,
-        lastname,
+        firstname: fullname.firstname,
+        lastname: fullname.lastname,
         email,
-        password:hashedPassword
+        password: hashedPassword
     })
 
     const token=user.generateAuthToken();
