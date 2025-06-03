@@ -2,7 +2,12 @@ import { validationResult } from "express-validator"
 import userModel from "../models/users.model.js"
 import { createUser } from "../services/user.services.js"
 
+
+
+
+////register user with name ,email and password , if not exists then first create user then register 
 export const registerUser=async(req,res,next)=>{
+    
     const errors=validationResult(req);
     if(!errors.isEmpty()){
         res.status(400).json({
