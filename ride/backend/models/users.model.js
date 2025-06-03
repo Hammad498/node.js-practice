@@ -31,12 +31,14 @@ const userSchema=new Schema({
 })
 
 
-//token generat
+//token generation with jwt using secret key
 userSchema.methods.generateAuthToken=function(){
     const token=jwt.sign({_id:this._id},process.env.SECRET_KEY);
     return token;
 }
+//////////////////////////
 
+//password hashing and compare the original password with hashed passwword
 userSchema.methods.comparePassword=async function(password){
     return await bcrypt.compare(password,this.password)
 }
@@ -44,3 +46,8 @@ userSchema.methods.comparePassword=async function(password){
 userSchema.statics.hashPassword=async function(password){
     return await bcrypt.hash(password,10);
 }
+//////////////////////////
+
+const userModel=mongoose.model('User',userSchema);
+
+export default userModel;
