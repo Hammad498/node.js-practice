@@ -5,12 +5,10 @@ import userModel from "../models/users.model.js";
 export const createUser=async({firstname,lastname,email,password})=>{
     
 
-    if(!firstname || !lastname || !email || !password){
-        res.status(404).json({
-            message:"Not found!",
-            error
-        })
-    }
+    if (!firstname || !lastname || !email || !password) {
+    throw new Error("Missing required fields");
+}
+
 
     const newUser=userModel.create({
         fullname:{

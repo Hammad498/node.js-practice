@@ -23,15 +23,19 @@ export const registerUser=async(req,res,next)=>{
         password: hashedPassword
     })
 
+    console.log('New user:', user);
+
+
     const token=user.generateAuthToken();
 
     res.status(200).json({token,user,message:"Successfully registered!"})
 
     } catch (error) {
-        console.log(error);
-        res.status(500).json({
-            message:"Unable to register the user!",
-            error
-        })
-    }
+    console.error('Register error:', error.message, error.stack);
+    res.status(500).json({
+        message: "Unable to register the user!",
+        error: error.message
+    });
+}
+
 };
