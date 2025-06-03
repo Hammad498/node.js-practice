@@ -1,6 +1,8 @@
 import { Router } from "express";
 import { registerUser } from "../controllers/user.controller.js";
-import body from 'express-validator'
+
+//early validation (helper)
+import {body} from 'express-validator'
 
 const router=Router();
 
