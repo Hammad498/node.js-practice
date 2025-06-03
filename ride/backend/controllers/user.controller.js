@@ -7,7 +7,7 @@ import { createUser } from "../services/user.services.js"
 
 ////register user with name ,email and password , if not exists then first create user then register 
 export const registerUser=async(req,res,next)=>{
-    
+
     const errors=validationResult(req);
     if(!errors.isEmpty()){
         res.status(400).json({
@@ -30,7 +30,7 @@ export const registerUser=async(req,res,next)=>{
 
     console.log('New user:', user);
 
-
+    //token associated with the user (who is currently logedin or registed---whenever a new user created a token of that user also created along with that user)
     const token=user.generateAuthToken();
 
     res.status(200).json({token,user,message:"Successfully registered!"})
