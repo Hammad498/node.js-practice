@@ -49,52 +49,53 @@ export const registerUser=async(req,res,next)=>{
 //////////////////////////
 
 
-export const loginUser=async(req,res)=>{
-    const error=validationResult(req);
-    if(!errors.isEmpty()){
-        res.status(400).json({
-            message:"Validation error:loginUser",
-            error
-        })
+
+
+export const loginUser = async (req, res) => {
+    const validationErrors = validationResult(req);
+    if (!validationErrors.isEmpty()) {
+        return res.status(400).json({
+            message: "Validation error: loginUser",
+            errors: validationErrors.array()
+        });
     }
 
     try {
-        const {email,password}=req.body;
+        const { email, password } = req.body;
 
-    const user=await userModel.findOne({email}).select('+password');
+        const user = await userModel.findOne({ email }).select('+password');
 
+        if (!user) {
+            return res.status(400).json({
+                message: "Invalid email or password!"
+            });
+        }
 
-    if(!user){
-        res.status(400).json({
-            message:"Invalid email or password!",
-            error
-        })
+        const isMatch = await user.comparePassword(password);
+
+        if (!isMatch) {
+            return res.status(401).json({
+                message: "Password not matched!"
+            });
+        }
+
+        const token = user.generateAuthToken();
+
+        return res.status(200).json({
+            token,
+            user,
+            message: "Successfully logged in!"
+        });
+
+    } catch (err) {
+        console.log("Login error:", err);
+        return res.status(500).json({
+            message: "Failed to log in the user",
+            error: err.message
+        });
     }
+};
 
-    const isMatch=await user.comparePassword(password);
-
-    if(!isMatch){
-        res.status(401).json({
-            message:"Password not matched!",
-            error
-        })
-    }
-
-    const token=user.generateAuthToken();
-
-    res.status(200).json({
-        token,user,
-        message:`Successfull in login!`,
-
-    })
-    } catch (error) {
-        console.log(error);
-        res.status(500).json({
-            message:"Failed to logedin the user",
-            error
-        })
-    }
-}
 
 
 

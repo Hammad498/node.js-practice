@@ -27,7 +27,10 @@ const userSchema=new Schema({
     },
     socketId:{
         type:String,
-    }
+    },
+    verified: { type: Boolean, default: false },
+    verifyToken: { type: String },
+    verifyTokenExpires: { type: Date },
 })
 
 
