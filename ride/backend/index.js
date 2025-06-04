@@ -6,19 +6,16 @@ import UserRouter from './routes/user.routes.js';
 
 dotenv.config();
 
-const app=express();
+const app = express();
 
 connectDB();
-app.use(express.json());
+
 app.use(cors());
-app.use(express.urlencoded({extended:true}));
-app.use("/api/v1",UserRouter)
+app.use(express.json()); 
+app.use(express.urlencoded({ extended: true }));
 
-app.get("/",(req,res)=>{
-    res.send('working!')
-})
+app.use("/api/v1", UserRouter);
 
-
-app.listen(3000,()=>{
-    console.log('server is successfully running!')
-})
+app.listen(3000, () => {
+    console.log('server is successfully running!');
+});
