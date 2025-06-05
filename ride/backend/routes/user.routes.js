@@ -1,7 +1,7 @@
 
 
 import { Router } from "express";
-import { registerUser, VerfiyEmail, loginUser,getUserProfile } from "../../backend/controllers/auth/auth.controller.js";
+import { registerUser, VerfiyEmail, loginUser,getUserProfile,logOut } from "../../backend/controllers/auth/auth.controller.js";
 import { registerValidation,loginValidation } from "../validation/authValidation.js";
 import { authUser } from "../middleware/auth.Middleware.js";
 import { handleValidationResult } from "../validation/validationResult.js";
@@ -18,6 +18,8 @@ router.post('/verifyEmail', VerfiyEmail);
 
 ///////for logedin_user
 router.get('/profile',authUser,getUserProfile);
+
+router.post('/logout',authUser,logOut);
 
 export default router;
 
