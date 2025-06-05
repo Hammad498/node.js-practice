@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { registerUser,loginUser } from "../controllers/user.controller.js";
+import { registerUser,loginUser,VerfiyEmail } from "../controllers/user.controller.js";
 import validator from 'express-validator';
 
 const { body } = validator;
@@ -19,4 +19,12 @@ router.post('/login', [
     loginUser
 ])
 
+router.post('/verifyEmail',VerfiyEmail)
+
+
+
+
+
+
 export default router;
+

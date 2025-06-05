@@ -18,6 +18,7 @@ const userSchema=new Schema({
     email:{
         type:String,
         required:true,
+        unique: true,
         minlength:[5,'Email must be at least 5 characters long!']
     },
     password:{
@@ -28,10 +29,22 @@ const userSchema=new Schema({
     socketId:{
         type:String,
     },
-    verified: { type: Boolean, default: false },
-    verifyToken: { type: String },
-    verifyTokenExpires: { type: Date },
-})
+    lastLogin:{
+        type:Date,
+        default:Date.now
+    },
+    isVerified:{
+        type:Boolean,
+        default:false,
+       
+    },
+   resetPasswordToken:String,
+    resetPasswordExpiresAt:Date,
+    
+    verificationToken: String,
+    verificationTokenExpiresAt: Date,
+
+},{timestamps:true})
 
 
 //token generation with jwt using secret key
