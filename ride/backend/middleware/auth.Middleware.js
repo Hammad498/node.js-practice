@@ -2,7 +2,7 @@
 
 
 import jwt from 'jsonwebtoken';
-import userModel from '../../models/users.model.js';
+import userModel from '../../backend/models/users.model.js';
 
 
 export const authUser = async (req, res, next) => {
@@ -24,7 +24,7 @@ export const authUser = async (req, res, next) => {
     const user = await userModel.findById(decoded._id).select("-password");
 
     if (!user) {
-      return res.status(404).json({ message: "User not found!" });
+      return res.status(404).json({ message: "User not found!" ,data:user});
     }
 
     

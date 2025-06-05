@@ -1,9 +1,10 @@
 
 
 import { Router } from "express";
-import { registerUser, verifyEmail, loginUser,getUserProfile,authUser } from "../controllers/main.controller.js";
+import { registerUser, VerfiyEmail, loginUser,getUserProfile } from "../../backend/controllers/auth/auth.controller.js";
 
-import { registerValidation,loginValidation } from "../controllers/validation/authValidation.js";
+import { registerValidation,loginValidation } from "../../backend/validation/authValidation.js";
+import { authUser } from "../middleware/auth.Middleware.js";
 
 const router = Router();
 
@@ -12,7 +13,7 @@ router.post('/register', registerValidation,registerUser);
 
 router.post('/login',loginValidation ,loginUser);
 
-router.post('/verifyEmail', verifyEmail);
+router.post('/verifyEmail', VerfiyEmail);
 
 
 ///////for logedin_user

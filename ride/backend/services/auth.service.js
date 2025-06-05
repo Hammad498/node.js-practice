@@ -11,6 +11,9 @@ export const registerNewUser = async ({ fullname, email, password }, res) => {
   const hashedPassword = await userModel.hashPassword(password);
   const verificationToken = Math.floor(100000 + Math.random() * 900000).toString();
 
+  console.log(` Verification code for ${email}: ${verificationToken}`);
+
+
   const newUser = new userModel({
     fullname,
     email,
