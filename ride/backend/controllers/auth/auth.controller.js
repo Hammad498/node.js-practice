@@ -1,4 +1,4 @@
-import { handleValidationResult } from "../../validation/validationResult.js";
+import { handleValidationResult } from "../../middleware/validation/validationResult.js";
 import {
   registerNewUser,
   verifyUserEmail,
@@ -6,32 +6,26 @@ import {
 } from "../../services/auth.service.js";
 
 /////////////////////// register ///////////////////////
-
 export const registerUser = async (req, res) => {
-  await handleValidationResult(req, res);
 
   try {
     const { fullname, email, password } = req.body;
     const { token, user } = await registerNewUser({ fullname, email, password }, res);
-    
 
     res.status(201).json({
       success: true,
       message: "User registered successfully.",
-      data: {
-        token,
-        user
-      }
+      data: { token, user }
     });
 
   } catch (error) {
-    console.error("Register error:", error.message);
     res.status(error.statusCode || 500).json({
       success: false,
       message: error.message || "Failed to register user."
     });
   }
 };
+
 
 ///////////////////////verify mit email ///////////////////////
 
@@ -58,7 +52,7 @@ export const VerfiyEmail = async (req, res) => {
 ///////////////////////login ///////////////////////
 
 export const loginUser = async (req, res) => {
-  await handleValidationResult(req, res);
+
 
   try {
     const { email, password } = req.body;
