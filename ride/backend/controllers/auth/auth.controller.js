@@ -1,4 +1,4 @@
-import { handleValidationResult } from "../../middleware/validation/validationResult.js";
+import { handleValidationResult } from "../../validation/validationResult.js";
 import {
   registerNewUser,
   verifyUserEmail,

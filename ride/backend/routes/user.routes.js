@@ -2,9 +2,9 @@
 
 import { Router } from "express";
 import { registerUser, VerfiyEmail, loginUser,getUserProfile } from "../../backend/controllers/auth/auth.controller.js";
-import { registerValidation,loginValidation } from "../middleware/validation/authValidation.js";
+import { registerValidation,loginValidation } from "../validation/authValidation.js";
 import { authUser } from "../middleware/auth.Middleware.js";
-import { handleValidationResult } from "../middleware/validation/validationResult.js";
+import { handleValidationResult } from "../validation/validationResult.js";
 
 const router = Router();
 
