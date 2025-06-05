@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { registerUser,loginUser,VerfiyEmail } from "../controllers/user.controller.js";
+import { registerUser,loginUser,VerfiyEmail } from "../controllers/auth.controller.js";
 import validator from 'express-validator';
 
 const { body } = validator;
