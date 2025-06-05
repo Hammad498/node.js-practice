@@ -45,7 +45,7 @@ export const registerNewUser = async ({ fullname, email, password }, res) => {
 
   await newUser.save();
 
-  // ✅ Use the res that was passed
+  
   generateTokenAndSetCookies(res, newUser._id);
 
   await sendVerificationEamil(email, verificationToken);
