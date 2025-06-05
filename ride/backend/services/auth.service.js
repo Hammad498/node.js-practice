@@ -3,31 +3,7 @@ import { sendVerificationEamil, senWelcomeEmail } from "../middleware/Email.js";
 import { generateTokenAndSetCookies } from "../middleware/GenerateToken.js";
 
 ////////////////////////////////////////////  Register
-// export const registerNewUser = async ({ fullname, email, password }) => {
-//   const existingUser = await userModel.findOne({ email });
-//   if (existingUser) throw new Error("User with this email already exists");
 
-//   const hashedPassword = await userModel.hashPassword(password);
-//   const verificationToken = Math.floor(100000 + Math.random() * 900000).toString();
-
-//   const newUser = new userModel({
-//     fullname,
-//     email,
-//     password: hashedPassword,
-//     verificationToken,
-//     verificationTokenExpiresAt: new Date(Date.now() + 24 * 60 * 60 * 1000),
-//   });
-
-//   await newUser.save();
-//   generateTokenAndSetCookies(res, newUser._id); // If you're not using this response, remove it
-//   await sendVerificationEamil(email, verificationToken);
-
-//   return {
-//     token: newUser.generateAuthToken(),
-//     user: newUser,
-//     message: "Successfully registered!",
-//   };
-// };
 export const registerNewUser = async ({ fullname, email, password }, res) => {
   const existingUser = await userModel.findOne({ email });
   if (existingUser) throw new Error("User with this email already exists");
