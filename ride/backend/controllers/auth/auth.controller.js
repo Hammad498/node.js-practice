@@ -1,9 +1,10 @@
-import { handleValidationResult } from "../../validation/validationResult.js";
+import blacklistModel from "../../models/blaclistToken.model.js";
 import {
   registerNewUser,
   verifyUserEmail,
   authenticateUser
 } from "../../services/auth.service.js";
+
 
 /////////////////////// register ///////////////////////
 export const registerUser = async (req, res) => {
@@ -90,15 +91,25 @@ export const getUserProfile = async (req, res) => {
 
 export const logOut=async(req,res)=>{
 
-    res.clearCookie("token",{
-        httpOnly:true,
-        secure:process.env.NODE_ENV === 'production',
-        sameSite:"strict",
-        
-    });
+    const token = req.cookies.token || req.headers.authorization?.split(" ")[1];
 
-    res.status(200).json({
-        success:true,
-        message:"Successfully deleted!",
-    })
+if (!token) {
+  return res.status(400).json({ message: "No token found" });
+}
+
+await blacklistModel.create({ token });
+
+res.clearCookie("token", {
+  httpOnly: true,
+  secure: process.env.NODE_ENV === "production",
+  sameSite: "strict"
+});
+
+res.status(200).json({
+  success: true,
+  message: "Successfully logged out!"
+});
+
+
+    
 }
